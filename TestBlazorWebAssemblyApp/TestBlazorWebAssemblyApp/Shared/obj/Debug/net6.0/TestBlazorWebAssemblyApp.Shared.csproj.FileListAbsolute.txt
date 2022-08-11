@@ -1,0 +1,12 @@
+C:\Users\berry\source\repos\TestBlazorWebAssemblyApp\TestBlazorWebAssemblyApp\Shared\bin\Debug\net6.0\TestBlazorWebAssemblyApp.Shared.deps.json
+C:\Users\berry\source\repos\TestBlazorWebAssemblyApp\TestBlazorWebAssemblyApp\Shared\bin\Debug\net6.0\TestBlazorWebAssemblyApp.Shared.dll
+C:\Users\berry\source\repos\TestBlazorWebAssemblyApp\TestBlazorWebAssemblyApp\Shared\bin\Debug\net6.0\TestBlazorWebAssemblyApp.Shared.pdb
+C:\Users\berry\source\repos\TestBlazorWebAssemblyApp\TestBlazorWebAssemblyApp\Shared\obj\Debug\net6.0\TestBlazorWebAssemblyApp.Shared.csproj.AssemblyReference.cache
+C:\Users\berry\source\repos\TestBlazorWebAssemblyApp\TestBlazorWebAssemblyApp\Shared\obj\Debug\net6.0\TestBlazorWebAssemblyApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berry\source\repos\TestBlazorWebAssemblyApp\TestBlazorWebAssemblyApp\Shared\obj\Debug\net6.0\TestBlazorWebAssemblyApp.Shared.AssemblyInfoInputs.cache
+C:\Users\berry\source\repos\TestBlazorWebAssemblyApp\TestBlazorWebAssemblyApp\Shared\obj\Debug\net6.0\TestBlazorWebAssemblyApp.Shared.AssemblyInfo.cs
+C:\Users\berry\source\repos\TestBlazorWebAssemblyApp\TestBlazorWebAssemblyApp\Shared\obj\Debug\net6.0\TestBlazorWebAssemblyApp.Shared.csproj.CoreCompileInputs.cache
+C:\Users\berry\source\repos\TestBlazorWebAssemblyApp\TestBlazorWebAssemblyApp\Shared\obj\Debug\net6.0\TestBlazorWebAssemblyApp.Shared.dll
+C:\Users\berry\source\repos\TestBlazorWebAssemblyApp\TestBlazorWebAssemblyApp\Shared\obj\Debug\net6.0\refint\TestBlazorWebAssemblyApp.Shared.dll
+C:\Users\berry\source\repos\TestBlazorWebAssemblyApp\TestBlazorWebAssemblyApp\Shared\obj\Debug\net6.0\TestBlazorWebAssemblyApp.Shared.pdb
+C:\Users\berry\source\repos\TestBlazorWebAssemblyApp\TestBlazorWebAssemblyApp\Shared\obj\Debug\net6.0\ref\TestBlazorWebAssemblyApp.Shared.dll
