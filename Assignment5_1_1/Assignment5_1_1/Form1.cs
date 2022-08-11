@@ -1,15 +1,19 @@
 namespace Assignment5_1_1
 {
-    public partial class Form1 : Form
+    public partial class Form1 : Form, ICalculator
     {
+        public decimal FirstValue { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+        public decimal SecondValue { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+
         public Form1()
         {
             InitializeComponent();
-
         }
         private void button1_Click(object sender, EventArgs e)
         {
-
+            decimal buttonOne = 1M;
+            textBox1.Text = buttonOne.ToString();
+            
         }
         private void button2_Click(object sender, EventArgs e)
         {
