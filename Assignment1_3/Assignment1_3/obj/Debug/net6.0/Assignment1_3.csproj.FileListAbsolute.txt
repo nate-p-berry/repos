@@ -1,0 +1,15 @@
+C:\Users\berry\source\repos\Assignment1_3\Assignment1_3\bin\Debug\net6.0\Assignment1_3.exe
+C:\Users\berry\source\repos\Assignment1_3\Assignment1_3\bin\Debug\net6.0\Assignment1_3.deps.json
+C:\Users\berry\source\repos\Assignment1_3\Assignment1_3\bin\Debug\net6.0\Assignment1_3.runtimeconfig.json
+C:\Users\berry\source\repos\Assignment1_3\Assignment1_3\bin\Debug\net6.0\Assignment1_3.dll
+C:\Users\berry\source\repos\Assignment1_3\Assignment1_3\bin\Debug\net6.0\Assignment1_3.pdb
+C:\Users\berry\source\repos\Assignment1_3\Assignment1_3\obj\Debug\net6.0\Assignment1_3.csproj.AssemblyReference.cache
+C:\Users\berry\source\repos\Assignment1_3\Assignment1_3\obj\Debug\net6.0\Assignment1_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berry\source\repos\Assignment1_3\Assignment1_3\obj\Debug\net6.0\Assignment1_3.AssemblyInfoInputs.cache
+C:\Users\berry\source\repos\Assignment1_3\Assignment1_3\obj\Debug\net6.0\Assignment1_3.AssemblyInfo.cs
+C:\Users\berry\source\repos\Assignment1_3\Assignment1_3\obj\Debug\net6.0\Assignment1_3.csproj.CoreCompileInputs.cache
+C:\Users\berry\source\repos\Assignment1_3\Assignment1_3\obj\Debug\net6.0\Assignment1_3.dll
+C:\Users\berry\source\repos\Assignment1_3\Assignment1_3\obj\Debug\net6.0\refint\Assignment1_3.dll
+C:\Users\berry\source\repos\Assignment1_3\Assignment1_3\obj\Debug\net6.0\Assignment1_3.pdb
+C:\Users\berry\source\repos\Assignment1_3\Assignment1_3\obj\Debug\net6.0\Assignment1_3.genruntimeconfig.cache
+C:\Users\berry\source\repos\Assignment1_3\Assignment1_3\obj\Debug\net6.0\ref\Assignment1_3.dll

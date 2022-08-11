@@ -1,0 +1,5 @@
+C:\Users\berry\source\repos\Assignment5_1\Assignment5_1\obj\Debug\Assignment5_1.csproj.AssemblyReference.cache
+C:\Users\berry\source\repos\Assignment5_1\Assignment5_1\obj\Debug\Assignment5_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\berry\source\repos\Assignment5_1\Assignment5_1\obj\Debug\Assignment5_1.Properties.Resources.resources
+C:\Users\berry\source\repos\Assignment5_1\Assignment5_1\obj\Debug\Assignment5_1.csproj.GenerateResource.cache
+C:\Users\berry\source\repos\Assignment5_1\Assignment5_1\obj\Debug\Assignment5_1.csproj.CoreCompileInputs.cache
