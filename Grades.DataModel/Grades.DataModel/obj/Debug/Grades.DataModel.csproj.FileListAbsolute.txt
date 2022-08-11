@@ -1,0 +1,12 @@
+C:\Users\berry\source\repos\Grades.DataModel\Grades.DataModel\bin\Debug\Grades.DataModel.dll.config
+C:\Users\berry\source\repos\Grades.DataModel\Grades.DataModel\bin\Debug\Grades.DataModel.dll
+C:\Users\berry\source\repos\Grades.DataModel\Grades.DataModel\bin\Debug\Grades.DataModel.pdb
+C:\Users\berry\source\repos\Grades.DataModel\Grades.DataModel\bin\Debug\EntityFramework.dll
+C:\Users\berry\source\repos\Grades.DataModel\Grades.DataModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\berry\source\repos\Grades.DataModel\Grades.DataModel\bin\Debug\EntityFramework.xml
+C:\Users\berry\source\repos\Grades.DataModel\Grades.DataModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\berry\source\repos\Grades.DataModel\Grades.DataModel\obj\Debug\Grades.DataModel.csproj.AssemblyReference.cache
+C:\Users\berry\source\repos\Grades.DataModel\Grades.DataModel\obj\Debug\Grades.DataModel.csproj.CoreCompileInputs.cache
+C:\Users\berry\source\repos\Grades.DataModel\Grades.DataModel\obj\Debug\Grades.DataModel.csproj.CopyComplete
+C:\Users\berry\source\repos\Grades.DataModel\Grades.DataModel\obj\Debug\Grades.DataModel.dll
+C:\Users\berry\source\repos\Grades.DataModel\Grades.DataModel\obj\Debug\Grades.DataModel.pdb
