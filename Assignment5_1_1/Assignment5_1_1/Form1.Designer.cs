@@ -40,8 +40,8 @@
             this.button8 = new System.Windows.Forms.Button();
             this.button9 = new System.Windows.Forms.Button();
             this.button10 = new System.Windows.Forms.Button();
-            this.button11 = new System.Windows.Forms.Button();
-            this.button12 = new System.Windows.Forms.Button();
+            this.buttonClear = new System.Windows.Forms.Button();
+            this.buttonEquals = new System.Windows.Forms.Button();
             this.button13 = new System.Windows.Forms.Button();
             this.button14 = new System.Windows.Forms.Button();
             this.button15 = new System.Windows.Forms.Button();
@@ -58,8 +58,10 @@
             // 
             // textBox1
             // 
+            this.textBox1.AcceptsTab = true;
             resources.ApplyResources(this.textBox1, "textBox1");
             this.textBox1.Name = "textBox1";
+            this.textBox1.ReadOnly = true;
             // 
             // button2
             // 
@@ -132,21 +134,21 @@
             this.button10.Name = "button10";
             this.button10.UseVisualStyleBackColor = true;
             // 
-            // button11
+            // buttonClear
             // 
-            resources.ApplyResources(this.button11, "button11");
-            this.button11.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
-            this.button11.Name = "button11";
-            this.button11.UseVisualStyleBackColor = true;
-            this.button11.Click += new System.EventHandler(this.buttonClear_Click);
+            resources.ApplyResources(this.buttonClear, "buttonClear");
+            this.buttonClear.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
+            this.buttonClear.Name = "buttonClear";
+            this.buttonClear.UseVisualStyleBackColor = true;
+            this.buttonClear.Click += new System.EventHandler(this.buttonClear_Click);
             // 
-            // button12
+            // buttonEquals
             // 
-            resources.ApplyResources(this.button12, "button12");
-            this.button12.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
-            this.button12.Name = "button12";
-            this.button12.UseVisualStyleBackColor = true;
-            this.button12.Click += new System.EventHandler(this.buttonEquals_Click);
+            resources.ApplyResources(this.buttonEquals, "buttonEquals");
+            this.buttonEquals.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
+            this.buttonEquals.Name = "buttonEquals";
+            this.buttonEquals.UseVisualStyleBackColor = true;
+            this.buttonEquals.Click += new System.EventHandler(this.buttonEquals_Click);
             // 
             // button13
             // 
@@ -184,13 +186,13 @@
             // 
             resources.ApplyResources(this, "$this");
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.BackColor = System.Drawing.SystemColors.GradientInactiveCaption;
             this.Controls.Add(this.button16);
             this.Controls.Add(this.button15);
             this.Controls.Add(this.button14);
             this.Controls.Add(this.button13);
-            this.Controls.Add(this.button12);
-            this.Controls.Add(this.button11);
+            this.Controls.Add(this.buttonEquals);
+            this.Controls.Add(this.buttonClear);
             this.Controls.Add(this.button10);
             this.Controls.Add(this.button9);
             this.Controls.Add(this.button8);
@@ -202,7 +204,7 @@
             this.Controls.Add(this.button2);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.button1);
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.ForeColor = System.Drawing.SystemColors.ControlText;
             this.Name = "Form1";
             this.Opacity = 0.85D;
             this.ResumeLayout(false);
@@ -223,8 +225,8 @@
         private Button button8;
         private Button button9;
         private Button button10;
-        private Button button11;
-        private Button button12;
+        private Button buttonClear;
+        private Button buttonEquals;
         private Button button13;
         private Button button14;
         private Button button15;

@@ -70,17 +70,19 @@
   <data name="textBox1.Font" type="System.Drawing.Font, System.Drawing">
     <value>Segoe UI, 36pt, style=Bold</value>
   </data>
-  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="textBox1.Multiline" type="System.Boolean, mscorlib">
-    <value>True</value>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="textBox1.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
+    <value>Yes</value>
   </data>
   <data name="textBox1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>285, 84</value>
+    <value>291, 71</value>
+  </data>
+  <data name="textBox1.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Right</value>
   </data>
   <data name="button2.Font" type="System.Drawing.Font, System.Drawing">
     <value>Segoe UI, 21.75pt, style=Bold</value>
   </data>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="button2.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
@@ -90,6 +92,7 @@
   <data name="button2.Size" type="System.Drawing.Size, System.Drawing">
     <value>75, 75</value>
   </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="button2.TabIndex" type="System.Int32, mscorlib">
     <value>17</value>
   </data>
@@ -240,40 +243,28 @@
   <data name="button10.Text" xml:space="preserve">
     <value>0</value>
   </data>
-  <data name="button11.Font" type="System.Drawing.Font, System.Drawing">
+  <data name="buttonClear.Font" type="System.Drawing.Font, System.Drawing">
     <value>Segoe UI, 21.75pt, style=Bold</value>
   </data>
-  <data name="button11.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+  <data name="buttonClear.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
-  <data name="button11.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 345</value>
-  </data>
-  <data name="button11.Size" type="System.Drawing.Size, System.Drawing">
+  <data name="buttonClear.Size" type="System.Drawing.Size, System.Drawing">
     <value>75, 75</value>
   </data>
-  <data name="button11.TabIndex" type="System.Int32, mscorlib">
-    <value>26</value>
-  </data>
-  <data name="button11.Text" xml:space="preserve">
+  <data name="buttonClear.Text" xml:space="preserve">
     <value>C</value>
   </data>
-  <data name="button12.Font" type="System.Drawing.Font, System.Drawing">
+  <data name="buttonEquals.Font" type="System.Drawing.Font, System.Drawing">
     <value>Segoe UI, 21.75pt, style=Bold</value>
   </data>
-  <data name="button12.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+  <data name="buttonEquals.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
-  <data name="button12.Location" type="System.Drawing.Point, System.Drawing">
-    <value>154, 345</value>
-  </data>
-  <data name="button12.Size" type="System.Drawing.Size, System.Drawing">
+  <data name="buttonEquals.Size" type="System.Drawing.Size, System.Drawing">
     <value>75, 75</value>
   </data>
-  <data name="button12.TabIndex" type="System.Int32, mscorlib">
-    <value>27</value>
-  </data>
-  <data name="button12.Text" xml:space="preserve">
+  <data name="buttonEquals.Text" xml:space="preserve">
     <value>=</value>
   </data>
   <data name="button13.Font" type="System.Drawing.Font, System.Drawing">
@@ -350,5 +341,11 @@
   </data>
   <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
     <value>315, 440</value>
+  </data>
+  <data name="$this.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>331, 479</value>
+  </data>
+  <data name="$this.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
+    <value>No</value>
   </data>
 </root>
