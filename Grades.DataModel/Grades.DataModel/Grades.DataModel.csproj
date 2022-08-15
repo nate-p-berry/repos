@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{385FF0A9-48DB-4014-B928-07B1635209FF}</ProjectGuid>
+    <ProjectGuid>{7BF5936A-4004-4EB5-84FF-664C37EB44C5}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Grades.DataModel</RootNamespace>
@@ -52,17 +52,22 @@
   <ItemGroup>
     <Compile Include="Class1.cs" />
     <Compile Include="Grade.cs">
-      <DependentUpon>Model1.tt</DependentUpon>
+      <DependentUpon>GradesModel.tt</DependentUpon>
     </Compile>
-    <Compile Include="Model1.Context.cs">
+    <Compile Include="GradesModel.Context.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
-      <DependentUpon>Model1.Context.tt</DependentUpon>
+      <DependentUpon>GradesModel.Context.tt</DependentUpon>
     </Compile>
-    <Compile Include="Model1.cs">
+    <Compile Include="GradesModel.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
-      <DependentUpon>Model1.tt</DependentUpon>
+      <DependentUpon>GradesModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="GradesModel.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GradesModel.edmx</DependentUpon>
     </Compile>
     <Compile Include="Model1.Designer.cs">
       <AutoGen>True</AutoGen>
@@ -71,16 +76,16 @@
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Student.cs">
-      <DependentUpon>Model1.tt</DependentUpon>
+      <DependentUpon>GradesModel.tt</DependentUpon>
     </Compile>
     <Compile Include="Subject.cs">
-      <DependentUpon>Model1.tt</DependentUpon>
+      <DependentUpon>GradesModel.tt</DependentUpon>
     </Compile>
     <Compile Include="Teacher.cs">
-      <DependentUpon>Model1.tt</DependentUpon>
+      <DependentUpon>GradesModel.tt</DependentUpon>
     </Compile>
     <Compile Include="User.cs">
-      <DependentUpon>Model1.tt</DependentUpon>
+      <DependentUpon>GradesModel.tt</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
@@ -91,21 +96,28 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.Config" />
+    <EntityDeploy Include="GradesModel.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>GradesModel.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="GradesModel.edmx.diagram">
+      <DependentUpon>GradesModel.edmx</DependentUpon>
+    </None>
     <None Include="Model1.edmx.diagram">
       <DependentUpon>Model1.edmx</DependentUpon>
     </None>
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Model1.Context.tt">
+    <Content Include="GradesModel.Context.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
-      <LastGenOutput>Model1.Context.cs</LastGenOutput>
-      <DependentUpon>Model1.edmx</DependentUpon>
+      <LastGenOutput>GradesModel.Context.cs</LastGenOutput>
+      <DependentUpon>GradesModel.edmx</DependentUpon>
     </Content>
-    <Content Include="Model1.tt">
+    <Content Include="GradesModel.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
-      <DependentUpon>Model1.edmx</DependentUpon>
-      <LastGenOutput>Model1.cs</LastGenOutput>
+      <DependentUpon>GradesModel.edmx</DependentUpon>
+      <LastGenOutput>GradesModel.cs</LastGenOutput>
     </Content>
   </ItemGroup>
   <ItemGroup>

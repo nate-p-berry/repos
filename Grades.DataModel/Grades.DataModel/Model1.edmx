@@ -152,7 +152,7 @@
           <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
           <Property Name="Assessment" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
           <Property Name="Comments" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
-          <Property Name="AssessmentDate" Type="DateTime" Nullable="false" Precision="3" />
+          <Property Name="AssessmentDate" Type="DateTime" Nullable="false" />
           <Property Name="SubjectId" Type="Int32" Nullable="false" />
           <Property Name="StudentUserId" Type="Guid" Nullable="false" />
           <NavigationProperty Name="Student" Relationship="Self.FK_StudentGrade" FromRole="Grades" ToRole="Students" />
@@ -198,7 +198,7 @@
           <Property Name="UserId" Type="Guid" Nullable="false" />
           <Property Name="UserName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
           <Property Name="IsAnonymous" Type="Boolean" Nullable="false" />
-          <Property Name="LastActivityDate" Type="DateTime" Nullable="false" Precision="3" />
+          <Property Name="LastActivityDate" Type="DateTime" Nullable="false" />
           <Property Name="UserPassword" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
           <NavigationProperty Name="Student" Relationship="Self.FK_Students_diameterUsers" FromRole="Users" ToRole="Students" />
           <NavigationProperty Name="Teacher" Relationship="Self.FK_Teachers_diameterUsers" FromRole="Users" ToRole="Teachers" />
@@ -366,7 +366,6 @@
         <DesignerProperty Name="EnablePluralization" Value="true" />
         <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
         <DesignerProperty Name="UseLegacyProvider" Value="false" />
-        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
       </DesignerInfoPropertySet>
     </Options>
     <!-- Diagram content (shape and connector positions) -->
