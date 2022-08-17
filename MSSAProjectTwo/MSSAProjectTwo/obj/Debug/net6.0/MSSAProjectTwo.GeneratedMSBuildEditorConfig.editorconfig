@@ -19,6 +19,10 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/berry/source/repos/MSSAProjectTwo/MSSAProjectTwo/Pages/Brokerages.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQnJva2VyYWdlcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/berry/source/repos/MSSAProjectTwo/MSSAProjectTwo/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
@@ -27,8 +31,12 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/berry/source/repos/MSSAProjectTwo/MSSAProjectTwo/Pages/Index.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+[C:/Users/berry/source/repos/MSSAProjectTwo/MSSAProjectTwo/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berry/source/repos/MSSAProjectTwo/MSSAProjectTwo/Pages/News.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTmV3cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/berry/source/repos/MSSAProjectTwo/MSSAProjectTwo/Shared/LoginDisplay.razor]
