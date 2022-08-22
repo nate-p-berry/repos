@@ -21,8 +21,19 @@ namespace Assignment5_2
     {
         public PersonGrid()
         {
-            InitializeComponent();
-            
+            PeopleDictionary pairs = new();
+            DataGrid dataGrid = new();
+            foreach (var person in pairs)
+            {
+                dataGrid.Items.Add(person);
+            }
+            if (pairs.Count == 0)
+            {
+                MessageBox.Show("Null List", "No one has been added to our registry yet.", MessageBoxButton.OK, MessageBoxImage.Error);
+            } else
+            {
+                InitializeComponent();
+            }
         }
     }
 }

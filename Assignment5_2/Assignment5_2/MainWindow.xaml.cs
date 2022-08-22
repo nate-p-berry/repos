@@ -23,7 +23,8 @@ namespace Assignment5_2
         public MainWindow()
         {
             InitializeComponent();
-        }
+            
+    }
 
         private void Show_People_Click(object sender, RoutedEventArgs e)
         {

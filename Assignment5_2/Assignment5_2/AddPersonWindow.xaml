@@ -7,16 +7,17 @@
         mc:Ignorable="d"
         Title="Add Person" Height="450" Width="250">
     <Grid>
-        <TextBox x:Name="txtFirstName" HorizontalAlignment="Center" Margin="0,50,0,0" TextWrapping="Wrap" TextAlignment="Center" VerticalAlignment="Top" Width="120" TextChanged="OnTextChanged">
-            <TextBox.Background>
-                <ImageBrush ImageSource="TextBoxBackground.gif" AlignmentX="Center" Stretch="None" />
-            </TextBox.Background>
-        </TextBox>
-        <TextBox x:Name="txtLastName" HorizontalAlignment="Center" Margin="0,100,0,0" TextWrapping="Wrap" Text="Last Name" TextAlignment="Center" VerticalAlignment="Top" Width="120"/>
-        <TextBox x:Name="txtMobileNumber" HorizontalAlignment="Center" Margin="0,150,0,0" TextWrapping="Wrap" Text="Mobile Number" TextAlignment="Center" VerticalAlignment="Top" Width="120"/>
-        <TextBox x:Name="txtWorkNumber" HorizontalAlignment="Center" Margin="0,200,0,0" TextWrapping="Wrap" Text="Work Number" TextAlignment="Center" VerticalAlignment="Top" Width="120"/>
-        <TextBox x:Name="txtAddress" HorizontalAlignment="Center" Margin="0,250,0,0" TextWrapping="Wrap" Text="Address" TextAlignment="Center" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtLastName" HorizontalAlignment="Left" Margin="100,99,0,0" TextWrapping="Wrap" TextAlignment="Center" VerticalAlignment="Top" Width="120" BorderThickness="1,1,1,1" ClipToBounds="True"/>
+        <TextBox x:Name="txtMobileNumber" HorizontalAlignment="Left" Margin="100,149,0,0" TextWrapping="Wrap" TextAlignment="Center" VerticalAlignment="Top" Width="120" BorderThickness="1,1,1,1" ClipToBounds="True"/>
+        <TextBox x:Name="txtWorkNumber" HorizontalAlignment="Left" Margin="100,199,0,0" TextWrapping="Wrap" TextAlignment="Center" VerticalAlignment="Top" Width="120" BorderThickness="1,1,1,1" ClipToBounds="True"/>
+        <TextBox x:Name="txtAddress" HorizontalAlignment="Left" Margin="100,249,0,0" TextWrapping="Wrap" TextAlignment="Center" VerticalAlignment="Top" Width="120" BorderThickness="1,1,1,1" ClipToBounds="True"/>
         <Button Content="Add" HorizontalAlignment="Left" Height="80" Margin="80,300,0,0" VerticalAlignment="Top" Width="80" Click="AddPersonButton_Click"/>
+        <TextBox x:Name="txtFirstName" HorizontalAlignment="Left" Height="19" Margin="100,43,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextAlignment="Center" AcceptsReturn="True" MaxLines="1" BorderThickness="1,1,1,1" ClipToBounds="True"/>
+        <Label Content="Last Name:" HorizontalAlignment="Left" Margin="10,93,0,0" VerticalAlignment="Top" Width="83" Height="29"/>
+        <Label Content="First Name:" HorizontalAlignment="Left" Margin="10,38,0,0" VerticalAlignment="Top" Width="83" Height="29"/>
+        <Label Content="Mobile #:" HorizontalAlignment="Left" Margin="10,143,0,0" VerticalAlignment="Top" Width="83" Height="29"/>
+        <Label Content="Work #:" HorizontalAlignment="Left" Margin="10,193,0,0" VerticalAlignment="Top" Width="83" Height="29"/>
+        <Label Content="Address:" HorizontalAlignment="Left" Margin="10,240,0,0" VerticalAlignment="Top" Width="83" Height="29"/>
     </Grid>
 
 </Window>

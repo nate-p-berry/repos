@@ -7,13 +7,13 @@
         mc:Ignorable="d"
         Title="PersonGrid" Height="450" Width="800">
     <Grid>
-        <DataGrid d:ItemsSource="{d:SampleData ItemCount=0}">
+        <DataGrid d:ItemsSource="{ Binding Source= People.peopleDictionary}">
             <DataGrid.Columns>
-                <DataGridTextColumn x:Name="First_Name" Header="First Name" Width="*" CanUserResize="False"/>
-                <DataGridTextColumn x:Name="Last_Name" Header="Last Name" Width="*" CanUserResize="False"/>
-                <DataGridTextColumn x:Name="Mobile_Phone" Header="Mobile Number" Width="*" CanUserResize="False"/>
-                <DataGridTextColumn x:Name="Work_Phone" Header="Work Number" Width="*" CanUserResize="False"/>
-                <DataGridTextColumn x:Name="Address" Header="Address" Width="2*" CanUserResize="False"/>
+                <DataGridTextColumn x:Name="First_Name" Header="First Name" Width="*" Binding="{Binding Key}" CanUserResize="False"/>
+                <DataGridTextColumn x:Name="Last_Name" Header="Last Name" Width="*" Binding="{Binding Key}" CanUserResize="False"/>
+                <DataGridTextColumn x:Name="Mobile_Phone" Header="Mobile Number" Width="*" Binding="{Binding Key}" CanUserResize="False"/>
+                <DataGridTextColumn x:Name="Work_Phone" Header="Work Number" Width="*" Binding="{Binding Key}" CanUserResize="False"/>
+                <DataGridTextColumn x:Name="Address" Header="Address" Width="2*" Binding="{Binding Key}" CanUserResize="False"/>
                 <DataGridTextColumn/>
             </DataGrid.Columns>
         </DataGrid>

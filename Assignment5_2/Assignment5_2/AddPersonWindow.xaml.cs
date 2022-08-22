@@ -23,25 +23,10 @@ namespace Assignment5_2
         {
             InitializeComponent();
         }
-        partial void OnTextChanged(object sender, TextChangedEventArgs e);
-/*        {
-            if (txtFirstName.Text == "")
-            {
-                ImageBrush textImageBrush = new();
-                textImageBrush.ImageSource = new BitmapImage(new Uri(@"TextBoxBackground.gif", UriKind.Relative));
-                textImageBrush.AlignmentX = AlignmentX.Center;
-                textImageBrush.Stretch = Stretch.None;
-                txtFirstName.Background = textImageBrush;
-            }
-            else
-            {
-                txtFirstName.Background = null;
-            }
-        }*/
 
         internal void AddPersonButton_Click(object sender, RoutedEventArgs e)
         {
-            People person = new()
+            Person person = new()
             {
                 FirstName = Convert.ToString(txtFirstName),
                 LastName = Convert.ToString(txtLastName),
@@ -49,8 +34,8 @@ namespace Assignment5_2
                 WorkNumber = Convert.ToString(txtWorkNumber),
                 Address = Convert.ToString(txtAddress)
             };
-            People.peopleDictionary.Add(person.FirstName+person.LastName,person);
             
+            this.Close();
         }
     }
 }
