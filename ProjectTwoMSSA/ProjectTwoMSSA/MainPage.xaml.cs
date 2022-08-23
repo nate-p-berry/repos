@@ -7,7 +7,8 @@ public partial class MainPage : ContentPage
 	public MainPage()
 	{
 		InitializeComponent();
-	}
+        string requestBase = "https://financialmodelingprep.com/api/v3/";
+    }
 
 	private void OnCounterClicked(object sender, EventArgs e)
 	{

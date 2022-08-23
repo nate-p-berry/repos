@@ -1,6 +1,6 @@
 ﻿namespace ProjectTwoMSSA;
 
-public static class MauiProgram
+public static class MauiProgram // This is your startup project and the "Main show" for this program.
 {
 	public static MauiApp CreateMauiApp()
 	{
