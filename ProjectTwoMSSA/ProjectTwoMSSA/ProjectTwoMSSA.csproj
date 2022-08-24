@@ -49,6 +49,10 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <None Remove="Resources\Images\qc_logo_resize.png" />
+	</ItemGroup>
+
+	<ItemGroup>
 	  <OpenApiReference Include="OpenAPIs\.json" CodeGenerator="NSwagCSharp" Namespace="FinModelPrepResources" ClassName="FinModelPrepResource">
 	    <SourceUri>https://financialmodelingprep.com/</SourceUri>
 	  </OpenApiReference>
@@ -68,7 +72,9 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <Folder Include="1-ViewResources\" />
+	  <MauiXaml Update="1-ViewResources\NewsPage.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
 	</ItemGroup>
 
 </Project>

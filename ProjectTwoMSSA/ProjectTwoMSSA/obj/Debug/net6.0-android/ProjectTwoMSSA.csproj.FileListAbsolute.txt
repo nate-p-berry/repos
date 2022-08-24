@@ -1013,3 +1013,4 @@ C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\obj\Debug\net6.0-andro
 C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\obj\Debug\net6.0-android\resizetizer\r\drawable-xxxhdpi\logo_symbol.png
 C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\obj\Debug\net6.0-android\android\assets\CommunityToolkit.Mvvm.dll
 C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\obj\Debug\net6.0-android\android\assets\CommunityToolkit.Mvvm.pdb
+C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\obj\Debug\net6.0-android\resizetizer\r\drawable\qc_logo_resize.png

@@ -271,3 +271,4 @@ C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\obj\Debug\net6.0-ios\i
 C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\logo_symbol.png
 C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\logo_symbol@2x.png
 C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\logo_symbol@3x.png
+C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\Resources\qc_logo_resize.png

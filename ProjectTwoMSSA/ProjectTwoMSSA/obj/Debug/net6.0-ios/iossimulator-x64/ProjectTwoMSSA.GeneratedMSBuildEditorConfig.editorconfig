@@ -9,6 +9,12 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ProjectTwoMSSA
 build_property.ProjectDir = C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\
 
+[C:/Users/berry/source/repos/ProjectTwoMSSA/ProjectTwoMSSA/1-ViewResources/NewsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProjectTwoMSSA._1_ViewResources.NewsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = 1-ViewResources\NewsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = 1-ViewResources\NewsPage.xaml
+
 [C:/Users/berry/source/repos/ProjectTwoMSSA/ProjectTwoMSSA/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ProjectTwoMSSA.App.xaml

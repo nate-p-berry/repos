@@ -29,13 +29,13 @@
     <AppXManifest Include="C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-08-24T20:52:33.858</Modified>
+      <Modified>2022-08-24T21:49:50.341</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2022-08-24T20:52:33.423</Modified>
+      <Modified>2022-08-24T21:40:38.514</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\ProjectTwoMSSA.runtimeconfig.json">
       <PackagePath>ProjectTwoMSSA.runtimeconfig.json</PackagePath>
@@ -43,11 +43,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\ProjectTwoMSSA.dll">
       <PackagePath>ProjectTwoMSSA.dll</PackagePath>
-      <Modified>2022-08-24T20:52:31.623</Modified>
+      <Modified>2022-08-24T21:49:48.830</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>ProjectTwoMSSA.exe</PackagePath>
-      <Modified>2022-08-24T20:52:31.710</Modified>
+      <Modified>2022-08-24T21:49:48.854</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\berry\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.8\runtimes\win-x64\lib\net6.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -1071,7 +1071,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\ProjectTwoMSSA.deps.json">
       <PackagePath>ProjectTwoMSSA.deps.json</PackagePath>
-      <Modified>2022-08-24T20:52:33.682</Modified>
+      <Modified>2022-08-24T21:49:50.137</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\6.0.486\ref\net6.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
@@ -1119,187 +1119,191 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2022-08-24T17:08:36.052</Modified>
+      <Modified>2022-08-24T21:16:17.940</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2022-08-24T17:08:36.310</Modified>
+      <Modified>2022-08-24T21:16:18.492</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2022-08-24T17:08:36.323</Modified>
+      <Modified>2022-08-24T21:16:18.510</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2022-08-24T17:08:36.336</Modified>
+      <Modified>2022-08-24T21:16:18.548</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2022-08-24T17:08:36.367</Modified>
+      <Modified>2022-08-24T21:16:18.577</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2022-08-24T17:08:36.450</Modified>
+      <Modified>2022-08-24T21:16:18.694</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2022-08-24T17:08:36.065</Modified>
+      <Modified>2022-08-24T21:16:17.958</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2022-08-24T17:08:36.070</Modified>
+      <Modified>2022-08-24T21:16:17.970</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2022-08-24T17:08:36.073</Modified>
+      <Modified>2022-08-24T21:16:17.976</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2022-08-24T17:08:36.077</Modified>
+      <Modified>2022-08-24T21:16:17.983</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2022-08-24T17:08:36.082</Modified>
+      <Modified>2022-08-24T21:16:17.993</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2022-08-24T17:08:36.169</Modified>
+      <Modified>2022-08-24T21:16:18.160</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2022-08-24T17:08:36.177</Modified>
+      <Modified>2022-08-24T21:16:18.215</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2022-08-24T17:08:36.184</Modified>
+      <Modified>2022-08-24T21:16:18.250</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2022-08-24T17:08:36.195</Modified>
+      <Modified>2022-08-24T21:16:18.284</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2022-08-24T17:08:36.218</Modified>
+      <Modified>2022-08-24T21:16:18.314</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2022-08-24T17:08:36.117</Modified>
+      <Modified>2022-08-24T21:16:18.071</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2022-08-24T17:08:36.124</Modified>
+      <Modified>2022-08-24T21:16:18.074</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2022-08-24T17:08:36.129</Modified>
+      <Modified>2022-08-24T21:16:18.077</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2022-08-24T17:08:36.137</Modified>
+      <Modified>2022-08-24T21:16:18.084</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2022-08-24T17:08:36.157</Modified>
+      <Modified>2022-08-24T21:16:18.142</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2022-08-24T17:08:36.087</Modified>
+      <Modified>2022-08-24T21:16:18.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2022-08-24T17:08:36.092</Modified>
+      <Modified>2022-08-24T21:16:18.006</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2022-08-24T17:08:36.096</Modified>
+      <Modified>2022-08-24T21:16:18.010</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2022-08-24T17:08:36.102</Modified>
+      <Modified>2022-08-24T21:16:18.056</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2022-08-24T17:08:36.114</Modified>
+      <Modified>2022-08-24T21:16:18.064</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2022-08-24T17:08:36.226</Modified>
+      <Modified>2022-08-24T21:16:18.326</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2022-08-24T17:08:36.232</Modified>
+      <Modified>2022-08-24T21:16:18.342</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2022-08-24T17:08:36.246</Modified>
+      <Modified>2022-08-24T21:16:18.365</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2022-08-24T17:08:36.263</Modified>
+      <Modified>2022-08-24T21:16:18.392</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2022-08-24T17:08:36.296</Modified>
+      <Modified>2022-08-24T21:16:18.470</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2022-08-24T17:08:36.016</Modified>
+      <Modified>2022-08-24T21:16:17.842</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2022-08-24T17:08:36.028</Modified>
+      <Modified>2022-08-24T21:16:17.859</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2022-08-24T17:08:36.055</Modified>
+      <Modified>2022-08-24T21:16:17.901</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2022-08-24T17:08:36.075</Modified>
+      <Modified>2022-08-24T21:16:17.951</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2022-08-24T17:08:36.147</Modified>
+      <Modified>2022-08-24T21:16:18.083</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo_name.scale-100.png">
       <PackagePath>logo_name.scale-100.png</PackagePath>
-      <Modified>2022-08-24T17:08:36.024</Modified>
+      <Modified>2022-08-24T21:16:17.845</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo_name.scale-125.png">
       <PackagePath>logo_name.scale-125.png</PackagePath>
-      <Modified>2022-08-24T17:08:36.052</Modified>
+      <Modified>2022-08-24T21:16:17.897</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo_name.scale-150.png">
       <PackagePath>logo_name.scale-150.png</PackagePath>
-      <Modified>2022-08-24T17:08:36.091</Modified>
+      <Modified>2022-08-24T21:16:17.986</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo_name.scale-200.png">
       <PackagePath>logo_name.scale-200.png</PackagePath>
-      <Modified>2022-08-24T17:08:36.173</Modified>
+      <Modified>2022-08-24T21:16:18.174</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo_name.scale-400.png">
       <PackagePath>logo_name.scale-400.png</PackagePath>
-      <Modified>2022-08-24T17:08:36.428</Modified>
+      <Modified>2022-08-24T21:16:18.678</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo_symbol.scale-100.png">
       <PackagePath>logo_symbol.scale-100.png</PackagePath>
-      <Modified>2022-08-24T17:08:36.026</Modified>
+      <Modified>2022-08-24T21:16:17.851</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo_symbol.scale-125.png">
       <PackagePath>logo_symbol.scale-125.png</PackagePath>
-      <Modified>2022-08-24T17:08:36.061</Modified>
+      <Modified>2022-08-24T21:16:17.942</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo_symbol.scale-150.png">
       <PackagePath>logo_symbol.scale-150.png</PackagePath>
-      <Modified>2022-08-24T17:08:36.110</Modified>
+      <Modified>2022-08-24T21:16:18.059</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo_symbol.scale-200.png">
       <PackagePath>logo_symbol.scale-200.png</PackagePath>
-      <Modified>2022-08-24T17:08:36.212</Modified>
+      <Modified>2022-08-24T21:16:18.242</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo_symbol.scale-400.png">
       <PackagePath>logo_symbol.scale-400.png</PackagePath>
-      <Modified>2022-08-24T17:08:36.484</Modified>
+      <Modified>2022-08-24T21:16:18.724</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\qc_logo_resize.scale-100.png">
+      <PackagePath>qc_logo_resize.scale-100.png</PackagePath>
+      <Modified>2022-08-24T21:14:56.169</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
