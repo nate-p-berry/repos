@@ -7,8 +7,16 @@
     Shell.FlyoutBehavior="Disabled">
 
     <ShellContent
-        Title="Home"
+        Title="Quantum Capital"
         ContentTemplate="{DataTemplate local:MainPage}"
-        Route="MainPage" />
+        Route="MainPage">
+        <HorizontalStackLayout Padding="10">
+            <Image
+                Source="logo_symbol.png"/>
+            <Image
+                Source="logo_name.png"/>
+        </HorizontalStackLayout>
+        
+    </ShellContent>
 
 </Shell>

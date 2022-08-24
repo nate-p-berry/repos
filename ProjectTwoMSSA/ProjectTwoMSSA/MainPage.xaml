@@ -7,13 +7,18 @@
         <VerticalStackLayout
             Spacing="25"
             Padding="30,0"
-            VerticalOptions="Center">
+            VerticalOptions="Start"
+            HorizontalOptions="Start">
 
-            <Image
-                Source="dotnet_bot.png"
-                SemanticProperties.Description="Cute dot net bot waving hi to you!"
+            <!--<Image
+                Source="logo_symbol.png"
                 HeightRequest="200"
                 HorizontalOptions="Center" />
+
+            <Image
+                Source="logo_name.png"
+                HeightRequest="200"
+                HorizontalOptions="Center" />-->
 
             <Label
                 Text="Hello, World!"

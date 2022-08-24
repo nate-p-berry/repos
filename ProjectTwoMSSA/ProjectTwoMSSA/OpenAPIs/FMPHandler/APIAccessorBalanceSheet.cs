@@ -16,6 +16,12 @@ namespace ProjectTwoMSSA.OpenAPIs.FMPHandler
             balanceSheetRequest.Headers.TryAddWithoutValidation("Upgrade-Insecure-Requests", "1");
 
             var response = await balanceSheetHttpClient.SendAsync(balanceSheetRequest);
+
+            if (response.IsSuccessStatusCode)
+            {
+
+            }
+
             return;
         }
     }

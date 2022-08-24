@@ -1,0 +1,18 @@
+﻿<Window x:Class="WpfApp2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid HorizontalAlignment="Center" Height="414" VerticalAlignment="Center" Width="780">
+            <GridSplitter HorizontalAlignment="Left" Height="374" Margin="100,30,0,0" VerticalAlignment="Top" Width="5"/>
+            <StackPanel HorizontalAlignment="Left" Height="374" Margin="10,0,0,0" VerticalAlignment="Center" Width="95"/>
+            <StackPanel HorizontalAlignment="Center" Height="30" VerticalAlignment="Top" Width="780" />
+            <Image Source="logo_symbol.svg" Height="30" Width="30" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+        </Grid>
+
+    </Grid>
+</Window>

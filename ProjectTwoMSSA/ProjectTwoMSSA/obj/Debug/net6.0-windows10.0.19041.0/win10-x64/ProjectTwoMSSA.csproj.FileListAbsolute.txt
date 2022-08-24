@@ -344,3 +344,14 @@ C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\obj\Debug\net6.0-windo
 C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
 C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Newtonsoft.Json.dll
+C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\CommunityToolkit.Mvvm.dll
+C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo_name.scale-100.png
+C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo_name.scale-125.png
+C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo_name.scale-150.png
+C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo_name.scale-200.png
+C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo_name.scale-400.png
+C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo_symbol.scale-100.png
+C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo_symbol.scale-125.png
+C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo_symbol.scale-150.png
+C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo_symbol.scale-200.png
+C:\Users\berry\source\repos\ProjectTwoMSSA\ProjectTwoMSSA\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo_symbol.scale-400.png
