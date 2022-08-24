@@ -4,5 +4,11 @@
         <name>ProjectTwoMSSA</name>
     </assembly>
     <members>
+        <member name="P:ProjectTwoMSSA._1_ViewModelResources.BaseViewModel.IsBusy">
+            <inheritdoc cref="F:ProjectTwoMSSA._1_ViewModelResources.BaseViewModel._isBusy"/>
+        </member>
+        <member name="P:ProjectTwoMSSA._1_ViewModelResources.BaseViewModel.Title">
+            <inheritdoc cref="F:ProjectTwoMSSA._1_ViewModelResources.BaseViewModel._title"/>
+        </member>
     </members>
 </doc>

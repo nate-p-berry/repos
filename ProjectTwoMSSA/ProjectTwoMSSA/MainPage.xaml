@@ -10,15 +10,15 @@
             VerticalOptions="Start"
             HorizontalOptions="Start">
 
-            <!--<Image
+            <Image
                 Source="logo_symbol.png"
-                HeightRequest="200"
+                HeightRequest="100"
                 HorizontalOptions="Center" />
 
             <Image
                 Source="logo_name.png"
                 HeightRequest="200"
-                HorizontalOptions="Center" />-->
+                HorizontalOptions="Center" />
 
             <Label
                 Text="Hello, World!"

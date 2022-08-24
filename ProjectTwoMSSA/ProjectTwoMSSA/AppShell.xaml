@@ -4,19 +4,17 @@
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
     xmlns:local="clr-namespace:ProjectTwoMSSA"
-    Shell.FlyoutBehavior="Disabled">
+    Title="MSSA Project Two"
+    Shell.FlyoutBehavior="Flyout">
 
-    <ShellContent
-        Title="Quantum Capital"
-        ContentTemplate="{DataTemplate local:MainPage}"
-        Route="MainPage">
-        <HorizontalStackLayout Padding="10">
-            <Image
-                Source="logo_symbol.png"/>
-            <Image
-                Source="logo_name.png"/>
-        </HorizontalStackLayout>
-        
-    </ShellContent>
+    <FlyoutItem FlyoutDisplayOptions="AsMultipleItems">
+        <Tab Title="Home"
+             FlyoutIcon="logo_symbol.png">
+            <ShellContent Title="Quantum Capital"
+                          ContentTemplate="{DataTemplate local:MainPage}"
+                          Route="MainPage" />
+        </Tab>
+    </FlyoutItem>
+    
 
 </Shell>
