@@ -12,6 +12,7 @@ namespace ProjectTwoMSSA.BusinessData
         private BalanceSheet _balanceSheet;
         private IncomeStatement _incomeStatement;
         private CashFlowStatement _cashFlowStatement;
+        private Enum _currencyDenomination;
         private string? _link;
         private string? _finalLink;
 

@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "+v9j0TI9m5gLfvmf1zKBWP84SNNflg/uvRgzcxzEFIdNLGYOtYa70mnvKohkTKULfzpELvH+JnO6earj4q9xXQ==",
+  "dgSpecHash": "/CnXG2wHCgIfrEkhrALe8NirGFnY9VXDL0WaSFIdr6ESBCVFBJ2p8DirKOqukyDentwvSlm17iHzXxsQ8WAr3Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\berry\\source\\repos\\ProjectTwoMSSA\\ProjectTwoMSSA\\ProjectTwoMSSA.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\berry\\.nuget\\packages\\communitytoolkit.mvvm\\8.0.0\\communitytoolkit.mvvm.8.0.0.nupkg.sha512",
     "C:\\Users\\berry\\.nuget\\packages\\googlegson\\2.9.0.1\\googlegson.2.9.0.1.nupkg.sha512",
     "C:\\Users\\berry\\.nuget\\packages\\microsoft.extensions.apidescription.client\\3.0.0\\microsoft.extensions.apidescription.client.3.0.0.nupkg.sha512",
     "C:\\Users\\berry\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.1\\microsoft.extensions.configuration.6.0.1.nupkg.sha512",
