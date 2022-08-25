@@ -60,6 +60,12 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <Reference Include="ProjectTwoLibrary">
+	    <HintPath>..\..\ProjectTwoLibrary\ProjectTwoLibrary\bin\Debug\net6.0\ProjectTwoLibrary.dll</HintPath>
+	  </Reference>
+	</ItemGroup>
+
+	<ItemGroup>
 	  <MauiXaml Update="Views\AboutPage.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>

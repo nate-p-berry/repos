@@ -1,0 +1,12 @@
+C:\Users\berry\source\repos\ProjectTwoLibrary\ProjectTwoLibrary\bin\Debug\net6.0\ProjectTwoLibrary.deps.json
+C:\Users\berry\source\repos\ProjectTwoLibrary\ProjectTwoLibrary\bin\Debug\net6.0\ProjectTwoLibrary.dll
+C:\Users\berry\source\repos\ProjectTwoLibrary\ProjectTwoLibrary\bin\Debug\net6.0\ProjectTwoLibrary.pdb
+C:\Users\berry\source\repos\ProjectTwoLibrary\ProjectTwoLibrary\obj\Debug\net6.0\ProjectTwoLibrary.csproj.AssemblyReference.cache
+C:\Users\berry\source\repos\ProjectTwoLibrary\ProjectTwoLibrary\obj\Debug\net6.0\ProjectTwoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berry\source\repos\ProjectTwoLibrary\ProjectTwoLibrary\obj\Debug\net6.0\ProjectTwoLibrary.AssemblyInfoInputs.cache
+C:\Users\berry\source\repos\ProjectTwoLibrary\ProjectTwoLibrary\obj\Debug\net6.0\ProjectTwoLibrary.AssemblyInfo.cs
+C:\Users\berry\source\repos\ProjectTwoLibrary\ProjectTwoLibrary\obj\Debug\net6.0\ProjectTwoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\berry\source\repos\ProjectTwoLibrary\ProjectTwoLibrary\obj\Debug\net6.0\ProjectTwoLibrary.dll
+C:\Users\berry\source\repos\ProjectTwoLibrary\ProjectTwoLibrary\obj\Debug\net6.0\refint\ProjectTwoLibrary.dll
+C:\Users\berry\source\repos\ProjectTwoLibrary\ProjectTwoLibrary\obj\Debug\net6.0\ProjectTwoLibrary.pdb
+C:\Users\berry\source\repos\ProjectTwoLibrary\ProjectTwoLibrary\obj\Debug\net6.0\ref\ProjectTwoLibrary.dll

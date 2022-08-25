@@ -2,11 +2,42 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="ProjectTwo.Views.AboutPage"
-             Title="About">
-    <FlexLayout>
-        <Label 
-            Text="Welcome to .NET MAUI!"
+             Title="About us and the company we keep"
+             BackgroundColor="GhostWhite">
+    <FlexLayout
+        Direction="Row">
+        <!--AlignContent="Stretch"
+        AlignItems="Center"
+        Wrap="Wrap">-->
+        <VerticalStackLayout
+            BackgroundColor="CornflowerBlue" 
+            FlexLayout.Order="0" >
+            <Label 
+                Text="Welcome to the About page!"
+                TextColor="#13294B"
+                FontAttributes="Bold"
+                VerticalOptions="Center" 
+                HorizontalOptions="Center" />
+        </VerticalStackLayout>
+        <VerticalStackLayout
+            BackgroundColor="Azure" 
+            FlexLayout.Order="1">
+            <Label 
+                Text="This page primarily reveals information about our comapny and process."
+                TextColor="#13294B"
+                FontAttributes="Bold"
             VerticalOptions="Center" 
             HorizontalOptions="Center" />
+        </VerticalStackLayout>
+        <VerticalStackLayout
+            BackgroundColor="IndianRed" 
+            FlexLayout.Order="2">
+            <Label 
+                Text="It's still a bit of a work in progress, so give me time to put it together, please. Thanks for being interested!"
+                TextColor="#13294B"
+                FontAttributes="Bold"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+        </VerticalStackLayout>
     </FlexLayout>
 </ContentPage>

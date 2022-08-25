@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ProjectTwoMSSA._1_ModelResources.Business_Classes
+namespace BusinessObjects
 {
     // TODO: Figure out how to implement a Money/ Currency handler, maybe this needs to be a library or something. 
     internal interface IMoney

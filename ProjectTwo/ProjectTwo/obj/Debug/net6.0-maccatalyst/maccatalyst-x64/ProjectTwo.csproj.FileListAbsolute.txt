@@ -262,3 +262,5 @@ C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\obj\Debug\net6.0-maccatalyst\m
 C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\obj\Debug\net6.0-maccatalyst\maccatalyst-x64\ProjectTwo.pdb
 C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\obj\Debug\net6.0-maccatalyst\maccatalyst-x64\ProjectTwo.genruntimeconfig.cache
 C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\obj\Debug\net6.0-maccatalyst\maccatalyst-x64\ref\ProjectTwo.dll
+C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\bin\Debug\net6.0-maccatalyst\maccatalyst-x64\ProjectTwoLibrary.dll
+C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\bin\Debug\net6.0-maccatalyst\maccatalyst-x64\ProjectTwoLibrary.pdb

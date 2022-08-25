@@ -796,6 +796,9 @@
     <AppxPackagedFile Include="C:\Users\berry\.nuget\packages\microsoft.windowsappsdk\1.1.3\runtimes\win10-x64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll">
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\berry\source\repos\ProjectTwoLibrary\ProjectTwoLibrary\bin\Debug\net6.0\ProjectTwoLibrary.dll">
+      <PackagePath>ProjectTwoLibrary.dll</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\ProjectTwo.deps.json">
       <PackagePath>ProjectTwo.deps.json</PackagePath>
     </AppxPackagedFile>

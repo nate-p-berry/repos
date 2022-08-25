@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ProjectTwoMSSA.BusinessData
+namespace BusinessObjects
 {
     // In retrospect, I could and maybe should try to tie these together with the other classes such that -for example- the revenue of one statement
     // can't be different from the same data in another and vice versa. Feels like that could be needlessly complex though and I intend to just use similar

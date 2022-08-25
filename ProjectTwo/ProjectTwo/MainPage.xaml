@@ -4,7 +4,7 @@
              x:Class="ProjectTwo.MainPage"
              BackgroundColor="GhostWhite"
              Title="The future of investing">
-    <ScrollView FlowDirection="RightToLeft"
+    <ScrollView FlowDirection="LeftToRight"
                 MinimumHeightRequest="1000">
     <FlexLayout Direction="Row"
                 Wrap="Wrap"
