@@ -1,14 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="ProjectTwoMSSA.MainPage">
+             x:Class="ProjectTwoMSSA.MainPage"
+             BackgroundColor="#E5DBFF">
 
     <ScrollView>
         <VerticalStackLayout
             Spacing="25"
-            Padding="30,0"
-            VerticalOptions="Start"
-            HorizontalOptions="Start">
+            Padding="50,0"
+            VerticalOptions="Center"
+            HorizontalOptions="Center" >
 
             <Image
                 Source="logo_symbol.png"
@@ -22,12 +23,14 @@
 
             <Label
                 Text="Hello, World!"
+                TextColor="#13294B"
                 SemanticProperties.HeadingLevel="Level1"
                 FontSize="32"
                 HorizontalOptions="Center" />
 
             <Label
                 Text="Welcome to .NET Multi-platform App UI"
+                TextColor="#13294B"
                 SemanticProperties.HeadingLevel="Level2"
                 SemanticProperties.Description="Welcome to dot net Multi platform App U I"
                 FontSize="18"
@@ -38,6 +41,7 @@
                 <Button
                 x:Name="CounterBtn"
                 Text="Click me"
+                TextColor="#13294B"
                 SemanticProperties.Hint="Counts the number of times you click"
                 Clicked="OnCounterClicked"
                 HorizontalOptions="Center" 
@@ -46,6 +50,7 @@
                 <Button
                 x:Name="NewsPageBtn"
                 Text="Go to News Page"
+                    TextColor="#13294B"
                 SemanticProperties.Hint="Redirects to the news page of the app."
                 Clicked="OnNewsPageRedirectClicked"
                 HorizontalOptions="Center" 

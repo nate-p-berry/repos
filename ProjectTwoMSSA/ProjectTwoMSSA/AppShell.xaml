@@ -4,16 +4,34 @@
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
     xmlns:local="clr-namespace:ProjectTwoMSSA"
+    xmlns:views="clr-namespace:ProjectTwoMSSA._1_ViewResources"
     Title="MSSA Project Two"
-    Shell.FlyoutBehavior="Flyout">
+    FlyoutHeaderBehavior="CollapseOnScroll"
+    Shell.FlyoutBehavior="Flyout"
+    FlyoutHeader="">
 
-    <FlyoutItem FlyoutDisplayOptions="AsMultipleItems">
-        <Tab Title="Home"
-             FlyoutIcon="logo_symbol.png">
-            <ShellContent Title="Quantum Capital"
-                          ContentTemplate="{DataTemplate local:MainPage}"
-                          Route="MainPage" />
+    <TabBar>
+        <Tab>
+            <ShellContent />
         </Tab>
+        <Tab Title="News">
+            <ShellContent ContentTemplate="{DataTemplate views:NewsPage}" />
+        </Tab>
+        <Tab Title="Dashboard">
+            <ShellContent ContentTemplate="{DataTemplate views:DashboardPage}" />
+        </Tab>
+        <Tab Title="Accounts">
+            <ShellContent ContentTemplate="{DataTemplate views:AccountsPage}" />
+        </Tab>
+        <Tab Title="Settings">
+            <ShellContent ContentTemplate="{DataTemplate views:SettingsPage}" />
+        </Tab>
+    </TabBar>
+    <FlyoutItem FlyoutDisplayOptions="AsMultipleItems">
+        <Tab
+                x:Name="NewsPageBtn"
+                Title="News Page"
+                SemanticProperties.Hint="Redirects to the news page of the app." />
     </FlyoutItem>
     
 

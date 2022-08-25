@@ -11,7 +11,19 @@
     <DebuggerFlavor>ProjectDebugger</DebuggerFlavor>
   </PropertyGroup>
   <ItemGroup>
+    <MauiXaml Update="1-ViewResources\AboutPage.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
+    <MauiXaml Update="1-ViewResources\AccountsPage.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
+    <MauiXaml Update="1-ViewResources\DashboardPage.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
     <MauiXaml Update="1-ViewResources\NewsPage.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
+    <MauiXaml Update="1-ViewResources\SettingsPage.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
   </ItemGroup>
