@@ -75,3 +75,4 @@ C:\Users\berry\source\repos\ProjectTwoLibrary\ProjectTwoLibrary\obj\Debug\net6.0
 C:\Users\berry\source\repos\ProjectTwoLibrary\ProjectTwoLibrary\obj\Debug\net6.0-android\stamp\_CleanIntermediateIfNeeded.stamp
 C:\Users\berry\source\repos\ProjectTwoLibrary\ProjectTwoLibrary\obj\Debug\net6.0-android\stamp\_ConvertResourcesCases.stamp
 C:\Users\berry\source\repos\ProjectTwoLibrary\ProjectTwoLibrary\obj\Debug\net6.0-android\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\berry\source\repos\ProjectTwoLibrary\ProjectTwoLibrary\obj\Debug\net6.0-android\XamlC.stamp

@@ -8,3 +8,9 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ProjectTwoLibrary
 build_property.ProjectDir = C:\Users\berry\source\repos\ProjectTwoLibrary\ProjectTwoLibrary\
+
+[C:/Users/berry/source/repos/ProjectTwoLibrary/ProjectTwoLibrary/CardView/CardViewControl.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProjectTwoLibrary.CardView.CardViewControl.xaml
+build_metadata.AdditionalFiles.TargetPath = CardView\CardViewControl.xaml
+build_metadata.AdditionalFiles.RelativePath = CardView\CardViewControl.xaml

@@ -1,12 +1,18 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:controls="clr-namespace:ProjectTwoLibrary.CardView;assembly=ProjectTwoLibrary"
              x:Class="ProjectTwo.Views.ContactPage"
-             Title="Contact">
-    <VerticalStackLayout>
-        <Label 
-            Text="Welcome to .NET MAUI!"
-            VerticalOptions="Center" 
-            HorizontalOptions="Center" />
-    </VerticalStackLayout>
+             Title="ContactPage">
+    <ScrollView>
+        <VerticalStackLayout>
+            <controls:CardView 
+                               CardTitle="Slavko Vlasic"
+                               CardDescription="Lorem ipsum dolor sit amet." />
+            <!--CardColor="Azure"
+                               IconBackgroundColor="SlateGrey"
+                               BorderColor="DarkGrey"
+                               IconImageSource="C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\Resources\Images\logo_symbol.png" />-->
+        </VerticalStackLayout>
+    </ScrollView>
 </ContentPage>
