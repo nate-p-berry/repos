@@ -2,72 +2,126 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="ProjectTwo.MainPage"
-             BackgroundColor="#E5DBFF">
-    <Grid>
-        <ScrollView >
-            <VerticalStackLayout
-                Spacing="10"
-                Padding="10,0"
-                VerticalOptions="Center">
-                <Image
-                    Source="logo_symbol.png"
-                    SemanticProperties.Description="Quantum Capital main logo"
-                    HeightRequest="400"
-                    HorizontalOptions="Start" />
-                <Image 
-                    Source="qc_logo_resize.png"
-                    SemanticProperties.Description="Quantum Capital name logo"
-                    HeightRequest="100"
-                    HorizontalOptions="Start" />
-                <Label
-                    Text="Hello, quantum financial world!"
-                    TextColor="#13294B"
-                    SemanticProperties.HeadingLevel="Level1"
-                    FontSize="32"
-                    HorizontalOptions="Start" />
-            </VerticalStackLayout>      
-        </ScrollView>
+             BackgroundColor="GhostWhite"
+             Title="The future of investing">
+    <ScrollView FlowDirection="RightToLeft"
+                MinimumHeightRequest="1000">
+    <FlexLayout Direction="Row"
+                Wrap="Wrap"
+                Padding="30"
+                AlignContent="SpaceEvenly"
+                JustifyContent="SpaceAround"
+                Position="Relative">
+        <VerticalStackLayout
+            VerticalOptions="Center"
+            FlexLayout.Order="0"
+            FlexLayout.Grow="2"
+            FlexLayout.Shrink="0.1">
+            <Image
+                Source="logo_symbol.png"
+                SemanticProperties.Description="Quantum Capital main logo"
+                HeightRequest="550" />
+            <Image 
+                Source="qc_logo_resize.png"
+                SemanticProperties.Description="Quantum Capital name logo"
+                HeightRequest="150" />
+        </VerticalStackLayout>
         
         <VerticalStackLayout
-            HorizontalOptions="Center"
-            VerticalOptions="Center">
+            VerticalOptions="Center"
+            FlexLayout.Order="1"
+            FlexLayout.Grow="2"
+            FlexLayout.Shrink="0.1">
             <Label
-                Text="Welcome to .NET Multi-platform App UI"
+                Text="Hello, quantum financial world!"
+                FontAutoScalingEnabled="True"
                 TextColor="#13294B"
-                SemanticProperties.HeadingLevel="Level2"
-                SemanticProperties.Description="Welcome to dot net Multi platform App U I"
-                FontSize="18"
-                HorizontalOptions="Center" />
+                Margin="20"
+                FontSize="Large" 
+                FontAttributes="Bold"
+                HorizontalTextAlignment="Center"
+                VerticalTextAlignment="Center"/>
+            <Label Text="What would you like to do?"
+                FontAutoScalingEnabled="True"
+                TextColor="#13294B" 
+                FontSize="Title" 
+                Margin="20"
+                FontAttributes="Bold"
+                HorizontalTextAlignment="Center" 
+                VerticalTextAlignment="Center" />
+            <Grid 
+                BackgroundColor="#E5DBFF" >
+            <Grid.RowDefinitions>
+                <RowDefinition Height="200" />
+                <RowDefinition Height="200" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="200" />
+                <ColumnDefinition Width="200" />
+                <ColumnDefinition Width="200" />
+            </Grid.ColumnDefinitions>
             <Button
                 x:Name="AboutPageBtn"
                 Text="About"
                 TextColor="#13294B"
+                FontAttributes="Bold"
+                Grid.Row="0"
+                Grid.Column="0"
                 Clicked="AboutPageBtn_Clicked" 
-                Padding="10"/>
+                HeightRequest="190"
+                WidthRequest="190" />
             <Button
-                x:Name="ContactPageBtn"
-                Text="Contact"
+                x:Name="NewsPageBtn"
+                Text="News"
                 TextColor="#13294B"
-                Clicked="ContactPageBtn_Clicked" 
-                Padding="10"/>
+                FontAttributes="Bold"
+                Grid.Row="0"
+                Grid.Column="1"
+                Clicked="NewsPageBtn_Clicked"
+                HeightRequest="190"
+                WidthRequest="190" />
             <Button 
                 x:Name="DashboardPageBtn"
                 Text="Dashboard"
                 TextColor="#13294B"
+                FontAttributes="Bold"
+                Grid.Row="0"
+                Grid.Column="2"
                 Clicked="DashboardPageBtn_Clicked" 
-                Padding="10"/>
+                HeightRequest="190"
+                WidthRequest="190" />
             <Button
                 x:Name="AccountsPageBtn"
                 Text="Accounts"
                 TextColor="#13294B"
+                FontAttributes="Bold"
+                Grid.Row="1"
+                Grid.Column="0"
                 Clicked="AccountsPageBtn_Clicked" 
-                Padding="10"/>
+                HeightRequest="190"
+                WidthRequest="190" />
             <Button 
                 x:Name="SettingsPageBtn"
                 Text="Settings"
                 TextColor="#13294B"
+                FontAttributes="Bold"
+                Grid.Row="1"
+                Grid.Column="1"
                 Clicked="SettingsPageBtn_Clicked" 
-                Padding="10"/>
+                HeightRequest="190"
+                WidthRequest="190" />
+            <Button
+                x:Name="ContactPageBtn"
+                Text="Contact"
+                TextColor="#13294B"
+                FontAttributes="Bold"
+                Grid.Row="1"
+                Grid.Column="2"
+                Clicked="ContactPageBtn_Clicked" 
+                HeightRequest="190"
+                WidthRequest="190" />
+            </Grid>
         </VerticalStackLayout>
-    </Grid>
+    </FlexLayout>
+    </ScrollView>
 </ContentPage>

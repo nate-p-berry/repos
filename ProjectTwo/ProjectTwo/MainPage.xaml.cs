@@ -41,5 +41,12 @@ public partial class MainPage : ContentPage
 		await Navigation.PushAsync(new SettingsPage());
 		SemanticScreenReader.Announce(SettingsPageBtn.Text);
 	}
+
+	private async void NewsPageBtn_Clicked(object sender, EventArgs e)
+	{
+		Routing.RegisterRoute("News", typeof(NewsPage));
+		await Navigation.PushAsync(new NewsPage());
+		SemanticScreenReader.Announce(NewsPageBtn.Text);
+	}
 }
 
