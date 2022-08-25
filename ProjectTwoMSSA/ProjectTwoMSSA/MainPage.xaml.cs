@@ -56,32 +56,32 @@ public partial class MainPage : ContentPage
     // TODO: Yeah you kinda broke this stuff right here, didn't ya there bud? Sent her a lil too hard lol. Delete me and fix it on 2022-08-25.
     private async void OnAboutPageRedirectClicked(object sender, EventArgs e)
     {
-        string route = "AboutPage/Landing";
-        await OnPageRedirectClicked(route, 1, AboutPageBtn);
+        Routing.RegisterRoute("AboutPage/Landing", typeof(AboutPage));
+        await Navigation.PushAsync(new AboutPage());
         SemanticScreenReader.Announce(AboutPageBtn.Text);
     }
     private async void OnAccountsPageRedirectClicked(object sender, EventArgs e)
     {
-        string route = "AccountsPage/Landing";
-        await OnPageRedirectClicked(route, 2, AccountsPageBtn);
+        Routing.RegisterRoute("AccountsPage/Landing", typeof(AccountsPage));
+        await Navigation.PushAsync(new AccountsPage());
         SemanticScreenReader.Announce(AccountsPageBtn.Text);
     }
     private async void OnDashboardPageRedirectClicked(object sender, EventArgs e)
     {
-        string route = "DashboardPage/Landing";
-        await OnPageRedirectClicked(route, 3, DashboardPageBtn);
+        Routing.RegisterRoute("DashboardPage/Landing", typeof(DashboardPage));
+        await Navigation.PushAsync(new DashboardPage());
         SemanticScreenReader.Announce(DashboardPageBtn.Text);
     }
     private async void OnNewsPageRedirectClicked(object sender, EventArgs e)
     {
-		string route = "NewsPage/Landing";
-        await OnPageRedirectClicked(route, 4, NewsPageBtn);
+        Routing.RegisterRoute("NewsPage/Landing", typeof(NewsPage));
+        await Navigation.PushAsync(new NewsPage());
         SemanticScreenReader.Announce(NewsPageBtn.Text);
     }
     private async void OnSettingsPageRedirectClicked(object sender, EventArgs e)
     {
-        string route = "SettingsPage/Landing";
-        await OnPageRedirectClicked(route, 5, SettingsPageBtn);
+        Routing.RegisterRoute("SettingsPage/Landing", typeof(SettingsPage));
+        await Navigation.PushAsync(new SettingsPage());
         SemanticScreenReader.Announce(SettingsPageBtn.Text);
     }
 }

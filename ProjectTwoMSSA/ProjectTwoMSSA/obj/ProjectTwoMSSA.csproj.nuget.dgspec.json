@@ -69,7 +69,7 @@
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[3.0.0, )"
+              "version": "[6.0.8, )"
             },
             "Microsoft.Maui.Dependencies": {
               "target": "Package",
@@ -85,7 +85,7 @@
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[13.0.5, )"
+              "version": "[13.16.1, )"
             },
             "Newtonsoft.Json": {
               "target": "Package",
@@ -147,7 +147,7 @@
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[3.0.0, )"
+              "version": "[6.0.8, )"
             },
             "Microsoft.Maui.Dependencies": {
               "target": "Package",
@@ -163,7 +163,7 @@
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[13.0.5, )"
+              "version": "[13.16.1, )"
             },
             "Newtonsoft.Json": {
               "target": "Package",
@@ -216,7 +216,7 @@
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[3.0.0, )"
+              "version": "[6.0.8, )"
             },
             "Microsoft.Maui.Dependencies": {
               "target": "Package",
@@ -232,7 +232,7 @@
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[13.0.5, )"
+              "version": "[13.16.1, )"
             },
             "Newtonsoft.Json": {
               "target": "Package",
@@ -286,7 +286,7 @@
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[3.0.0, )"
+              "version": "[6.0.8, )"
             },
             "Microsoft.Maui.Dependencies": {
               "target": "Package",
@@ -308,7 +308,7 @@
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[13.0.5, )"
+              "version": "[13.16.1, )"
             },
             "Newtonsoft.Json": {
               "target": "Package",

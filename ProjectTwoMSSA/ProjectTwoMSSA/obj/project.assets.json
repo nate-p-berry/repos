@@ -31,7 +31,7 @@
           }
         }
       },
-      "Microsoft.Extensions.ApiDescription.Client/3.0.0": {
+      "Microsoft.Extensions.ApiDescription.Client/6.0.8": {
         "type": "package",
         "build": {
           "build/Microsoft.Extensions.ApiDescription.Client.props": {},
@@ -235,18 +235,18 @@
           }
         }
       },
-      "NSwag.ApiDescription.Client/13.0.5": {
+      "NSwag.ApiDescription.Client/13.16.1": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.ApiDescription.Client": "0.3.0-preview7.19365.7",
-          "NSwag.MSBuild": "13.0.5"
+          "Microsoft.Extensions.ApiDescription.Client": "6.0.3",
+          "NSwag.MSBuild": "13.16.1"
         },
         "build": {
           "build/NSwag.ApiDescription.Client.props": {},
           "build/NSwag.ApiDescription.Client.targets": {}
         }
       },
-      "NSwag.MSBuild/13.0.5": {
+      "NSwag.MSBuild/13.16.1": {
         "type": "package",
         "build": {
           "build/NSwag.MSBuild.props": {}
@@ -2035,7 +2035,7 @@
           }
         }
       },
-      "Microsoft.Extensions.ApiDescription.Client/3.0.0": {
+      "Microsoft.Extensions.ApiDescription.Client/6.0.8": {
         "type": "package",
         "build": {
           "build/Microsoft.Extensions.ApiDescription.Client.props": {},
@@ -2239,18 +2239,18 @@
           }
         }
       },
-      "NSwag.ApiDescription.Client/13.0.5": {
+      "NSwag.ApiDescription.Client/13.16.1": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.ApiDescription.Client": "0.3.0-preview7.19365.7",
-          "NSwag.MSBuild": "13.0.5"
+          "Microsoft.Extensions.ApiDescription.Client": "6.0.3",
+          "NSwag.MSBuild": "13.16.1"
         },
         "build": {
           "build/NSwag.ApiDescription.Client.props": {},
           "build/NSwag.ApiDescription.Client.targets": {}
         }
       },
-      "NSwag.MSBuild/13.0.5": {
+      "NSwag.MSBuild/13.16.1": {
         "type": "package",
         "build": {
           "build/NSwag.MSBuild.props": {}
@@ -4039,7 +4039,7 @@
           }
         }
       },
-      "Microsoft.Extensions.ApiDescription.Client/3.0.0": {
+      "Microsoft.Extensions.ApiDescription.Client/6.0.8": {
         "type": "package",
         "build": {
           "build/Microsoft.Extensions.ApiDescription.Client.props": {},
@@ -4243,18 +4243,18 @@
           }
         }
       },
-      "NSwag.ApiDescription.Client/13.0.5": {
+      "NSwag.ApiDescription.Client/13.16.1": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.ApiDescription.Client": "0.3.0-preview7.19365.7",
-          "NSwag.MSBuild": "13.0.5"
+          "Microsoft.Extensions.ApiDescription.Client": "6.0.3",
+          "NSwag.MSBuild": "13.16.1"
         },
         "build": {
           "build/NSwag.ApiDescription.Client.props": {},
           "build/NSwag.ApiDescription.Client.targets": {}
         }
       },
-      "NSwag.MSBuild/13.0.5": {
+      "NSwag.MSBuild/13.16.1": {
         "type": "package",
         "build": {
           "build/NSwag.MSBuild.props": {}
@@ -6043,7 +6043,7 @@
           }
         }
       },
-      "Microsoft.Extensions.ApiDescription.Client/3.0.0": {
+      "Microsoft.Extensions.ApiDescription.Client/6.0.8": {
         "type": "package",
         "build": {
           "build/Microsoft.Extensions.ApiDescription.Client.props": {},
@@ -6247,18 +6247,18 @@
           }
         }
       },
-      "NSwag.ApiDescription.Client/13.0.5": {
+      "NSwag.ApiDescription.Client/13.16.1": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.ApiDescription.Client": "0.3.0-preview7.19365.7",
-          "NSwag.MSBuild": "13.0.5"
+          "Microsoft.Extensions.ApiDescription.Client": "6.0.3",
+          "NSwag.MSBuild": "13.16.1"
         },
         "build": {
           "build/NSwag.ApiDescription.Client.props": {},
           "build/NSwag.ApiDescription.Client.targets": {}
         }
       },
-      "NSwag.MSBuild/13.0.5": {
+      "NSwag.MSBuild/13.16.1": {
         "type": "package",
         "build": {
           "build/NSwag.MSBuild.props": {}
@@ -8047,7 +8047,7 @@
           }
         }
       },
-      "Microsoft.Extensions.ApiDescription.Client/3.0.0": {
+      "Microsoft.Extensions.ApiDescription.Client/6.0.8": {
         "type": "package",
         "build": {
           "build/Microsoft.Extensions.ApiDescription.Client.props": {},
@@ -8251,18 +8251,18 @@
           }
         }
       },
-      "NSwag.ApiDescription.Client/13.0.5": {
+      "NSwag.ApiDescription.Client/13.16.1": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.ApiDescription.Client": "0.3.0-preview7.19365.7",
-          "NSwag.MSBuild": "13.0.5"
+          "Microsoft.Extensions.ApiDescription.Client": "6.0.3",
+          "NSwag.MSBuild": "13.16.1"
         },
         "build": {
           "build/NSwag.ApiDescription.Client.props": {},
           "build/NSwag.ApiDescription.Client.targets": {}
         }
       },
-      "NSwag.MSBuild/13.0.5": {
+      "NSwag.MSBuild/13.16.1": {
         "type": "package",
         "build": {
           "build/NSwag.MSBuild.props": {}
@@ -10051,7 +10051,7 @@
           }
         }
       },
-      "Microsoft.Extensions.ApiDescription.Client/3.0.0": {
+      "Microsoft.Extensions.ApiDescription.Client/6.0.8": {
         "type": "package",
         "build": {
           "build/Microsoft.Extensions.ApiDescription.Client.props": {},
@@ -10255,18 +10255,18 @@
           }
         }
       },
-      "NSwag.ApiDescription.Client/13.0.5": {
+      "NSwag.ApiDescription.Client/13.16.1": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.ApiDescription.Client": "0.3.0-preview7.19365.7",
-          "NSwag.MSBuild": "13.0.5"
+          "Microsoft.Extensions.ApiDescription.Client": "6.0.3",
+          "NSwag.MSBuild": "13.16.1"
         },
         "build": {
           "build/NSwag.ApiDescription.Client.props": {},
           "build/NSwag.ApiDescription.Client.targets": {}
         }
       },
-      "NSwag.MSBuild/13.0.5": {
+      "NSwag.MSBuild/13.16.1": {
         "type": "package",
         "build": {
           "build/NSwag.MSBuild.props": {}
@@ -12055,7 +12055,7 @@
           }
         }
       },
-      "Microsoft.Extensions.ApiDescription.Client/3.0.0": {
+      "Microsoft.Extensions.ApiDescription.Client/6.0.8": {
         "type": "package",
         "build": {
           "build/Microsoft.Extensions.ApiDescription.Client.props": {},
@@ -12259,18 +12259,18 @@
           }
         }
       },
-      "NSwag.ApiDescription.Client/13.0.5": {
+      "NSwag.ApiDescription.Client/13.16.1": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.ApiDescription.Client": "0.3.0-preview7.19365.7",
-          "NSwag.MSBuild": "13.0.5"
+          "Microsoft.Extensions.ApiDescription.Client": "6.0.3",
+          "NSwag.MSBuild": "13.16.1"
         },
         "build": {
           "build/NSwag.ApiDescription.Client.props": {},
           "build/NSwag.ApiDescription.Client.targets": {}
         }
       },
-      "NSwag.MSBuild/13.0.5": {
+      "NSwag.MSBuild/13.16.1": {
         "type": "package",
         "build": {
           "build/NSwag.MSBuild.props": {}
@@ -14059,7 +14059,7 @@
           }
         }
       },
-      "Microsoft.Extensions.ApiDescription.Client/3.0.0": {
+      "Microsoft.Extensions.ApiDescription.Client/6.0.8": {
         "type": "package",
         "build": {
           "build/Microsoft.Extensions.ApiDescription.Client.props": {},
@@ -14263,18 +14263,18 @@
           }
         }
       },
-      "NSwag.ApiDescription.Client/13.0.5": {
+      "NSwag.ApiDescription.Client/13.16.1": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.ApiDescription.Client": "0.3.0-preview7.19365.7",
-          "NSwag.MSBuild": "13.0.5"
+          "Microsoft.Extensions.ApiDescription.Client": "6.0.3",
+          "NSwag.MSBuild": "13.16.1"
         },
         "build": {
           "build/NSwag.ApiDescription.Client.props": {},
           "build/NSwag.ApiDescription.Client.targets": {}
         }
       },
-      "NSwag.MSBuild/13.0.5": {
+      "NSwag.MSBuild/13.16.1": {
         "type": "package",
         "build": {
           "build/NSwag.MSBuild.props": {}
@@ -16050,7 +16050,7 @@
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
         }
       },
-      "Microsoft.Extensions.ApiDescription.Client/3.0.0": {
+      "Microsoft.Extensions.ApiDescription.Client/6.0.8": {
         "type": "package",
         "build": {
           "build/Microsoft.Extensions.ApiDescription.Client.props": {},
@@ -16245,18 +16245,18 @@
           }
         }
       },
-      "NSwag.ApiDescription.Client/13.0.5": {
+      "NSwag.ApiDescription.Client/13.16.1": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.ApiDescription.Client": "0.3.0-preview7.19365.7",
-          "NSwag.MSBuild": "13.0.5"
+          "Microsoft.Extensions.ApiDescription.Client": "6.0.3",
+          "NSwag.MSBuild": "13.16.1"
         },
         "build": {
           "build/NSwag.ApiDescription.Client.props": {},
           "build/NSwag.ApiDescription.Client.targets": {}
         }
       },
-      "NSwag.MSBuild/13.0.5": {
+      "NSwag.MSBuild/13.16.1": {
         "type": "package",
         "build": {
           "build/NSwag.MSBuild.props": {}
@@ -16326,7 +16326,7 @@
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
         }
       },
-      "Microsoft.Extensions.ApiDescription.Client/3.0.0": {
+      "Microsoft.Extensions.ApiDescription.Client/6.0.8": {
         "type": "package",
         "build": {
           "build/Microsoft.Extensions.ApiDescription.Client.props": {},
@@ -16521,18 +16521,18 @@
           }
         }
       },
-      "NSwag.ApiDescription.Client/13.0.5": {
+      "NSwag.ApiDescription.Client/13.16.1": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.ApiDescription.Client": "0.3.0-preview7.19365.7",
-          "NSwag.MSBuild": "13.0.5"
+          "Microsoft.Extensions.ApiDescription.Client": "6.0.3",
+          "NSwag.MSBuild": "13.16.1"
         },
         "build": {
           "build/NSwag.ApiDescription.Client.props": {},
           "build/NSwag.ApiDescription.Client.targets": {}
         }
       },
-      "NSwag.MSBuild/13.0.5": {
+      "NSwag.MSBuild/13.16.1": {
         "type": "package",
         "build": {
           "build/NSwag.MSBuild.props": {}
@@ -16602,7 +16602,7 @@
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
         }
       },
-      "Microsoft.Extensions.ApiDescription.Client/3.0.0": {
+      "Microsoft.Extensions.ApiDescription.Client/6.0.8": {
         "type": "package",
         "build": {
           "build/Microsoft.Extensions.ApiDescription.Client.props": {},
@@ -16797,18 +16797,18 @@
           }
         }
       },
-      "NSwag.ApiDescription.Client/13.0.5": {
+      "NSwag.ApiDescription.Client/13.16.1": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.ApiDescription.Client": "0.3.0-preview7.19365.7",
-          "NSwag.MSBuild": "13.0.5"
+          "Microsoft.Extensions.ApiDescription.Client": "6.0.3",
+          "NSwag.MSBuild": "13.16.1"
         },
         "build": {
           "build/NSwag.ApiDescription.Client.props": {},
           "build/NSwag.ApiDescription.Client.targets": {}
         }
       },
-      "NSwag.MSBuild/13.0.5": {
+      "NSwag.MSBuild/13.16.1": {
         "type": "package",
         "build": {
           "build/NSwag.MSBuild.props": {}
@@ -16878,7 +16878,7 @@
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
         }
       },
-      "Microsoft.Extensions.ApiDescription.Client/3.0.0": {
+      "Microsoft.Extensions.ApiDescription.Client/6.0.8": {
         "type": "package",
         "build": {
           "build/Microsoft.Extensions.ApiDescription.Client.props": {},
@@ -17073,18 +17073,18 @@
           }
         }
       },
-      "NSwag.ApiDescription.Client/13.0.5": {
+      "NSwag.ApiDescription.Client/13.16.1": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.ApiDescription.Client": "0.3.0-preview7.19365.7",
-          "NSwag.MSBuild": "13.0.5"
+          "Microsoft.Extensions.ApiDescription.Client": "6.0.3",
+          "NSwag.MSBuild": "13.16.1"
         },
         "build": {
           "build/NSwag.ApiDescription.Client.props": {},
           "build/NSwag.ApiDescription.Client.targets": {}
         }
       },
-      "NSwag.MSBuild/13.0.5": {
+      "NSwag.MSBuild/13.16.1": {
         "type": "package",
         "build": {
           "build/NSwag.MSBuild.props": {}
@@ -17154,7 +17154,7 @@
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
         }
       },
-      "Microsoft.Extensions.ApiDescription.Client/3.0.0": {
+      "Microsoft.Extensions.ApiDescription.Client/6.0.8": {
         "type": "package",
         "build": {
           "build/Microsoft.Extensions.ApiDescription.Client.props": {},
@@ -17349,18 +17349,18 @@
           }
         }
       },
-      "NSwag.ApiDescription.Client/13.0.5": {
+      "NSwag.ApiDescription.Client/13.16.1": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.ApiDescription.Client": "0.3.0-preview7.19365.7",
-          "NSwag.MSBuild": "13.0.5"
+          "Microsoft.Extensions.ApiDescription.Client": "6.0.3",
+          "NSwag.MSBuild": "13.16.1"
         },
         "build": {
           "build/NSwag.ApiDescription.Client.props": {},
           "build/NSwag.ApiDescription.Client.targets": {}
         }
       },
-      "NSwag.MSBuild/13.0.5": {
+      "NSwag.MSBuild/13.16.1": {
         "type": "package",
         "build": {
           "build/NSwag.MSBuild.props": {}
@@ -17430,7 +17430,7 @@
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
         }
       },
-      "Microsoft.Extensions.ApiDescription.Client/3.0.0": {
+      "Microsoft.Extensions.ApiDescription.Client/6.0.8": {
         "type": "package",
         "build": {
           "build/Microsoft.Extensions.ApiDescription.Client.props": {},
@@ -17625,18 +17625,18 @@
           }
         }
       },
-      "NSwag.ApiDescription.Client/13.0.5": {
+      "NSwag.ApiDescription.Client/13.16.1": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.ApiDescription.Client": "0.3.0-preview7.19365.7",
-          "NSwag.MSBuild": "13.0.5"
+          "Microsoft.Extensions.ApiDescription.Client": "6.0.3",
+          "NSwag.MSBuild": "13.16.1"
         },
         "build": {
           "build/NSwag.ApiDescription.Client.props": {},
           "build/NSwag.ApiDescription.Client.targets": {}
         }
       },
-      "NSwag.MSBuild/13.0.5": {
+      "NSwag.MSBuild/13.16.1": {
         "type": "package",
         "build": {
           "build/NSwag.MSBuild.props": {}
@@ -17706,7 +17706,7 @@
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
         }
       },
-      "Microsoft.Extensions.ApiDescription.Client/3.0.0": {
+      "Microsoft.Extensions.ApiDescription.Client/6.0.8": {
         "type": "package",
         "build": {
           "build/Microsoft.Extensions.ApiDescription.Client.props": {},
@@ -17901,18 +17901,18 @@
           }
         }
       },
-      "NSwag.ApiDescription.Client/13.0.5": {
+      "NSwag.ApiDescription.Client/13.16.1": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.ApiDescription.Client": "0.3.0-preview7.19365.7",
-          "NSwag.MSBuild": "13.0.5"
+          "Microsoft.Extensions.ApiDescription.Client": "6.0.3",
+          "NSwag.MSBuild": "13.16.1"
         },
         "build": {
           "build/NSwag.ApiDescription.Client.props": {},
           "build/NSwag.ApiDescription.Client.targets": {}
         }
       },
-      "NSwag.MSBuild/13.0.5": {
+      "NSwag.MSBuild/13.16.1": {
         "type": "package",
         "build": {
           "build/NSwag.MSBuild.props": {}
@@ -17982,7 +17982,7 @@
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
         }
       },
-      "Microsoft.Extensions.ApiDescription.Client/3.0.0": {
+      "Microsoft.Extensions.ApiDescription.Client/6.0.8": {
         "type": "package",
         "build": {
           "build/Microsoft.Extensions.ApiDescription.Client.props": {},
@@ -18177,18 +18177,18 @@
           }
         }
       },
-      "NSwag.ApiDescription.Client/13.0.5": {
+      "NSwag.ApiDescription.Client/13.16.1": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.ApiDescription.Client": "0.3.0-preview7.19365.7",
-          "NSwag.MSBuild": "13.0.5"
+          "Microsoft.Extensions.ApiDescription.Client": "6.0.3",
+          "NSwag.MSBuild": "13.16.1"
         },
         "build": {
           "build/NSwag.ApiDescription.Client.props": {},
           "build/NSwag.ApiDescription.Client.targets": {}
         }
       },
-      "NSwag.MSBuild/13.0.5": {
+      "NSwag.MSBuild/13.16.1": {
         "type": "package",
         "build": {
           "build/NSwag.MSBuild.props": {}
@@ -18258,7 +18258,7 @@
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
         }
       },
-      "Microsoft.Extensions.ApiDescription.Client/3.0.0": {
+      "Microsoft.Extensions.ApiDescription.Client/6.0.8": {
         "type": "package",
         "build": {
           "build/Microsoft.Extensions.ApiDescription.Client.props": {},
@@ -18453,18 +18453,18 @@
           }
         }
       },
-      "NSwag.ApiDescription.Client/13.0.5": {
+      "NSwag.ApiDescription.Client/13.16.1": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.ApiDescription.Client": "0.3.0-preview7.19365.7",
-          "NSwag.MSBuild": "13.0.5"
+          "Microsoft.Extensions.ApiDescription.Client": "6.0.3",
+          "NSwag.MSBuild": "13.16.1"
         },
         "build": {
           "build/NSwag.ApiDescription.Client.props": {},
           "build/NSwag.ApiDescription.Client.targets": {}
         }
       },
-      "NSwag.MSBuild/13.0.5": {
+      "NSwag.MSBuild/13.16.1": {
         "type": "package",
         "build": {
           "build/NSwag.MSBuild.props": {}
@@ -18534,7 +18534,7 @@
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
         }
       },
-      "Microsoft.Extensions.ApiDescription.Client/3.0.0": {
+      "Microsoft.Extensions.ApiDescription.Client/6.0.8": {
         "type": "package",
         "build": {
           "build/Microsoft.Extensions.ApiDescription.Client.props": {},
@@ -18729,18 +18729,18 @@
           }
         }
       },
-      "NSwag.ApiDescription.Client/13.0.5": {
+      "NSwag.ApiDescription.Client/13.16.1": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.ApiDescription.Client": "0.3.0-preview7.19365.7",
-          "NSwag.MSBuild": "13.0.5"
+          "Microsoft.Extensions.ApiDescription.Client": "6.0.3",
+          "NSwag.MSBuild": "13.16.1"
         },
         "build": {
           "build/NSwag.ApiDescription.Client.props": {},
           "build/NSwag.ApiDescription.Client.targets": {}
         }
       },
-      "NSwag.MSBuild/13.0.5": {
+      "NSwag.MSBuild/13.16.1": {
         "type": "package",
         "build": {
           "build/NSwag.MSBuild.props": {}
@@ -18810,7 +18810,7 @@
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
         }
       },
-      "Microsoft.Extensions.ApiDescription.Client/3.0.0": {
+      "Microsoft.Extensions.ApiDescription.Client/6.0.8": {
         "type": "package",
         "build": {
           "build/Microsoft.Extensions.ApiDescription.Client.props": {},
@@ -19005,18 +19005,18 @@
           }
         }
       },
-      "NSwag.ApiDescription.Client/13.0.5": {
+      "NSwag.ApiDescription.Client/13.16.1": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.ApiDescription.Client": "0.3.0-preview7.19365.7",
-          "NSwag.MSBuild": "13.0.5"
+          "Microsoft.Extensions.ApiDescription.Client": "6.0.3",
+          "NSwag.MSBuild": "13.16.1"
         },
         "build": {
           "build/NSwag.ApiDescription.Client.props": {},
           "build/NSwag.ApiDescription.Client.targets": {}
         }
       },
-      "NSwag.MSBuild/13.0.5": {
+      "NSwag.MSBuild/13.16.1": {
         "type": "package",
         "build": {
           "build/NSwag.MSBuild.props": {}
@@ -19086,7 +19086,7 @@
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
         }
       },
-      "Microsoft.Extensions.ApiDescription.Client/3.0.0": {
+      "Microsoft.Extensions.ApiDescription.Client/6.0.8": {
         "type": "package",
         "build": {
           "build/Microsoft.Extensions.ApiDescription.Client.props": {},
@@ -19281,18 +19281,18 @@
           }
         }
       },
-      "NSwag.ApiDescription.Client/13.0.5": {
+      "NSwag.ApiDescription.Client/13.16.1": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.ApiDescription.Client": "0.3.0-preview7.19365.7",
-          "NSwag.MSBuild": "13.0.5"
+          "Microsoft.Extensions.ApiDescription.Client": "6.0.3",
+          "NSwag.MSBuild": "13.16.1"
         },
         "build": {
           "build/NSwag.ApiDescription.Client.props": {},
           "build/NSwag.ApiDescription.Client.targets": {}
         }
       },
-      "NSwag.MSBuild/13.0.5": {
+      "NSwag.MSBuild/13.16.1": {
         "type": "package",
         "build": {
           "build/NSwag.MSBuild.props": {}
@@ -19362,7 +19362,7 @@
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
         }
       },
-      "Microsoft.Extensions.ApiDescription.Client/3.0.0": {
+      "Microsoft.Extensions.ApiDescription.Client/6.0.8": {
         "type": "package",
         "build": {
           "build/Microsoft.Extensions.ApiDescription.Client.props": {},
@@ -19557,18 +19557,18 @@
           }
         }
       },
-      "NSwag.ApiDescription.Client/13.0.5": {
+      "NSwag.ApiDescription.Client/13.16.1": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.ApiDescription.Client": "0.3.0-preview7.19365.7",
-          "NSwag.MSBuild": "13.0.5"
+          "Microsoft.Extensions.ApiDescription.Client": "6.0.3",
+          "NSwag.MSBuild": "13.16.1"
         },
         "build": {
           "build/NSwag.ApiDescription.Client.props": {},
           "build/NSwag.ApiDescription.Client.targets": {}
         }
       },
-      "NSwag.MSBuild/13.0.5": {
+      "NSwag.MSBuild/13.16.1": {
         "type": "package",
         "build": {
           "build/NSwag.MSBuild.props": {}
@@ -19638,7 +19638,7 @@
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
         }
       },
-      "Microsoft.Extensions.ApiDescription.Client/3.0.0": {
+      "Microsoft.Extensions.ApiDescription.Client/6.0.8": {
         "type": "package",
         "build": {
           "build/Microsoft.Extensions.ApiDescription.Client.props": {},
@@ -19833,18 +19833,18 @@
           }
         }
       },
-      "NSwag.ApiDescription.Client/13.0.5": {
+      "NSwag.ApiDescription.Client/13.16.1": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.ApiDescription.Client": "0.3.0-preview7.19365.7",
-          "NSwag.MSBuild": "13.0.5"
+          "Microsoft.Extensions.ApiDescription.Client": "6.0.3",
+          "NSwag.MSBuild": "13.16.1"
         },
         "build": {
           "build/NSwag.ApiDescription.Client.props": {},
           "build/NSwag.ApiDescription.Client.targets": {}
         }
       },
-      "NSwag.MSBuild/13.0.5": {
+      "NSwag.MSBuild/13.16.1": {
         "type": "package",
         "build": {
           "build/NSwag.MSBuild.props": {}
@@ -19914,7 +19914,7 @@
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
         }
       },
-      "Microsoft.Extensions.ApiDescription.Client/3.0.0": {
+      "Microsoft.Extensions.ApiDescription.Client/6.0.8": {
         "type": "package",
         "build": {
           "build/Microsoft.Extensions.ApiDescription.Client.props": {},
@@ -20109,18 +20109,18 @@
           }
         }
       },
-      "NSwag.ApiDescription.Client/13.0.5": {
+      "NSwag.ApiDescription.Client/13.16.1": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.ApiDescription.Client": "0.3.0-preview7.19365.7",
-          "NSwag.MSBuild": "13.0.5"
+          "Microsoft.Extensions.ApiDescription.Client": "6.0.3",
+          "NSwag.MSBuild": "13.16.1"
         },
         "build": {
           "build/NSwag.ApiDescription.Client.props": {},
           "build/NSwag.ApiDescription.Client.targets": {}
         }
       },
-      "NSwag.MSBuild/13.0.5": {
+      "NSwag.MSBuild/13.16.1": {
         "type": "package",
         "build": {
           "build/NSwag.MSBuild.props": {}
@@ -20190,7 +20190,7 @@
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
         }
       },
-      "Microsoft.Extensions.ApiDescription.Client/3.0.0": {
+      "Microsoft.Extensions.ApiDescription.Client/6.0.8": {
         "type": "package",
         "build": {
           "build/Microsoft.Extensions.ApiDescription.Client.props": {},
@@ -20385,18 +20385,18 @@
           }
         }
       },
-      "NSwag.ApiDescription.Client/13.0.5": {
+      "NSwag.ApiDescription.Client/13.16.1": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.ApiDescription.Client": "0.3.0-preview7.19365.7",
-          "NSwag.MSBuild": "13.0.5"
+          "Microsoft.Extensions.ApiDescription.Client": "6.0.3",
+          "NSwag.MSBuild": "13.16.1"
         },
         "build": {
           "build/NSwag.ApiDescription.Client.props": {},
           "build/NSwag.ApiDescription.Client.targets": {}
         }
       },
-      "NSwag.MSBuild/13.0.5": {
+      "NSwag.MSBuild/13.16.1": {
         "type": "package",
         "build": {
           "build/NSwag.MSBuild.props": {}
@@ -20466,7 +20466,7 @@
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
         }
       },
-      "Microsoft.Extensions.ApiDescription.Client/3.0.0": {
+      "Microsoft.Extensions.ApiDescription.Client/6.0.8": {
         "type": "package",
         "build": {
           "build/Microsoft.Extensions.ApiDescription.Client.props": {},
@@ -20794,18 +20794,18 @@
           }
         }
       },
-      "NSwag.ApiDescription.Client/13.0.5": {
+      "NSwag.ApiDescription.Client/13.16.1": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.ApiDescription.Client": "0.3.0-preview7.19365.7",
-          "NSwag.MSBuild": "13.0.5"
+          "Microsoft.Extensions.ApiDescription.Client": "6.0.3",
+          "NSwag.MSBuild": "13.16.1"
         },
         "build": {
           "build/NSwag.ApiDescription.Client.props": {},
           "build/NSwag.ApiDescription.Client.targets": {}
         }
       },
-      "NSwag.MSBuild/13.0.5": {
+      "NSwag.MSBuild/13.16.1": {
         "type": "package",
         "build": {
           "build/NSwag.MSBuild.props": {}
@@ -20867,7 +20867,7 @@
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
         }
       },
-      "Microsoft.Extensions.ApiDescription.Client/3.0.0": {
+      "Microsoft.Extensions.ApiDescription.Client/6.0.8": {
         "type": "package",
         "build": {
           "build/Microsoft.Extensions.ApiDescription.Client.props": {},
@@ -21167,18 +21167,18 @@
           }
         }
       },
-      "NSwag.ApiDescription.Client/13.0.5": {
+      "NSwag.ApiDescription.Client/13.16.1": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.ApiDescription.Client": "0.3.0-preview7.19365.7",
-          "NSwag.MSBuild": "13.0.5"
+          "Microsoft.Extensions.ApiDescription.Client": "6.0.3",
+          "NSwag.MSBuild": "13.16.1"
         },
         "build": {
           "build/NSwag.ApiDescription.Client.props": {},
           "build/NSwag.ApiDescription.Client.targets": {}
         }
       },
-      "NSwag.MSBuild/13.0.5": {
+      "NSwag.MSBuild/13.16.1": {
         "type": "package",
         "build": {
           "build/NSwag.MSBuild.props": {}
@@ -21240,7 +21240,7 @@
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
         }
       },
-      "Microsoft.Extensions.ApiDescription.Client/3.0.0": {
+      "Microsoft.Extensions.ApiDescription.Client/6.0.8": {
         "type": "package",
         "build": {
           "build/Microsoft.Extensions.ApiDescription.Client.props": {},
@@ -21540,18 +21540,18 @@
           }
         }
       },
-      "NSwag.ApiDescription.Client/13.0.5": {
+      "NSwag.ApiDescription.Client/13.16.1": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.ApiDescription.Client": "0.3.0-preview7.19365.7",
-          "NSwag.MSBuild": "13.0.5"
+          "Microsoft.Extensions.ApiDescription.Client": "6.0.3",
+          "NSwag.MSBuild": "13.16.1"
         },
         "build": {
           "build/NSwag.ApiDescription.Client.props": {},
           "build/NSwag.ApiDescription.Client.targets": {}
         }
       },
-      "NSwag.MSBuild/13.0.5": {
+      "NSwag.MSBuild/13.16.1": {
         "type": "package",
         "build": {
           "build/NSwag.MSBuild.props": {}
@@ -21613,7 +21613,7 @@
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
         }
       },
-      "Microsoft.Extensions.ApiDescription.Client/3.0.0": {
+      "Microsoft.Extensions.ApiDescription.Client/6.0.8": {
         "type": "package",
         "build": {
           "build/Microsoft.Extensions.ApiDescription.Client.props": {},
@@ -21913,18 +21913,18 @@
           }
         }
       },
-      "NSwag.ApiDescription.Client/13.0.5": {
+      "NSwag.ApiDescription.Client/13.16.1": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.ApiDescription.Client": "0.3.0-preview7.19365.7",
-          "NSwag.MSBuild": "13.0.5"
+          "Microsoft.Extensions.ApiDescription.Client": "6.0.3",
+          "NSwag.MSBuild": "13.16.1"
         },
         "build": {
           "build/NSwag.ApiDescription.Client.props": {},
           "build/NSwag.ApiDescription.Client.targets": {}
         }
       },
-      "NSwag.MSBuild/13.0.5": {
+      "NSwag.MSBuild/13.16.1": {
         "type": "package",
         "build": {
           "build/NSwag.MSBuild.props": {}
@@ -21986,7 +21986,7 @@
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
         }
       },
-      "Microsoft.Extensions.ApiDescription.Client/3.0.0": {
+      "Microsoft.Extensions.ApiDescription.Client/6.0.8": {
         "type": "package",
         "build": {
           "build/Microsoft.Extensions.ApiDescription.Client.props": {},
@@ -22286,18 +22286,18 @@
           }
         }
       },
-      "NSwag.ApiDescription.Client/13.0.5": {
+      "NSwag.ApiDescription.Client/13.16.1": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.ApiDescription.Client": "0.3.0-preview7.19365.7",
-          "NSwag.MSBuild": "13.0.5"
+          "Microsoft.Extensions.ApiDescription.Client": "6.0.3",
+          "NSwag.MSBuild": "13.16.1"
         },
         "build": {
           "build/NSwag.ApiDescription.Client.props": {},
           "build/NSwag.ApiDescription.Client.targets": {}
         }
       },
-      "NSwag.MSBuild/13.0.5": {
+      "NSwag.MSBuild/13.16.1": {
         "type": "package",
         "build": {
           "build/NSwag.MSBuild.props": {}
@@ -22359,7 +22359,7 @@
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
         }
       },
-      "Microsoft.Extensions.ApiDescription.Client/3.0.0": {
+      "Microsoft.Extensions.ApiDescription.Client/6.0.8": {
         "type": "package",
         "build": {
           "build/Microsoft.Extensions.ApiDescription.Client.props": {},
@@ -22659,18 +22659,18 @@
           }
         }
       },
-      "NSwag.ApiDescription.Client/13.0.5": {
+      "NSwag.ApiDescription.Client/13.16.1": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.ApiDescription.Client": "0.3.0-preview7.19365.7",
-          "NSwag.MSBuild": "13.0.5"
+          "Microsoft.Extensions.ApiDescription.Client": "6.0.3",
+          "NSwag.MSBuild": "13.16.1"
         },
         "build": {
           "build/NSwag.ApiDescription.Client.props": {},
           "build/NSwag.ApiDescription.Client.targets": {}
         }
       },
-      "NSwag.MSBuild/13.0.5": {
+      "NSwag.MSBuild/13.16.1": {
         "type": "package",
         "build": {
           "build/NSwag.MSBuild.props": {}
@@ -22732,7 +22732,7 @@
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
         }
       },
-      "Microsoft.Extensions.ApiDescription.Client/3.0.0": {
+      "Microsoft.Extensions.ApiDescription.Client/6.0.8": {
         "type": "package",
         "build": {
           "build/Microsoft.Extensions.ApiDescription.Client.props": {},
@@ -23032,18 +23032,18 @@
           }
         }
       },
-      "NSwag.ApiDescription.Client/13.0.5": {
+      "NSwag.ApiDescription.Client/13.16.1": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.ApiDescription.Client": "0.3.0-preview7.19365.7",
-          "NSwag.MSBuild": "13.0.5"
+          "Microsoft.Extensions.ApiDescription.Client": "6.0.3",
+          "NSwag.MSBuild": "13.16.1"
         },
         "build": {
           "build/NSwag.ApiDescription.Client.props": {},
           "build/NSwag.ApiDescription.Client.targets": {}
         }
       },
-      "NSwag.MSBuild/13.0.5": {
+      "NSwag.MSBuild/13.16.1": {
         "type": "package",
         "build": {
           "build/NSwag.MSBuild.props": {}
@@ -23105,7 +23105,7 @@
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
         }
       },
-      "Microsoft.Extensions.ApiDescription.Client/3.0.0": {
+      "Microsoft.Extensions.ApiDescription.Client/6.0.8": {
         "type": "package",
         "build": {
           "build/Microsoft.Extensions.ApiDescription.Client.props": {},
@@ -23411,18 +23411,18 @@
           }
         }
       },
-      "NSwag.ApiDescription.Client/13.0.5": {
+      "NSwag.ApiDescription.Client/13.16.1": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.ApiDescription.Client": "0.3.0-preview7.19365.7",
-          "NSwag.MSBuild": "13.0.5"
+          "Microsoft.Extensions.ApiDescription.Client": "6.0.3",
+          "NSwag.MSBuild": "13.16.1"
         },
         "build": {
           "build/NSwag.ApiDescription.Client.props": {},
           "build/NSwag.ApiDescription.Client.targets": {}
         }
       },
-      "NSwag.MSBuild/13.0.5": {
+      "NSwag.MSBuild/13.16.1": {
         "type": "package",
         "build": {
           "build/NSwag.MSBuild.props": {}
@@ -23515,19 +23515,20 @@
         "lib/net6.0-android31.0/GoogleGson.xml"
       ]
     },
-    "Microsoft.Extensions.ApiDescription.Client/3.0.0": {
-      "sha512": "EpGGEoBelJtt4IN32O02D+Lb4DjSFB1GUoItLa8GDzM4x/cqpCAKn5tRb6Fn7U3/rGlWjfLMGXW/t9zvYmPQtA==",
+    "Microsoft.Extensions.ApiDescription.Client/6.0.8": {
+      "sha512": "fN3zEuHjSql9w2Md29dYkmPbAijxr+LqxoOoJ9B8G2j+fHgAK/N0g89miIUwepwbk8izTi5m8cVyWTKQgkd+ww==",
       "type": "package",
-      "path": "microsoft.extensions.apidescription.client/3.0.0",
+      "path": "microsoft.extensions.apidescription.client/6.0.8",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
+        "Icon.png",
         "build/Microsoft.Extensions.ApiDescription.Client.props",
         "build/Microsoft.Extensions.ApiDescription.Client.targets",
         "build/OpenApiItemsSchema.xaml",
         "buildMultiTargeting/Microsoft.Extensions.ApiDescription.Client.props",
         "buildMultiTargeting/Microsoft.Extensions.ApiDescription.Client.targets",
-        "microsoft.extensions.apidescription.client.3.0.0.nupkg.sha512",
+        "microsoft.extensions.apidescription.client.6.0.8.nupkg.sha512",
         "microsoft.extensions.apidescription.client.nuspec",
         "tasks/netstandard2.0/Microsoft.Extensions.ApiDescription.Client.deps.json",
         "tasks/netstandard2.0/Microsoft.Extensions.ApiDescription.Client.dll"
@@ -24616,413 +24617,155 @@
         "packageIcon.png"
       ]
     },
-    "NSwag.ApiDescription.Client/13.0.5": {
-      "sha512": "Zu5uTfiKtJiuzXHtgCmForzIkd2WvrFhcrg6yTiTRKPYo3az/Pl4JF+F5NmZtZ+3gIIrsf5fabJbbZ8L5BymIg==",
+    "NSwag.ApiDescription.Client/13.16.1": {
+      "sha512": "GEqnUzOdBv1QpncPoZGfaRRIFcWI/4PoFQ47KWrOrIRJtOY0+FGvm/181nrMcSJbxW3eEnHllTgywLRpesXdIQ==",
       "type": "package",
-      "path": "nswag.apidescription.client/13.0.5",
+      "path": "nswag.apidescription.client/13.16.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "build/NSwag.ApiDescription.Client.props",
         "build/NSwag.ApiDescription.Client.targets",
-        "nswag.apidescription.client.13.0.5.nupkg.sha512",
+        "nswag.apidescription.client.13.16.1.nupkg.sha512",
         "nswag.apidescription.client.nuspec"
       ]
     },
-    "NSwag.MSBuild/13.0.5": {
-      "sha512": "CjLWwC2p+HRGxmSAJY9xtOMMO9YczTtIiGVEPckrklXjc3dJ7OAT/caKHjE+9fYx1an+9qeDao2qxmMpCkGTXQ==",
+    "NSwag.MSBuild/13.16.1": {
+      "sha512": "P5qkQRW7Vfu3YvbFs5K92/vsId1eXgL6VF/es9xugELKQZuhDMUwY9TkmkPMloEuEnLeau9qt7fLbxxP/ChQpg==",
       "type": "package",
-      "path": "nswag.msbuild/13.0.5",
+      "path": "nswag.msbuild/13.16.1",
       "hasTools": true,
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "build/NSwag.MSBuild.props",
         "buildCrossTargeting/NSwag.MSBuild.props",
-        "nswag.msbuild.13.0.5.nupkg.sha512",
+        "nswag.msbuild.13.16.1.nupkg.sha512",
         "nswag.msbuild.nuspec",
-        "tools/NetCore10/DotLiquid.dll",
-        "tools/NetCore10/Microsoft.AspNetCore.Authorization.dll",
-        "tools/NetCore10/Microsoft.AspNetCore.Hosting.Abstractions.dll",
-        "tools/NetCore10/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll",
-        "tools/NetCore10/Microsoft.AspNetCore.Hosting.dll",
-        "tools/NetCore10/Microsoft.AspNetCore.Http.Abstractions.dll",
-        "tools/NetCore10/Microsoft.AspNetCore.Http.Extensions.dll",
-        "tools/NetCore10/Microsoft.AspNetCore.Http.Features.dll",
-        "tools/NetCore10/Microsoft.AspNetCore.Http.dll",
-        "tools/NetCore10/Microsoft.AspNetCore.JsonPatch.dll",
-        "tools/NetCore10/Microsoft.AspNetCore.Mvc.Abstractions.dll",
-        "tools/NetCore10/Microsoft.AspNetCore.Mvc.ApiExplorer.dll",
-        "tools/NetCore10/Microsoft.AspNetCore.Mvc.Core.dll",
-        "tools/NetCore10/Microsoft.AspNetCore.Mvc.Formatters.Json.dll",
-        "tools/NetCore10/Microsoft.AspNetCore.Routing.Abstractions.dll",
-        "tools/NetCore10/Microsoft.AspNetCore.Routing.dll",
-        "tools/NetCore10/Microsoft.AspNetCore.TestHost.dll",
-        "tools/NetCore10/Microsoft.AspNetCore.WebUtilities.dll",
-        "tools/NetCore10/Microsoft.CSharp.dll",
-        "tools/NetCore10/Microsoft.DotNet.InternalAbstractions.dll",
-        "tools/NetCore10/Microsoft.Extensions.Configuration.Abstractions.dll",
-        "tools/NetCore10/Microsoft.Extensions.Configuration.EnvironmentVariables.dll",
-        "tools/NetCore10/Microsoft.Extensions.Configuration.dll",
-        "tools/NetCore10/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
-        "tools/NetCore10/Microsoft.Extensions.DependencyInjection.dll",
-        "tools/NetCore10/Microsoft.Extensions.DependencyModel.dll",
-        "tools/NetCore10/Microsoft.Extensions.FileProviders.Abstractions.dll",
-        "tools/NetCore10/Microsoft.Extensions.FileProviders.Physical.dll",
-        "tools/NetCore10/Microsoft.Extensions.FileSystemGlobbing.dll",
-        "tools/NetCore10/Microsoft.Extensions.Logging.Abstractions.dll",
-        "tools/NetCore10/Microsoft.Extensions.Logging.dll",
-        "tools/NetCore10/Microsoft.Extensions.ObjectPool.dll",
-        "tools/NetCore10/Microsoft.Extensions.Options.dll",
-        "tools/NetCore10/Microsoft.Extensions.PlatformAbstractions.dll",
-        "tools/NetCore10/Microsoft.Extensions.Primitives.dll",
-        "tools/NetCore10/Microsoft.Net.Http.Headers.dll",
-        "tools/NetCore10/NConsole.dll",
-        "tools/NetCore10/NJsonSchema.CodeGeneration.CSharp.dll",
-        "tools/NetCore10/NJsonSchema.CodeGeneration.TypeScript.dll",
-        "tools/NetCore10/NJsonSchema.CodeGeneration.dll",
-        "tools/NetCore10/NJsonSchema.Yaml.dll",
-        "tools/NetCore10/NJsonSchema.dll",
-        "tools/NetCore10/NSwag.Annotations.dll",
-        "tools/NetCore10/NSwag.Annotations.pdb",
-        "tools/NetCore10/NSwag.Annotations.xml",
-        "tools/NetCore10/NSwag.AspNetCore.Launcher.dll",
-        "tools/NetCore10/NSwag.AspNetCore.Launcher.pdb",
-        "tools/NetCore10/NSwag.AssemblyLoader.dll",
-        "tools/NetCore10/NSwag.AssemblyLoader.dll.config",
-        "tools/NetCore10/NSwag.AssemblyLoader.pdb",
-        "tools/NetCore10/NSwag.AssemblyLoader.xml",
-        "tools/NetCore10/NSwag.CodeGeneration.CSharp.dll",
-        "tools/NetCore10/NSwag.CodeGeneration.CSharp.pdb",
-        "tools/NetCore10/NSwag.CodeGeneration.CSharp.xml",
-        "tools/NetCore10/NSwag.CodeGeneration.TypeScript.dll",
-        "tools/NetCore10/NSwag.CodeGeneration.TypeScript.pdb",
-        "tools/NetCore10/NSwag.CodeGeneration.TypeScript.xml",
-        "tools/NetCore10/NSwag.CodeGeneration.dll",
-        "tools/NetCore10/NSwag.CodeGeneration.dll.config",
-        "tools/NetCore10/NSwag.CodeGeneration.pdb",
-        "tools/NetCore10/NSwag.CodeGeneration.xml",
-        "tools/NetCore10/NSwag.Commands.dll",
-        "tools/NetCore10/NSwag.Commands.pdb",
-        "tools/NetCore10/NSwag.Commands.xml",
-        "tools/NetCore10/NSwag.Core.Yaml.dll",
-        "tools/NetCore10/NSwag.Core.Yaml.pdb",
-        "tools/NetCore10/NSwag.Core.dll",
-        "tools/NetCore10/NSwag.Core.dll.config",
-        "tools/NetCore10/NSwag.Core.pdb",
-        "tools/NetCore10/NSwag.Core.xml",
-        "tools/NetCore10/NSwag.Generation.AspNetCore.dll",
-        "tools/NetCore10/NSwag.Generation.AspNetCore.pdb",
-        "tools/NetCore10/NSwag.Generation.AspNetCore.xml",
-        "tools/NetCore10/NSwag.Generation.WebApi.dll",
-        "tools/NetCore10/NSwag.Generation.WebApi.pdb",
-        "tools/NetCore10/NSwag.Generation.WebApi.xml",
-        "tools/NetCore10/NSwag.Generation.dll",
-        "tools/NetCore10/NSwag.Generation.pdb",
-        "tools/NetCore10/NSwag.Generation.xml",
-        "tools/NetCore10/Namotion.Reflection.dll",
-        "tools/NetCore10/Newtonsoft.Json.dll",
-        "tools/NetCore10/System.AppContext.dll",
-        "tools/NetCore10/System.Buffers.dll",
-        "tools/NetCore10/System.Collections.Concurrent.dll",
-        "tools/NetCore10/System.Collections.Immutable.dll",
-        "tools/NetCore10/System.Collections.NonGeneric.dll",
-        "tools/NetCore10/System.Collections.Specialized.dll",
-        "tools/NetCore10/System.ComponentModel.Primitives.dll",
-        "tools/NetCore10/System.ComponentModel.TypeConverter.dll",
-        "tools/NetCore10/System.Diagnostics.Contracts.dll",
-        "tools/NetCore10/System.Diagnostics.DiagnosticSource.dll",
-        "tools/NetCore10/System.Dynamic.Runtime.dll",
-        "tools/NetCore10/System.IO.Compression.ZipFile.dll",
-        "tools/NetCore10/System.IO.FileSystem.Primitives.dll",
-        "tools/NetCore10/System.Linq.Expressions.dll",
-        "tools/NetCore10/System.Linq.dll",
-        "tools/NetCore10/System.Net.WebSockets.dll",
-        "tools/NetCore10/System.ObjectModel.dll",
-        "tools/NetCore10/System.Reflection.Emit.ILGeneration.dll",
-        "tools/NetCore10/System.Reflection.Emit.Lightweight.dll",
-        "tools/NetCore10/System.Reflection.Emit.dll",
-        "tools/NetCore10/System.Reflection.Metadata.dll",
-        "tools/NetCore10/System.Reflection.TypeExtensions.dll",
-        "tools/NetCore10/System.Runtime.InteropServices.RuntimeInformation.dll",
-        "tools/NetCore10/System.Runtime.Numerics.dll",
-        "tools/NetCore10/System.Runtime.Serialization.Primitives.dll",
-        "tools/NetCore10/System.Security.Cryptography.OpenSsl.dll",
-        "tools/NetCore10/System.Security.Cryptography.Primitives.dll",
-        "tools/NetCore10/System.Text.Encodings.Web.dll",
-        "tools/NetCore10/System.Text.RegularExpressions.dll",
-        "tools/NetCore10/System.Threading.Tasks.Extensions.dll",
-        "tools/NetCore10/System.Threading.Thread.dll",
-        "tools/NetCore10/System.Threading.ThreadPool.dll",
-        "tools/NetCore10/System.Threading.dll",
-        "tools/NetCore10/System.Xml.ReaderWriter.dll",
-        "tools/NetCore10/System.Xml.XDocument.dll",
-        "tools/NetCore10/YamlDotNet.dll",
-        "tools/NetCore10/dotnet-nswag.deps.json",
-        "tools/NetCore10/dotnet-nswag.dll",
-        "tools/NetCore10/dotnet-nswag.pdb",
-        "tools/NetCore10/dotnet-nswag.runtimeconfig.json",
-        "tools/NetCore10/it/DotLiquid.resources.dll",
-        "tools/NetCore10/runtimes/debian.8-x64/native/System.Security.Cryptography.Native.OpenSsl.so",
-        "tools/NetCore10/runtimes/fedora.23-x64/native/System.Security.Cryptography.Native.OpenSsl.so",
-        "tools/NetCore10/runtimes/fedora.24-x64/native/System.Security.Cryptography.Native.OpenSsl.so",
-        "tools/NetCore10/runtimes/linux/lib/netstandard1.4/System.Diagnostics.Process.dll",
-        "tools/NetCore10/runtimes/opensuse.13.2-x64/native/System.Security.Cryptography.Native.OpenSsl.so",
-        "tools/NetCore10/runtimes/opensuse.42.1-x64/native/System.Security.Cryptography.Native.OpenSsl.so",
-        "tools/NetCore10/runtimes/osx.10.10-x64/native/System.Security.Cryptography.Native.Apple.dylib",
-        "tools/NetCore10/runtimes/osx.10.10-x64/native/System.Security.Cryptography.Native.OpenSsl.dylib",
-        "tools/NetCore10/runtimes/osx/lib/netstandard1.4/System.Diagnostics.Process.dll",
-        "tools/NetCore10/runtimes/osx/lib/netstandard1.6/System.Security.Cryptography.Algorithms.dll",
-        "tools/NetCore10/runtimes/rhel.7-x64/native/System.Security.Cryptography.Native.OpenSsl.so",
-        "tools/NetCore10/runtimes/ubuntu.14.04-x64/native/System.Security.Cryptography.Native.OpenSsl.so",
-        "tools/NetCore10/runtimes/ubuntu.16.04-x64/native/System.Security.Cryptography.Native.OpenSsl.so",
-        "tools/NetCore10/runtimes/ubuntu.16.10-x64/native/System.Security.Cryptography.Native.OpenSsl.so",
-        "tools/NetCore10/runtimes/unix/lib/netstandard1.1/System.Runtime.InteropServices.RuntimeInformation.dll",
-        "tools/NetCore10/runtimes/unix/lib/netstandard1.3/Microsoft.Win32.Registry.dll",
-        "tools/NetCore10/runtimes/unix/lib/netstandard1.3/System.Diagnostics.FileVersionInfo.dll",
-        "tools/NetCore10/runtimes/unix/lib/netstandard1.3/System.Globalization.Extensions.dll",
-        "tools/NetCore10/runtimes/unix/lib/netstandard1.3/System.IO.Compression.dll",
-        "tools/NetCore10/runtimes/unix/lib/netstandard1.3/System.Security.Cryptography.Csp.dll",
-        "tools/NetCore10/runtimes/unix/lib/netstandard1.3/System.Security.Cryptography.Encoding.dll",
-        "tools/NetCore10/runtimes/unix/lib/netstandard1.6/System.Net.Http.dll",
-        "tools/NetCore10/runtimes/unix/lib/netstandard1.6/System.Security.Cryptography.Algorithms.dll",
-        "tools/NetCore10/runtimes/unix/lib/netstandard1.6/System.Security.Cryptography.Cng.dll",
-        "tools/NetCore10/runtimes/unix/lib/netstandard1.6/System.Security.Cryptography.OpenSsl.dll",
-        "tools/NetCore10/runtimes/unix/lib/netstandard1.6/System.Security.Cryptography.X509Certificates.dll",
-        "tools/NetCore10/runtimes/win/lib/netstandard1.1/System.Runtime.InteropServices.RuntimeInformation.dll",
-        "tools/NetCore10/runtimes/win/lib/netstandard1.3/Microsoft.Win32.Registry.dll",
-        "tools/NetCore10/runtimes/win/lib/netstandard1.3/System.Diagnostics.FileVersionInfo.dll",
-        "tools/NetCore10/runtimes/win/lib/netstandard1.3/System.Globalization.Extensions.dll",
-        "tools/NetCore10/runtimes/win/lib/netstandard1.3/System.IO.Compression.dll",
-        "tools/NetCore10/runtimes/win/lib/netstandard1.3/System.Net.Http.dll",
-        "tools/NetCore10/runtimes/win/lib/netstandard1.3/System.Security.Cryptography.Csp.dll",
-        "tools/NetCore10/runtimes/win/lib/netstandard1.3/System.Security.Cryptography.Encoding.dll",
-        "tools/NetCore10/runtimes/win/lib/netstandard1.4/System.Diagnostics.Process.dll",
-        "tools/NetCore10/runtimes/win/lib/netstandard1.6/System.Security.Cryptography.Algorithms.dll",
-        "tools/NetCore10/runtimes/win/lib/netstandard1.6/System.Security.Cryptography.Cng.dll",
-        "tools/NetCore10/runtimes/win/lib/netstandard1.6/System.Security.Cryptography.X509Certificates.dll",
-        "tools/NetCore11/DotLiquid.dll",
-        "tools/NetCore11/Microsoft.AspNetCore.Authorization.dll",
-        "tools/NetCore11/Microsoft.AspNetCore.Hosting.Abstractions.dll",
-        "tools/NetCore11/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll",
-        "tools/NetCore11/Microsoft.AspNetCore.Hosting.dll",
-        "tools/NetCore11/Microsoft.AspNetCore.Http.Abstractions.dll",
-        "tools/NetCore11/Microsoft.AspNetCore.Http.Extensions.dll",
-        "tools/NetCore11/Microsoft.AspNetCore.Http.Features.dll",
-        "tools/NetCore11/Microsoft.AspNetCore.Http.dll",
-        "tools/NetCore11/Microsoft.AspNetCore.JsonPatch.dll",
-        "tools/NetCore11/Microsoft.AspNetCore.Mvc.Abstractions.dll",
-        "tools/NetCore11/Microsoft.AspNetCore.Mvc.ApiExplorer.dll",
-        "tools/NetCore11/Microsoft.AspNetCore.Mvc.Core.dll",
-        "tools/NetCore11/Microsoft.AspNetCore.Mvc.Formatters.Json.dll",
-        "tools/NetCore11/Microsoft.AspNetCore.ResponseCaching.Abstractions.dll",
-        "tools/NetCore11/Microsoft.AspNetCore.Routing.Abstractions.dll",
-        "tools/NetCore11/Microsoft.AspNetCore.Routing.dll",
-        "tools/NetCore11/Microsoft.AspNetCore.TestHost.dll",
-        "tools/NetCore11/Microsoft.AspNetCore.WebUtilities.dll",
-        "tools/NetCore11/Microsoft.CSharp.dll",
-        "tools/NetCore11/Microsoft.DotNet.PlatformAbstractions.dll",
-        "tools/NetCore11/Microsoft.Extensions.Configuration.Abstractions.dll",
-        "tools/NetCore11/Microsoft.Extensions.Configuration.EnvironmentVariables.dll",
-        "tools/NetCore11/Microsoft.Extensions.Configuration.dll",
-        "tools/NetCore11/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
-        "tools/NetCore11/Microsoft.Extensions.DependencyInjection.dll",
-        "tools/NetCore11/Microsoft.Extensions.DependencyModel.dll",
-        "tools/NetCore11/Microsoft.Extensions.FileProviders.Abstractions.dll",
-        "tools/NetCore11/Microsoft.Extensions.FileProviders.Physical.dll",
-        "tools/NetCore11/Microsoft.Extensions.FileSystemGlobbing.dll",
-        "tools/NetCore11/Microsoft.Extensions.Logging.Abstractions.dll",
-        "tools/NetCore11/Microsoft.Extensions.Logging.dll",
-        "tools/NetCore11/Microsoft.Extensions.ObjectPool.dll",
-        "tools/NetCore11/Microsoft.Extensions.Options.dll",
-        "tools/NetCore11/Microsoft.Extensions.PlatformAbstractions.dll",
-        "tools/NetCore11/Microsoft.Extensions.Primitives.dll",
-        "tools/NetCore11/Microsoft.Net.Http.Headers.dll",
-        "tools/NetCore11/NConsole.dll",
-        "tools/NetCore11/NJsonSchema.CodeGeneration.CSharp.dll",
-        "tools/NetCore11/NJsonSchema.CodeGeneration.TypeScript.dll",
-        "tools/NetCore11/NJsonSchema.CodeGeneration.dll",
-        "tools/NetCore11/NJsonSchema.Yaml.dll",
-        "tools/NetCore11/NJsonSchema.dll",
-        "tools/NetCore11/NSwag.Annotations.dll",
-        "tools/NetCore11/NSwag.Annotations.pdb",
-        "tools/NetCore11/NSwag.Annotations.xml",
-        "tools/NetCore11/NSwag.AspNetCore.Launcher.dll",
-        "tools/NetCore11/NSwag.AspNetCore.Launcher.pdb",
-        "tools/NetCore11/NSwag.AssemblyLoader.dll",
-        "tools/NetCore11/NSwag.AssemblyLoader.dll.config",
-        "tools/NetCore11/NSwag.AssemblyLoader.pdb",
-        "tools/NetCore11/NSwag.AssemblyLoader.xml",
-        "tools/NetCore11/NSwag.CodeGeneration.CSharp.dll",
-        "tools/NetCore11/NSwag.CodeGeneration.CSharp.pdb",
-        "tools/NetCore11/NSwag.CodeGeneration.CSharp.xml",
-        "tools/NetCore11/NSwag.CodeGeneration.TypeScript.dll",
-        "tools/NetCore11/NSwag.CodeGeneration.TypeScript.pdb",
-        "tools/NetCore11/NSwag.CodeGeneration.TypeScript.xml",
-        "tools/NetCore11/NSwag.CodeGeneration.dll",
-        "tools/NetCore11/NSwag.CodeGeneration.dll.config",
-        "tools/NetCore11/NSwag.CodeGeneration.pdb",
-        "tools/NetCore11/NSwag.CodeGeneration.xml",
-        "tools/NetCore11/NSwag.Commands.dll",
-        "tools/NetCore11/NSwag.Commands.pdb",
-        "tools/NetCore11/NSwag.Commands.xml",
-        "tools/NetCore11/NSwag.Core.Yaml.dll",
-        "tools/NetCore11/NSwag.Core.Yaml.pdb",
-        "tools/NetCore11/NSwag.Core.dll",
-        "tools/NetCore11/NSwag.Core.dll.config",
-        "tools/NetCore11/NSwag.Core.pdb",
-        "tools/NetCore11/NSwag.Core.xml",
-        "tools/NetCore11/NSwag.Generation.AspNetCore.dll",
-        "tools/NetCore11/NSwag.Generation.AspNetCore.pdb",
-        "tools/NetCore11/NSwag.Generation.AspNetCore.xml",
-        "tools/NetCore11/NSwag.Generation.WebApi.dll",
-        "tools/NetCore11/NSwag.Generation.WebApi.pdb",
-        "tools/NetCore11/NSwag.Generation.WebApi.xml",
-        "tools/NetCore11/NSwag.Generation.dll",
-        "tools/NetCore11/NSwag.Generation.pdb",
-        "tools/NetCore11/NSwag.Generation.xml",
-        "tools/NetCore11/Namotion.Reflection.dll",
-        "tools/NetCore11/Newtonsoft.Json.dll",
-        "tools/NetCore11/System.Collections.NonGeneric.dll",
-        "tools/NetCore11/System.Collections.Specialized.dll",
-        "tools/NetCore11/System.ComponentModel.Primitives.dll",
-        "tools/NetCore11/System.ComponentModel.TypeConverter.dll",
-        "tools/NetCore11/System.Diagnostics.Contracts.dll",
-        "tools/NetCore11/System.Diagnostics.StackTrace.dll",
-        "tools/NetCore11/System.Net.WebSockets.dll",
-        "tools/NetCore11/System.Reflection.TypeExtensions.dll",
-        "tools/NetCore11/System.Runtime.CompilerServices.Unsafe.dll",
-        "tools/NetCore11/System.Runtime.Serialization.Primitives.dll",
-        "tools/NetCore11/System.Text.Encodings.Web.dll",
-        "tools/NetCore11/YamlDotNet.dll",
-        "tools/NetCore11/dotnet-nswag.deps.json",
-        "tools/NetCore11/dotnet-nswag.dll",
-        "tools/NetCore11/dotnet-nswag.pdb",
-        "tools/NetCore11/dotnet-nswag.runtimeconfig.json",
-        "tools/NetCore11/it/DotLiquid.resources.dll",
-        "tools/NetCore11/runtimes/unix/lib/netstandard1.3/System.Diagnostics.FileVersionInfo.dll",
-        "tools/NetCore11/runtimes/win/lib/netstandard1.3/System.Diagnostics.FileVersionInfo.dll",
-        "tools/NetCore20/DotLiquid.dll",
-        "tools/NetCore20/Microsoft.AspNetCore.Authentication.Abstractions.dll",
-        "tools/NetCore20/Microsoft.AspNetCore.Authentication.Core.dll",
-        "tools/NetCore20/Microsoft.AspNetCore.Authorization.Policy.dll",
-        "tools/NetCore20/Microsoft.AspNetCore.Authorization.dll",
-        "tools/NetCore20/Microsoft.AspNetCore.Diagnostics.Abstractions.dll",
-        "tools/NetCore20/Microsoft.AspNetCore.Diagnostics.dll",
-        "tools/NetCore20/Microsoft.AspNetCore.Hosting.Abstractions.dll",
-        "tools/NetCore20/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll",
-        "tools/NetCore20/Microsoft.AspNetCore.Hosting.dll",
-        "tools/NetCore20/Microsoft.AspNetCore.Http.Abstractions.dll",
-        "tools/NetCore20/Microsoft.AspNetCore.Http.Extensions.dll",
-        "tools/NetCore20/Microsoft.AspNetCore.Http.Features.dll",
-        "tools/NetCore20/Microsoft.AspNetCore.Http.dll",
-        "tools/NetCore20/Microsoft.AspNetCore.HttpOverrides.dll",
-        "tools/NetCore20/Microsoft.AspNetCore.JsonPatch.dll",
-        "tools/NetCore20/Microsoft.AspNetCore.Mvc.Abstractions.dll",
-        "tools/NetCore20/Microsoft.AspNetCore.Mvc.ApiExplorer.dll",
-        "tools/NetCore20/Microsoft.AspNetCore.Mvc.Core.dll",
-        "tools/NetCore20/Microsoft.AspNetCore.Mvc.Formatters.Json.dll",
-        "tools/NetCore20/Microsoft.AspNetCore.ResponseCaching.Abstractions.dll",
-        "tools/NetCore20/Microsoft.AspNetCore.Routing.Abstractions.dll",
-        "tools/NetCore20/Microsoft.AspNetCore.Routing.dll",
-        "tools/NetCore20/Microsoft.AspNetCore.Server.IISIntegration.dll",
-        "tools/NetCore20/Microsoft.AspNetCore.Server.Kestrel.Core.dll",
-        "tools/NetCore20/Microsoft.AspNetCore.Server.Kestrel.Https.dll",
-        "tools/NetCore20/Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll",
-        "tools/NetCore20/Microsoft.AspNetCore.Server.Kestrel.Transport.Libuv.dll",
-        "tools/NetCore20/Microsoft.AspNetCore.Server.Kestrel.dll",
-        "tools/NetCore20/Microsoft.AspNetCore.TestHost.dll",
-        "tools/NetCore20/Microsoft.AspNetCore.WebUtilities.dll",
-        "tools/NetCore20/Microsoft.AspNetCore.dll",
-        "tools/NetCore20/Microsoft.DotNet.PlatformAbstractions.dll",
-        "tools/NetCore20/Microsoft.Extensions.Configuration.Abstractions.dll",
-        "tools/NetCore20/Microsoft.Extensions.Configuration.Binder.dll",
-        "tools/NetCore20/Microsoft.Extensions.Configuration.CommandLine.dll",
-        "tools/NetCore20/Microsoft.Extensions.Configuration.EnvironmentVariables.dll",
-        "tools/NetCore20/Microsoft.Extensions.Configuration.FileExtensions.dll",
-        "tools/NetCore20/Microsoft.Extensions.Configuration.Json.dll",
-        "tools/NetCore20/Microsoft.Extensions.Configuration.UserSecrets.dll",
-        "tools/NetCore20/Microsoft.Extensions.Configuration.dll",
-        "tools/NetCore20/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
-        "tools/NetCore20/Microsoft.Extensions.DependencyInjection.dll",
-        "tools/NetCore20/Microsoft.Extensions.DependencyModel.dll",
-        "tools/NetCore20/Microsoft.Extensions.FileProviders.Abstractions.dll",
-        "tools/NetCore20/Microsoft.Extensions.FileProviders.Physical.dll",
-        "tools/NetCore20/Microsoft.Extensions.FileSystemGlobbing.dll",
-        "tools/NetCore20/Microsoft.Extensions.Hosting.Abstractions.dll",
-        "tools/NetCore20/Microsoft.Extensions.Logging.Abstractions.dll",
-        "tools/NetCore20/Microsoft.Extensions.Logging.Configuration.dll",
-        "tools/NetCore20/Microsoft.Extensions.Logging.Console.dll",
-        "tools/NetCore20/Microsoft.Extensions.Logging.Debug.dll",
-        "tools/NetCore20/Microsoft.Extensions.Logging.dll",
-        "tools/NetCore20/Microsoft.Extensions.ObjectPool.dll",
-        "tools/NetCore20/Microsoft.Extensions.Options.ConfigurationExtensions.dll",
-        "tools/NetCore20/Microsoft.Extensions.Options.dll",
-        "tools/NetCore20/Microsoft.Extensions.PlatformAbstractions.dll",
-        "tools/NetCore20/Microsoft.Extensions.Primitives.dll",
-        "tools/NetCore20/Microsoft.Net.Http.Headers.dll",
-        "tools/NetCore20/NConsole.dll",
-        "tools/NetCore20/NJsonSchema.CodeGeneration.CSharp.dll",
-        "tools/NetCore20/NJsonSchema.CodeGeneration.TypeScript.dll",
-        "tools/NetCore20/NJsonSchema.CodeGeneration.dll",
-        "tools/NetCore20/NJsonSchema.Yaml.dll",
-        "tools/NetCore20/NJsonSchema.dll",
-        "tools/NetCore20/NSwag.Annotations.dll",
-        "tools/NetCore20/NSwag.Annotations.pdb",
-        "tools/NetCore20/NSwag.Annotations.xml",
-        "tools/NetCore20/NSwag.AspNetCore.Launcher.dll",
-        "tools/NetCore20/NSwag.AspNetCore.Launcher.pdb",
-        "tools/NetCore20/NSwag.AssemblyLoader.dll",
-        "tools/NetCore20/NSwag.AssemblyLoader.dll.config",
-        "tools/NetCore20/NSwag.AssemblyLoader.pdb",
-        "tools/NetCore20/NSwag.AssemblyLoader.xml",
-        "tools/NetCore20/NSwag.CodeGeneration.CSharp.dll",
-        "tools/NetCore20/NSwag.CodeGeneration.CSharp.pdb",
-        "tools/NetCore20/NSwag.CodeGeneration.CSharp.xml",
-        "tools/NetCore20/NSwag.CodeGeneration.TypeScript.dll",
-        "tools/NetCore20/NSwag.CodeGeneration.TypeScript.pdb",
-        "tools/NetCore20/NSwag.CodeGeneration.TypeScript.xml",
-        "tools/NetCore20/NSwag.CodeGeneration.dll",
-        "tools/NetCore20/NSwag.CodeGeneration.dll.config",
-        "tools/NetCore20/NSwag.CodeGeneration.pdb",
-        "tools/NetCore20/NSwag.CodeGeneration.xml",
-        "tools/NetCore20/NSwag.Commands.dll",
-        "tools/NetCore20/NSwag.Commands.pdb",
-        "tools/NetCore20/NSwag.Commands.xml",
-        "tools/NetCore20/NSwag.Core.Yaml.dll",
-        "tools/NetCore20/NSwag.Core.Yaml.pdb",
-        "tools/NetCore20/NSwag.Core.dll",
-        "tools/NetCore20/NSwag.Core.dll.config",
-        "tools/NetCore20/NSwag.Core.pdb",
-        "tools/NetCore20/NSwag.Core.xml",
-        "tools/NetCore20/NSwag.Generation.AspNetCore.dll",
-        "tools/NetCore20/NSwag.Generation.AspNetCore.pdb",
-        "tools/NetCore20/NSwag.Generation.AspNetCore.xml",
-        "tools/NetCore20/NSwag.Generation.WebApi.dll",
-        "tools/NetCore20/NSwag.Generation.WebApi.pdb",
-        "tools/NetCore20/NSwag.Generation.WebApi.xml",
-        "tools/NetCore20/NSwag.Generation.dll",
-        "tools/NetCore20/NSwag.Generation.pdb",
-        "tools/NetCore20/NSwag.Generation.xml",
-        "tools/NetCore20/Namotion.Reflection.dll",
-        "tools/NetCore20/Newtonsoft.Json.dll",
-        "tools/NetCore20/System.Runtime.CompilerServices.Unsafe.dll",
-        "tools/NetCore20/System.Text.Encodings.Web.dll",
-        "tools/NetCore20/YamlDotNet.dll",
-        "tools/NetCore20/dotnet-nswag.deps.json",
-        "tools/NetCore20/dotnet-nswag.dll",
-        "tools/NetCore20/dotnet-nswag.pdb",
-        "tools/NetCore20/dotnet-nswag.runtimeconfig.json",
-        "tools/NetCore20/it/DotLiquid.resources.dll",
-        "tools/NetCore20/runtimes/linux-arm/native/libuv.so",
-        "tools/NetCore20/runtimes/linux-arm64/native/libuv.so",
-        "tools/NetCore20/runtimes/linux-armel/native/libuv.so",
-        "tools/NetCore20/runtimes/linux-x64/native/libuv.so",
-        "tools/NetCore20/runtimes/osx/native/libuv.dylib",
-        "tools/NetCore20/runtimes/win-arm/native/libuv.dll",
-        "tools/NetCore20/runtimes/win-x64/native/libuv.dll",
-        "tools/NetCore20/runtimes/win-x86/native/libuv.dll",
-        "tools/NetCore21/DotLiquid.dll",
+        "tools/Net50/Fluid.dll",
+        "tools/Net50/Microsoft.AspNetCore.JsonPatch.dll",
+        "tools/Net50/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll",
+        "tools/Net50/Microsoft.AspNetCore.TestHost.dll",
+        "tools/Net50/Microsoft.Extensions.DependencyModel.dll",
+        "tools/Net50/Microsoft.Extensions.PlatformAbstractions.dll",
+        "tools/Net50/NConsole.dll",
+        "tools/Net50/NJsonSchema.CodeGeneration.CSharp.dll",
+        "tools/Net50/NJsonSchema.CodeGeneration.TypeScript.dll",
+        "tools/Net50/NJsonSchema.CodeGeneration.dll",
+        "tools/Net50/NJsonSchema.Yaml.dll",
+        "tools/Net50/NJsonSchema.dll",
+        "tools/Net50/NSwag.Annotations.dll",
+        "tools/Net50/NSwag.Annotations.pdb",
+        "tools/Net50/NSwag.Annotations.xml",
+        "tools/Net50/NSwag.AspNetCore.Launcher.dll",
+        "tools/Net50/NSwag.AspNetCore.Launcher.exe",
+        "tools/Net50/NSwag.AspNetCore.Launcher.pdb",
+        "tools/Net50/NSwag.AspNetCore.Launcher.runtimeconfig.json",
+        "tools/Net50/NSwag.AssemblyLoader.dll",
+        "tools/Net50/NSwag.AssemblyLoader.dll.config",
+        "tools/Net50/NSwag.AssemblyLoader.pdb",
+        "tools/Net50/NSwag.AssemblyLoader.xml",
+        "tools/Net50/NSwag.CodeGeneration.CSharp.dll",
+        "tools/Net50/NSwag.CodeGeneration.CSharp.pdb",
+        "tools/Net50/NSwag.CodeGeneration.CSharp.xml",
+        "tools/Net50/NSwag.CodeGeneration.TypeScript.dll",
+        "tools/Net50/NSwag.CodeGeneration.TypeScript.pdb",
+        "tools/Net50/NSwag.CodeGeneration.TypeScript.xml",
+        "tools/Net50/NSwag.CodeGeneration.dll",
+        "tools/Net50/NSwag.CodeGeneration.dll.config",
+        "tools/Net50/NSwag.CodeGeneration.pdb",
+        "tools/Net50/NSwag.CodeGeneration.xml",
+        "tools/Net50/NSwag.Commands.dll",
+        "tools/Net50/NSwag.Commands.pdb",
+        "tools/Net50/NSwag.Commands.xml",
+        "tools/Net50/NSwag.Core.Yaml.dll",
+        "tools/Net50/NSwag.Core.Yaml.pdb",
+        "tools/Net50/NSwag.Core.dll",
+        "tools/Net50/NSwag.Core.pdb",
+        "tools/Net50/NSwag.Core.xml",
+        "tools/Net50/NSwag.Generation.AspNetCore.dll",
+        "tools/Net50/NSwag.Generation.AspNetCore.pdb",
+        "tools/Net50/NSwag.Generation.AspNetCore.xml",
+        "tools/Net50/NSwag.Generation.WebApi.dll",
+        "tools/Net50/NSwag.Generation.WebApi.pdb",
+        "tools/Net50/NSwag.Generation.WebApi.xml",
+        "tools/Net50/NSwag.Generation.dll",
+        "tools/Net50/NSwag.Generation.pdb",
+        "tools/Net50/NSwag.Generation.xml",
+        "tools/Net50/Namotion.Reflection.dll",
+        "tools/Net50/Newtonsoft.Json.Bson.dll",
+        "tools/Net50/Newtonsoft.Json.dll",
+        "tools/Net50/Parlot.dll",
+        "tools/Net50/System.Text.Encodings.Web.dll",
+        "tools/Net50/TimeZoneConverter.dll",
+        "tools/Net50/YamlDotNet.dll",
+        "tools/Net50/dotnet-nswag.deps.json",
+        "tools/Net50/dotnet-nswag.dll",
+        "tools/Net50/dotnet-nswag.exe",
+        "tools/Net50/dotnet-nswag.pdb",
+        "tools/Net50/dotnet-nswag.runtimeconfig.json",
+        "tools/Net60/Fluid.dll",
+        "tools/Net60/Microsoft.AspNetCore.JsonPatch.dll",
+        "tools/Net60/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll",
+        "tools/Net60/Microsoft.AspNetCore.TestHost.dll",
+        "tools/Net60/Microsoft.Extensions.DependencyModel.dll",
+        "tools/Net60/Microsoft.Extensions.PlatformAbstractions.dll",
+        "tools/Net60/NConsole.dll",
+        "tools/Net60/NJsonSchema.CodeGeneration.CSharp.dll",
+        "tools/Net60/NJsonSchema.CodeGeneration.TypeScript.dll",
+        "tools/Net60/NJsonSchema.CodeGeneration.dll",
+        "tools/Net60/NJsonSchema.Yaml.dll",
+        "tools/Net60/NJsonSchema.dll",
+        "tools/Net60/NSwag.Annotations.dll",
+        "tools/Net60/NSwag.Annotations.pdb",
+        "tools/Net60/NSwag.Annotations.xml",
+        "tools/Net60/NSwag.AspNetCore.Launcher.dll",
+        "tools/Net60/NSwag.AspNetCore.Launcher.exe",
+        "tools/Net60/NSwag.AspNetCore.Launcher.pdb",
+        "tools/Net60/NSwag.AspNetCore.Launcher.runtimeconfig.json",
+        "tools/Net60/NSwag.AssemblyLoader.dll",
+        "tools/Net60/NSwag.AssemblyLoader.dll.config",
+        "tools/Net60/NSwag.AssemblyLoader.pdb",
+        "tools/Net60/NSwag.AssemblyLoader.xml",
+        "tools/Net60/NSwag.CodeGeneration.CSharp.dll",
+        "tools/Net60/NSwag.CodeGeneration.CSharp.pdb",
+        "tools/Net60/NSwag.CodeGeneration.CSharp.xml",
+        "tools/Net60/NSwag.CodeGeneration.TypeScript.dll",
+        "tools/Net60/NSwag.CodeGeneration.TypeScript.pdb",
+        "tools/Net60/NSwag.CodeGeneration.TypeScript.xml",
+        "tools/Net60/NSwag.CodeGeneration.dll",
+        "tools/Net60/NSwag.CodeGeneration.dll.config",
+        "tools/Net60/NSwag.CodeGeneration.pdb",
+        "tools/Net60/NSwag.CodeGeneration.xml",
+        "tools/Net60/NSwag.Commands.dll",
+        "tools/Net60/NSwag.Commands.pdb",
+        "tools/Net60/NSwag.Commands.xml",
+        "tools/Net60/NSwag.Core.Yaml.dll",
+        "tools/Net60/NSwag.Core.Yaml.pdb",
+        "tools/Net60/NSwag.Core.dll",
+        "tools/Net60/NSwag.Core.pdb",
+        "tools/Net60/NSwag.Core.xml",
+        "tools/Net60/NSwag.Generation.AspNetCore.dll",
+        "tools/Net60/NSwag.Generation.AspNetCore.pdb",
+        "tools/Net60/NSwag.Generation.AspNetCore.xml",
+        "tools/Net60/NSwag.Generation.WebApi.dll",
+        "tools/Net60/NSwag.Generation.WebApi.pdb",
+        "tools/Net60/NSwag.Generation.WebApi.xml",
+        "tools/Net60/NSwag.Generation.dll",
+        "tools/Net60/NSwag.Generation.pdb",
+        "tools/Net60/NSwag.Generation.xml",
+        "tools/Net60/Namotion.Reflection.dll",
+        "tools/Net60/Newtonsoft.Json.Bson.dll",
+        "tools/Net60/Newtonsoft.Json.dll",
+        "tools/Net60/Parlot.dll",
+        "tools/Net60/TimeZoneConverter.dll",
+        "tools/Net60/YamlDotNet.dll",
+        "tools/Net60/dotnet-nswag.deps.json",
+        "tools/Net60/dotnet-nswag.dll",
+        "tools/Net60/dotnet-nswag.exe",
+        "tools/Net60/dotnet-nswag.pdb",
+        "tools/Net60/dotnet-nswag.runtimeconfig.json",
+        "tools/NetCore21/Fluid.dll",
         "tools/NetCore21/Microsoft.AspNetCore.Authentication.Abstractions.dll",
         "tools/NetCore21/Microsoft.AspNetCore.Authentication.Core.dll",
         "tools/NetCore21/Microsoft.AspNetCore.Authorization.Policy.dll",
@@ -25056,6 +24799,7 @@
         "tools/NetCore21/Microsoft.AspNetCore.TestHost.dll",
         "tools/NetCore21/Microsoft.AspNetCore.WebUtilities.dll",
         "tools/NetCore21/Microsoft.AspNetCore.dll",
+        "tools/NetCore21/Microsoft.Bcl.AsyncInterfaces.dll",
         "tools/NetCore21/Microsoft.DotNet.PlatformAbstractions.dll",
         "tools/NetCore21/Microsoft.Extensions.Configuration.Abstractions.dll",
         "tools/NetCore21/Microsoft.Extensions.Configuration.Binder.dll",
@@ -25092,7 +24836,8 @@
         "tools/NetCore21/NSwag.Annotations.dll",
         "tools/NetCore21/NSwag.Annotations.pdb",
         "tools/NetCore21/NSwag.Annotations.xml",
-        "tools/NetCore21/NSwag.AspNetCore.Launcher.dll",
+        "tools/NetCore21/NSwag.AspNetCore.Launcher.exe",
+        "tools/NetCore21/NSwag.AspNetCore.Launcher.exe.config",
         "tools/NetCore21/NSwag.AspNetCore.Launcher.pdb",
         "tools/NetCore21/NSwag.AssemblyLoader.dll",
         "tools/NetCore21/NSwag.AssemblyLoader.dll.config",
@@ -25114,7 +24859,6 @@
         "tools/NetCore21/NSwag.Core.Yaml.dll",
         "tools/NetCore21/NSwag.Core.Yaml.pdb",
         "tools/NetCore21/NSwag.Core.dll",
-        "tools/NetCore21/NSwag.Core.dll.config",
         "tools/NetCore21/NSwag.Core.pdb",
         "tools/NetCore21/NSwag.Core.xml",
         "tools/NetCore21/NSwag.Generation.AspNetCore.dll",
@@ -25128,334 +24872,84 @@
         "tools/NetCore21/NSwag.Generation.xml",
         "tools/NetCore21/Namotion.Reflection.dll",
         "tools/NetCore21/Newtonsoft.Json.dll",
+        "tools/NetCore21/Parlot.dll",
         "tools/NetCore21/System.Diagnostics.DiagnosticSource.dll",
         "tools/NetCore21/System.IO.Pipelines.dll",
         "tools/NetCore21/System.Runtime.CompilerServices.Unsafe.dll",
         "tools/NetCore21/System.Security.Principal.Windows.dll",
         "tools/NetCore21/System.Text.Encodings.Web.dll",
+        "tools/NetCore21/System.Text.Json.dll",
+        "tools/NetCore21/TimeZoneConverter.dll",
         "tools/NetCore21/YamlDotNet.dll",
         "tools/NetCore21/dotnet-nswag.deps.json",
         "tools/NetCore21/dotnet-nswag.dll",
         "tools/NetCore21/dotnet-nswag.pdb",
         "tools/NetCore21/dotnet-nswag.runtimeconfig.json",
-        "tools/NetCore21/it/DotLiquid.resources.dll",
         "tools/NetCore21/runtimes/unix/lib/netcoreapp2.0/System.Security.Principal.Windows.dll",
         "tools/NetCore21/runtimes/win/lib/netcoreapp2.0/System.Security.Principal.Windows.dll",
-        "tools/NetCore22/DotLiquid.dll",
-        "tools/NetCore22/MessagePack.dll",
-        "tools/NetCore22/Microsoft.AI.DependencyCollector.dll",
-        "tools/NetCore22/Microsoft.ApplicationInsights.AspNetCore.dll",
-        "tools/NetCore22/Microsoft.ApplicationInsights.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.Antiforgery.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.ApplicationInsights.HostingStartup.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.Authentication.Abstractions.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.Authentication.Cookies.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.Authentication.Core.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.Authentication.Facebook.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.Authentication.Google.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.Authentication.JwtBearer.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.Authentication.MicrosoftAccount.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.Authentication.OAuth.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.Authentication.OpenIdConnect.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.Authentication.Twitter.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.Authentication.WsFederation.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.Authentication.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.Authorization.Policy.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.Authorization.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.AzureAppServices.HostingStartup.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.AzureAppServicesIntegration.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.Connections.Abstractions.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.CookiePolicy.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.Cors.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.Cryptography.Internal.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.DataProtection.Abstractions.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.DataProtection.AzureKeyVault.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.DataProtection.AzureStorage.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.DataProtection.Extensions.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.DataProtection.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.Diagnostics.Abstractions.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.Diagnostics.HealthChecks.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.Diagnostics.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.HostFiltering.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.Hosting.Abstractions.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.Hosting.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.Html.Abstractions.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.Http.Abstractions.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.Http.Connections.Common.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.Http.Connections.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.Http.Extensions.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.Http.Features.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.Http.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.HttpOverrides.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.HttpsPolicy.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.Identity.UI.Views.V3.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.Identity.UI.Views.V4.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.Identity.UI.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.Identity.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.JsonPatch.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.Localization.Routing.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.Localization.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.MiddlewareAnalysis.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.Mvc.Abstractions.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.Mvc.ApiExplorer.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.Mvc.Core.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.Mvc.Cors.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.Mvc.DataAnnotations.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.Mvc.Formatters.Json.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.Mvc.Formatters.Xml.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.Mvc.Localization.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.Mvc.Razor.Extensions.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.Mvc.Razor.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.Mvc.RazorPages.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.Mvc.TagHelpers.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.Mvc.ViewFeatures.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.Mvc.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.NodeServices.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.Owin.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.Razor.Language.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.Razor.Runtime.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.Razor.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.ResponseCaching.Abstractions.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.ResponseCaching.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.ResponseCompression.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.Rewrite.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.Routing.Abstractions.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.Routing.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.Server.HttpSys.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.Server.IIS.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.Server.IISIntegration.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.Server.Kestrel.Core.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.Server.Kestrel.Https.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.Server.Kestrel.Transport.Libuv.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.Server.Kestrel.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.Session.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.SignalR.Common.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.SignalR.Core.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.SignalR.Protocols.Json.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.SignalR.Redis.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.SignalR.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.SpaServices.Extensions.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.SpaServices.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.StaticFiles.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.TestHost.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.WebSockets.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.WebUtilities.dll",
-        "tools/NetCore22/Microsoft.AspNetCore.dll",
-        "tools/NetCore22/Microsoft.Azure.KeyVault.WebKey.dll",
-        "tools/NetCore22/Microsoft.Azure.KeyVault.dll",
-        "tools/NetCore22/Microsoft.Azure.Services.AppAuthentication.dll",
-        "tools/NetCore22/Microsoft.CodeAnalysis.CSharp.dll",
-        "tools/NetCore22/Microsoft.CodeAnalysis.Razor.dll",
-        "tools/NetCore22/Microsoft.CodeAnalysis.dll",
-        "tools/NetCore22/Microsoft.Data.Edm.dll",
-        "tools/NetCore22/Microsoft.Data.OData.dll",
-        "tools/NetCore22/Microsoft.Data.Sqlite.dll",
-        "tools/NetCore22/Microsoft.DotNet.PlatformAbstractions.dll",
-        "tools/NetCore22/Microsoft.EntityFrameworkCore.Abstractions.dll",
-        "tools/NetCore22/Microsoft.EntityFrameworkCore.Design.dll",
-        "tools/NetCore22/Microsoft.EntityFrameworkCore.InMemory.dll",
-        "tools/NetCore22/Microsoft.EntityFrameworkCore.Relational.dll",
-        "tools/NetCore22/Microsoft.EntityFrameworkCore.SqlServer.dll",
-        "tools/NetCore22/Microsoft.EntityFrameworkCore.Sqlite.dll",
-        "tools/NetCore22/Microsoft.EntityFrameworkCore.dll",
-        "tools/NetCore22/Microsoft.Extensions.Caching.Abstractions.dll",
-        "tools/NetCore22/Microsoft.Extensions.Caching.Memory.dll",
-        "tools/NetCore22/Microsoft.Extensions.Caching.Redis.dll",
-        "tools/NetCore22/Microsoft.Extensions.Caching.SqlServer.dll",
-        "tools/NetCore22/Microsoft.Extensions.Configuration.Abstractions.dll",
-        "tools/NetCore22/Microsoft.Extensions.Configuration.AzureKeyVault.dll",
-        "tools/NetCore22/Microsoft.Extensions.Configuration.Binder.dll",
-        "tools/NetCore22/Microsoft.Extensions.Configuration.CommandLine.dll",
-        "tools/NetCore22/Microsoft.Extensions.Configuration.EnvironmentVariables.dll",
-        "tools/NetCore22/Microsoft.Extensions.Configuration.FileExtensions.dll",
-        "tools/NetCore22/Microsoft.Extensions.Configuration.Ini.dll",
-        "tools/NetCore22/Microsoft.Extensions.Configuration.Json.dll",
-        "tools/NetCore22/Microsoft.Extensions.Configuration.KeyPerFile.dll",
-        "tools/NetCore22/Microsoft.Extensions.Configuration.UserSecrets.dll",
-        "tools/NetCore22/Microsoft.Extensions.Configuration.Xml.dll",
-        "tools/NetCore22/Microsoft.Extensions.Configuration.dll",
-        "tools/NetCore22/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
-        "tools/NetCore22/Microsoft.Extensions.DependencyInjection.dll",
-        "tools/NetCore22/Microsoft.Extensions.DependencyModel.dll",
-        "tools/NetCore22/Microsoft.Extensions.DiagnosticAdapter.dll",
-        "tools/NetCore22/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll",
-        "tools/NetCore22/Microsoft.Extensions.Diagnostics.HealthChecks.dll",
-        "tools/NetCore22/Microsoft.Extensions.FileProviders.Abstractions.dll",
-        "tools/NetCore22/Microsoft.Extensions.FileProviders.Composite.dll",
-        "tools/NetCore22/Microsoft.Extensions.FileProviders.Embedded.dll",
-        "tools/NetCore22/Microsoft.Extensions.FileProviders.Physical.dll",
-        "tools/NetCore22/Microsoft.Extensions.FileSystemGlobbing.dll",
-        "tools/NetCore22/Microsoft.Extensions.Hosting.Abstractions.dll",
-        "tools/NetCore22/Microsoft.Extensions.Hosting.dll",
-        "tools/NetCore22/Microsoft.Extensions.Http.dll",
-        "tools/NetCore22/Microsoft.Extensions.Identity.Core.dll",
-        "tools/NetCore22/Microsoft.Extensions.Identity.Stores.dll",
-        "tools/NetCore22/Microsoft.Extensions.Localization.Abstractions.dll",
-        "tools/NetCore22/Microsoft.Extensions.Localization.dll",
-        "tools/NetCore22/Microsoft.Extensions.Logging.Abstractions.dll",
-        "tools/NetCore22/Microsoft.Extensions.Logging.AzureAppServices.dll",
-        "tools/NetCore22/Microsoft.Extensions.Logging.Configuration.dll",
-        "tools/NetCore22/Microsoft.Extensions.Logging.Console.dll",
-        "tools/NetCore22/Microsoft.Extensions.Logging.Debug.dll",
-        "tools/NetCore22/Microsoft.Extensions.Logging.EventSource.dll",
-        "tools/NetCore22/Microsoft.Extensions.Logging.TraceSource.dll",
-        "tools/NetCore22/Microsoft.Extensions.Logging.dll",
-        "tools/NetCore22/Microsoft.Extensions.ObjectPool.dll",
-        "tools/NetCore22/Microsoft.Extensions.Options.ConfigurationExtensions.dll",
-        "tools/NetCore22/Microsoft.Extensions.Options.DataAnnotations.dll",
-        "tools/NetCore22/Microsoft.Extensions.Options.dll",
-        "tools/NetCore22/Microsoft.Extensions.PlatformAbstractions.dll",
-        "tools/NetCore22/Microsoft.Extensions.Primitives.dll",
-        "tools/NetCore22/Microsoft.Extensions.WebEncoders.dll",
-        "tools/NetCore22/Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll",
-        "tools/NetCore22/Microsoft.IdentityModel.Clients.ActiveDirectory.dll",
-        "tools/NetCore22/Microsoft.IdentityModel.JsonWebTokens.dll",
-        "tools/NetCore22/Microsoft.IdentityModel.Logging.dll",
-        "tools/NetCore22/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll",
-        "tools/NetCore22/Microsoft.IdentityModel.Protocols.WsFederation.dll",
-        "tools/NetCore22/Microsoft.IdentityModel.Protocols.dll",
-        "tools/NetCore22/Microsoft.IdentityModel.Tokens.Saml.dll",
-        "tools/NetCore22/Microsoft.IdentityModel.Tokens.dll",
-        "tools/NetCore22/Microsoft.IdentityModel.Xml.dll",
-        "tools/NetCore22/Microsoft.Net.Http.Headers.dll",
-        "tools/NetCore22/Microsoft.Rest.ClientRuntime.Azure.dll",
-        "tools/NetCore22/Microsoft.Rest.ClientRuntime.dll",
-        "tools/NetCore22/Microsoft.VisualStudio.Web.BrowserLink.dll",
-        "tools/NetCore22/Microsoft.WindowsAzure.Storage.dll",
-        "tools/NetCore22/NConsole.dll",
-        "tools/NetCore22/NJsonSchema.CodeGeneration.CSharp.dll",
-        "tools/NetCore22/NJsonSchema.CodeGeneration.TypeScript.dll",
-        "tools/NetCore22/NJsonSchema.CodeGeneration.dll",
-        "tools/NetCore22/NJsonSchema.Yaml.dll",
-        "tools/NetCore22/NJsonSchema.dll",
-        "tools/NetCore22/NSwag.Annotations.dll",
-        "tools/NetCore22/NSwag.Annotations.pdb",
-        "tools/NetCore22/NSwag.Annotations.xml",
-        "tools/NetCore22/NSwag.AspNetCore.Launcher.dll",
-        "tools/NetCore22/NSwag.AspNetCore.Launcher.pdb",
-        "tools/NetCore22/NSwag.AssemblyLoader.dll",
-        "tools/NetCore22/NSwag.AssemblyLoader.dll.config",
-        "tools/NetCore22/NSwag.AssemblyLoader.pdb",
-        "tools/NetCore22/NSwag.AssemblyLoader.xml",
-        "tools/NetCore22/NSwag.CodeGeneration.CSharp.dll",
-        "tools/NetCore22/NSwag.CodeGeneration.CSharp.pdb",
-        "tools/NetCore22/NSwag.CodeGeneration.CSharp.xml",
-        "tools/NetCore22/NSwag.CodeGeneration.TypeScript.dll",
-        "tools/NetCore22/NSwag.CodeGeneration.TypeScript.pdb",
-        "tools/NetCore22/NSwag.CodeGeneration.TypeScript.xml",
-        "tools/NetCore22/NSwag.CodeGeneration.dll",
-        "tools/NetCore22/NSwag.CodeGeneration.dll.config",
-        "tools/NetCore22/NSwag.CodeGeneration.pdb",
-        "tools/NetCore22/NSwag.CodeGeneration.xml",
-        "tools/NetCore22/NSwag.Commands.dll",
-        "tools/NetCore22/NSwag.Commands.pdb",
-        "tools/NetCore22/NSwag.Commands.xml",
-        "tools/NetCore22/NSwag.Core.Yaml.dll",
-        "tools/NetCore22/NSwag.Core.Yaml.pdb",
-        "tools/NetCore22/NSwag.Core.dll",
-        "tools/NetCore22/NSwag.Core.dll.config",
-        "tools/NetCore22/NSwag.Core.pdb",
-        "tools/NetCore22/NSwag.Core.xml",
-        "tools/NetCore22/NSwag.Generation.AspNetCore.dll",
-        "tools/NetCore22/NSwag.Generation.AspNetCore.pdb",
-        "tools/NetCore22/NSwag.Generation.AspNetCore.xml",
-        "tools/NetCore22/NSwag.Generation.WebApi.dll",
-        "tools/NetCore22/NSwag.Generation.WebApi.pdb",
-        "tools/NetCore22/NSwag.Generation.WebApi.xml",
-        "tools/NetCore22/NSwag.Generation.dll",
-        "tools/NetCore22/NSwag.Generation.pdb",
-        "tools/NetCore22/NSwag.Generation.xml",
-        "tools/NetCore22/Namotion.Reflection.dll",
-        "tools/NetCore22/Newtonsoft.Json.Bson.dll",
-        "tools/NetCore22/Newtonsoft.Json.dll",
-        "tools/NetCore22/Remotion.Linq.dll",
-        "tools/NetCore22/SQLitePCLRaw.batteries_green.dll",
-        "tools/NetCore22/SQLitePCLRaw.batteries_v2.dll",
-        "tools/NetCore22/SQLitePCLRaw.core.dll",
-        "tools/NetCore22/SQLitePCLRaw.provider.e_sqlite3.dll",
-        "tools/NetCore22/StackExchange.Redis.StrongName.dll",
-        "tools/NetCore22/System.Data.SqlClient.dll",
-        "tools/NetCore22/System.IO.Pipelines.dll",
-        "tools/NetCore22/System.IdentityModel.Tokens.Jwt.dll",
-        "tools/NetCore22/System.Interactive.Async.dll",
-        "tools/NetCore22/System.Net.Http.Formatting.dll",
-        "tools/NetCore22/System.Net.WebSockets.WebSocketProtocol.dll",
-        "tools/NetCore22/System.Runtime.CompilerServices.Unsafe.dll",
-        "tools/NetCore22/System.Security.Cryptography.Pkcs.dll",
-        "tools/NetCore22/System.Security.Cryptography.Xml.dll",
-        "tools/NetCore22/System.Security.Permissions.dll",
-        "tools/NetCore22/System.Spatial.dll",
-        "tools/NetCore22/System.Text.Encoding.CodePages.dll",
-        "tools/NetCore22/System.Text.Encodings.Web.dll",
-        "tools/NetCore22/System.Threading.Channels.dll",
-        "tools/NetCore22/YamlDotNet.dll",
-        "tools/NetCore22/de/Microsoft.Data.Edm.resources.dll",
-        "tools/NetCore22/de/Microsoft.Data.OData.resources.dll",
-        "tools/NetCore22/de/System.Spatial.resources.dll",
-        "tools/NetCore22/dotnet-nswag.deps.json",
-        "tools/NetCore22/dotnet-nswag.dll",
-        "tools/NetCore22/dotnet-nswag.pdb",
-        "tools/NetCore22/dotnet-nswag.runtimeconfig.json",
-        "tools/NetCore22/es/Microsoft.Data.Edm.resources.dll",
-        "tools/NetCore22/es/Microsoft.Data.OData.resources.dll",
-        "tools/NetCore22/es/System.Spatial.resources.dll",
-        "tools/NetCore22/fr/Microsoft.Data.Edm.resources.dll",
-        "tools/NetCore22/fr/Microsoft.Data.OData.resources.dll",
-        "tools/NetCore22/fr/System.Spatial.resources.dll",
-        "tools/NetCore22/it/DotLiquid.resources.dll",
-        "tools/NetCore22/it/Microsoft.Data.Edm.resources.dll",
-        "tools/NetCore22/it/Microsoft.Data.OData.resources.dll",
-        "tools/NetCore22/it/System.Spatial.resources.dll",
-        "tools/NetCore22/ja/Microsoft.Data.Edm.resources.dll",
-        "tools/NetCore22/ja/Microsoft.Data.OData.resources.dll",
-        "tools/NetCore22/ja/System.Spatial.resources.dll",
-        "tools/NetCore22/ko/Microsoft.Data.Edm.resources.dll",
-        "tools/NetCore22/ko/Microsoft.Data.OData.resources.dll",
-        "tools/NetCore22/ko/System.Spatial.resources.dll",
-        "tools/NetCore22/ru/Microsoft.Data.Edm.resources.dll",
-        "tools/NetCore22/ru/Microsoft.Data.OData.resources.dll",
-        "tools/NetCore22/ru/System.Spatial.resources.dll",
-        "tools/NetCore22/runtimes/alpine-x64/native/libe_sqlite3.so",
-        "tools/NetCore22/runtimes/linux-arm/native/libe_sqlite3.so",
-        "tools/NetCore22/runtimes/linux-arm/native/libuv.so",
-        "tools/NetCore22/runtimes/linux-arm64/native/libe_sqlite3.so",
-        "tools/NetCore22/runtimes/linux-arm64/native/libuv.so",
-        "tools/NetCore22/runtimes/linux-armel/native/libe_sqlite3.so",
-        "tools/NetCore22/runtimes/linux-armel/native/libuv.so",
-        "tools/NetCore22/runtimes/linux-musl-x64/native/libe_sqlite3.so",
-        "tools/NetCore22/runtimes/linux-x64/native/libe_sqlite3.so",
-        "tools/NetCore22/runtimes/linux-x64/native/libuv.so",
-        "tools/NetCore22/runtimes/linux-x86/native/libe_sqlite3.so",
-        "tools/NetCore22/runtimes/osx-x64/native/libe_sqlite3.dylib",
-        "tools/NetCore22/runtimes/osx/native/libuv.dylib",
-        "tools/NetCore22/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll",
-        "tools/NetCore22/runtimes/win-arm/native/libuv.dll",
-        "tools/NetCore22/runtimes/win-arm64/native/sni.dll",
-        "tools/NetCore22/runtimes/win-x64/native/e_sqlite3.dll",
-        "tools/NetCore22/runtimes/win-x64/native/libuv.dll",
-        "tools/NetCore22/runtimes/win-x64/native/sni.dll",
-        "tools/NetCore22/runtimes/win-x64/nativeassets/netcoreapp2.2/aspnetcorev2_inprocess.dll",
-        "tools/NetCore22/runtimes/win-x86/native/e_sqlite3.dll",
-        "tools/NetCore22/runtimes/win-x86/native/libuv.dll",
-        "tools/NetCore22/runtimes/win-x86/native/sni.dll",
-        "tools/NetCore22/runtimes/win-x86/nativeassets/netcoreapp2.2/aspnetcorev2_inprocess.dll",
-        "tools/NetCore22/runtimes/win/lib/netcoreapp2.0/System.Text.Encoding.CodePages.dll",
-        "tools/NetCore22/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll",
-        "tools/NetCore22/runtimes/win/lib/netcoreapp2.1/System.Security.Cryptography.Pkcs.dll",
-        "tools/NetCore22/runtimes/win8-arm/native/e_sqlite3.dll",
-        "tools/NetCore22/zh-Hans/Microsoft.Data.Edm.resources.dll",
-        "tools/NetCore22/zh-Hans/Microsoft.Data.OData.resources.dll",
-        "tools/NetCore22/zh-Hans/System.Spatial.resources.dll",
-        "tools/NetCore22/zh-Hant/Microsoft.Data.Edm.resources.dll",
-        "tools/NetCore22/zh-Hant/Microsoft.Data.OData.resources.dll",
-        "tools/NetCore22/zh-Hant/System.Spatial.resources.dll",
-        "tools/Win/DotLiquid.dll",
+        "tools/NetCore31/Fluid.dll",
+        "tools/NetCore31/Microsoft.AspNetCore.JsonPatch.dll",
+        "tools/NetCore31/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll",
+        "tools/NetCore31/Microsoft.AspNetCore.TestHost.dll",
+        "tools/NetCore31/Microsoft.Extensions.DependencyModel.dll",
+        "tools/NetCore31/Microsoft.Extensions.PlatformAbstractions.dll",
+        "tools/NetCore31/NConsole.dll",
+        "tools/NetCore31/NJsonSchema.CodeGeneration.CSharp.dll",
+        "tools/NetCore31/NJsonSchema.CodeGeneration.TypeScript.dll",
+        "tools/NetCore31/NJsonSchema.CodeGeneration.dll",
+        "tools/NetCore31/NJsonSchema.Yaml.dll",
+        "tools/NetCore31/NJsonSchema.dll",
+        "tools/NetCore31/NSwag.Annotations.dll",
+        "tools/NetCore31/NSwag.Annotations.pdb",
+        "tools/NetCore31/NSwag.Annotations.xml",
+        "tools/NetCore31/NSwag.AspNetCore.Launcher.dll",
+        "tools/NetCore31/NSwag.AspNetCore.Launcher.exe",
+        "tools/NetCore31/NSwag.AspNetCore.Launcher.pdb",
+        "tools/NetCore31/NSwag.AspNetCore.Launcher.runtimeconfig.json",
+        "tools/NetCore31/NSwag.AssemblyLoader.dll",
+        "tools/NetCore31/NSwag.AssemblyLoader.dll.config",
+        "tools/NetCore31/NSwag.AssemblyLoader.pdb",
+        "tools/NetCore31/NSwag.AssemblyLoader.xml",
+        "tools/NetCore31/NSwag.CodeGeneration.CSharp.dll",
+        "tools/NetCore31/NSwag.CodeGeneration.CSharp.pdb",
+        "tools/NetCore31/NSwag.CodeGeneration.CSharp.xml",
+        "tools/NetCore31/NSwag.CodeGeneration.TypeScript.dll",
+        "tools/NetCore31/NSwag.CodeGeneration.TypeScript.pdb",
+        "tools/NetCore31/NSwag.CodeGeneration.TypeScript.xml",
+        "tools/NetCore31/NSwag.CodeGeneration.dll",
+        "tools/NetCore31/NSwag.CodeGeneration.dll.config",
+        "tools/NetCore31/NSwag.CodeGeneration.pdb",
+        "tools/NetCore31/NSwag.CodeGeneration.xml",
+        "tools/NetCore31/NSwag.Commands.dll",
+        "tools/NetCore31/NSwag.Commands.pdb",
+        "tools/NetCore31/NSwag.Commands.xml",
+        "tools/NetCore31/NSwag.Core.Yaml.dll",
+        "tools/NetCore31/NSwag.Core.Yaml.pdb",
+        "tools/NetCore31/NSwag.Core.dll",
+        "tools/NetCore31/NSwag.Core.pdb",
+        "tools/NetCore31/NSwag.Core.xml",
+        "tools/NetCore31/NSwag.Generation.AspNetCore.dll",
+        "tools/NetCore31/NSwag.Generation.AspNetCore.pdb",
+        "tools/NetCore31/NSwag.Generation.AspNetCore.xml",
+        "tools/NetCore31/NSwag.Generation.WebApi.dll",
+        "tools/NetCore31/NSwag.Generation.WebApi.pdb",
+        "tools/NetCore31/NSwag.Generation.WebApi.xml",
+        "tools/NetCore31/NSwag.Generation.dll",
+        "tools/NetCore31/NSwag.Generation.pdb",
+        "tools/NetCore31/NSwag.Generation.xml",
+        "tools/NetCore31/Namotion.Reflection.dll",
+        "tools/NetCore31/Newtonsoft.Json.Bson.dll",
+        "tools/NetCore31/Newtonsoft.Json.dll",
+        "tools/NetCore31/Parlot.dll",
+        "tools/NetCore31/System.Text.Encodings.Web.dll",
+        "tools/NetCore31/TimeZoneConverter.dll",
+        "tools/NetCore31/YamlDotNet.dll",
+        "tools/NetCore31/dotnet-nswag.deps.json",
+        "tools/NetCore31/dotnet-nswag.dll",
+        "tools/NetCore31/dotnet-nswag.exe",
+        "tools/NetCore31/dotnet-nswag.pdb",
+        "tools/NetCore31/dotnet-nswag.runtimeconfig.json",
+        "tools/Win/Fluid.dll",
         "tools/Win/Microsoft.AspNetCore.Authentication.Abstractions.dll",
         "tools/Win/Microsoft.AspNetCore.Authentication.Core.dll",
         "tools/Win/Microsoft.AspNetCore.Authorization.Policy.dll",
@@ -25480,7 +24974,6 @@
         "tools/Win/Microsoft.AspNetCore.ResponseCaching.Abstractions.dll",
         "tools/Win/Microsoft.AspNetCore.Routing.Abstractions.dll",
         "tools/Win/Microsoft.AspNetCore.Routing.dll",
-        "tools/Win/Microsoft.AspNetCore.Server.IIS.dll",
         "tools/Win/Microsoft.AspNetCore.Server.IISIntegration.dll",
         "tools/Win/Microsoft.AspNetCore.Server.Kestrel.Core.dll",
         "tools/Win/Microsoft.AspNetCore.Server.Kestrel.Https.dll",
@@ -25490,6 +24983,7 @@
         "tools/Win/Microsoft.AspNetCore.TestHost.dll",
         "tools/Win/Microsoft.AspNetCore.WebUtilities.dll",
         "tools/Win/Microsoft.AspNetCore.dll",
+        "tools/Win/Microsoft.Bcl.AsyncInterfaces.dll",
         "tools/Win/Microsoft.DotNet.PlatformAbstractions.dll",
         "tools/Win/Microsoft.Extensions.Configuration.Abstractions.dll",
         "tools/Win/Microsoft.Extensions.Configuration.Binder.dll",
@@ -25510,7 +25004,6 @@
         "tools/Win/Microsoft.Extensions.Logging.Configuration.dll",
         "tools/Win/Microsoft.Extensions.Logging.Console.dll",
         "tools/Win/Microsoft.Extensions.Logging.Debug.dll",
-        "tools/Win/Microsoft.Extensions.Logging.EventSource.dll",
         "tools/Win/Microsoft.Extensions.Logging.dll",
         "tools/Win/Microsoft.Extensions.ObjectPool.dll",
         "tools/Win/Microsoft.Extensions.Options.ConfigurationExtensions.dll",
@@ -25531,6 +25024,8 @@
         "tools/Win/NSwag.AspNetCore.Launcher.exe",
         "tools/Win/NSwag.AspNetCore.Launcher.exe.config",
         "tools/Win/NSwag.AspNetCore.Launcher.pdb",
+        "tools/Win/NSwag.AspNetCore.Launcher.x86.exe",
+        "tools/Win/NSwag.AspNetCore.Launcher.x86.exe.config",
         "tools/Win/NSwag.AssemblyLoader.dll",
         "tools/Win/NSwag.AssemblyLoader.dll.config",
         "tools/Win/NSwag.AssemblyLoader.pdb",
@@ -25551,7 +25046,6 @@
         "tools/Win/NSwag.Core.Yaml.dll",
         "tools/Win/NSwag.Core.Yaml.pdb",
         "tools/Win/NSwag.Core.dll",
-        "tools/Win/NSwag.Core.dll.config",
         "tools/Win/NSwag.Core.pdb",
         "tools/Win/NSwag.Core.xml",
         "tools/Win/NSwag.Generation.AspNetCore.dll",
@@ -25570,6 +25064,7 @@
         "tools/Win/NSwag.x86.exe.config",
         "tools/Win/Namotion.Reflection.dll",
         "tools/Win/Newtonsoft.Json.dll",
+        "tools/Win/Parlot.dll",
         "tools/Win/System.AppContext.dll",
         "tools/Win/System.Buffers.dll",
         "tools/Win/System.Collections.Concurrent.dll",
@@ -25577,7 +25072,6 @@
         "tools/Win/System.Collections.NonGeneric.dll",
         "tools/Win/System.Collections.Specialized.dll",
         "tools/Win/System.Collections.dll",
-        "tools/Win/System.ComponentModel.Annotations.dll",
         "tools/Win/System.ComponentModel.EventBasedAsync.dll",
         "tools/Win/System.ComponentModel.Primitives.dll",
         "tools/Win/System.ComponentModel.TypeConverter.dll",
@@ -25661,6 +25155,7 @@
         "tools/Win/System.Text.Encoding.Extensions.dll",
         "tools/Win/System.Text.Encoding.dll",
         "tools/Win/System.Text.Encodings.Web.dll",
+        "tools/Win/System.Text.Json.dll",
         "tools/Win/System.Text.RegularExpressions.dll",
         "tools/Win/System.Threading.Overlapped.dll",
         "tools/Win/System.Threading.Tasks.Extensions.dll",
@@ -25677,6 +25172,7 @@
         "tools/Win/System.Xml.XPath.dll",
         "tools/Win/System.Xml.XmlDocument.dll",
         "tools/Win/System.Xml.XmlSerializer.dll",
+        "tools/Win/TimeZoneConverter.dll",
         "tools/Win/YamlDotNet.dll",
         "tools/Win/netstandard.dll"
       ]
@@ -27606,37 +27102,37 @@
   "projectFileDependencyGroups": {
     "net6.0-android31.0": [
       "CommunityToolkit.Mvvm >= 8.0.0",
-      "Microsoft.Extensions.ApiDescription.Client >= 3.0.0",
+      "Microsoft.Extensions.ApiDescription.Client >= 6.0.8",
       "Microsoft.Maui.Dependencies >= 6.0.486",
       "Microsoft.Maui.Extensions >= 6.0.486",
-      "NSwag.ApiDescription.Client >= 13.0.5",
+      "NSwag.ApiDescription.Client >= 13.16.1",
       "Newtonsoft.Json >= 13.0.1"
     ],
     "net6.0-ios15.4": [
       "CommunityToolkit.Mvvm >= 8.0.0",
-      "Microsoft.Extensions.ApiDescription.Client >= 3.0.0",
+      "Microsoft.Extensions.ApiDescription.Client >= 6.0.8",
       "Microsoft.Maui.Dependencies >= 6.0.486",
       "Microsoft.Maui.Extensions >= 6.0.486",
-      "NSwag.ApiDescription.Client >= 13.0.5",
+      "NSwag.ApiDescription.Client >= 13.16.1",
       "Newtonsoft.Json >= 13.0.1",
       "System.Runtime.InteropServices.NFloat.Internal >= 6.0.1"
     ],
     "net6.0-maccatalyst15.4": [
       "CommunityToolkit.Mvvm >= 8.0.0",
-      "Microsoft.Extensions.ApiDescription.Client >= 3.0.0",
+      "Microsoft.Extensions.ApiDescription.Client >= 6.0.8",
       "Microsoft.Maui.Dependencies >= 6.0.486",
       "Microsoft.Maui.Extensions >= 6.0.486",
-      "NSwag.ApiDescription.Client >= 13.0.5",
+      "NSwag.ApiDescription.Client >= 13.16.1",
       "Newtonsoft.Json >= 13.0.1",
       "System.Runtime.InteropServices.NFloat.Internal >= 6.0.1"
     ],
     "net6.0-windows10.0.19041": [
       "CommunityToolkit.Mvvm >= 8.0.0",
-      "Microsoft.Extensions.ApiDescription.Client >= 3.0.0",
+      "Microsoft.Extensions.ApiDescription.Client >= 6.0.8",
       "Microsoft.Maui.Dependencies >= 6.0.486",
       "Microsoft.Maui.Extensions >= 6.0.486",
       "Microsoft.Windows.SDK.BuildTools >= 10.0.22000.194",
-      "NSwag.ApiDescription.Client >= 13.0.5",
+      "NSwag.ApiDescription.Client >= 13.16.1",
       "Newtonsoft.Json >= 13.0.1"
     ]
   },
@@ -27709,7 +27205,7 @@
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
             "suppressParent": "All",
             "target": "Package",
-            "version": "[3.0.0, )"
+            "version": "[6.0.8, )"
           },
           "Microsoft.Maui.Dependencies": {
             "target": "Package",
@@ -27725,7 +27221,7 @@
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
             "suppressParent": "All",
             "target": "Package",
-            "version": "[13.0.5, )"
+            "version": "[13.16.1, )"
           },
           "Newtonsoft.Json": {
             "target": "Package",
@@ -27787,7 +27283,7 @@
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
             "suppressParent": "All",
             "target": "Package",
-            "version": "[3.0.0, )"
+            "version": "[6.0.8, )"
           },
           "Microsoft.Maui.Dependencies": {
             "target": "Package",
@@ -27803,7 +27299,7 @@
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
             "suppressParent": "All",
             "target": "Package",
-            "version": "[13.0.5, )"
+            "version": "[13.16.1, )"
           },
           "Newtonsoft.Json": {
             "target": "Package",
@@ -27856,7 +27352,7 @@
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
             "suppressParent": "All",
             "target": "Package",
-            "version": "[3.0.0, )"
+            "version": "[6.0.8, )"
           },
           "Microsoft.Maui.Dependencies": {
             "target": "Package",
@@ -27872,7 +27368,7 @@
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
             "suppressParent": "All",
             "target": "Package",
-            "version": "[13.0.5, )"
+            "version": "[13.16.1, )"
           },
           "Newtonsoft.Json": {
             "target": "Package",
@@ -27926,7 +27422,7 @@
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
             "suppressParent": "All",
             "target": "Package",
-            "version": "[3.0.0, )"
+            "version": "[6.0.8, )"
           },
           "Microsoft.Maui.Dependencies": {
             "target": "Package",
@@ -27948,7 +27444,7 @@
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
             "suppressParent": "All",
             "target": "Package",
-            "version": "[13.0.5, )"
+            "version": "[13.16.1, )"
           },
           "Newtonsoft.Json": {
             "target": "Package",

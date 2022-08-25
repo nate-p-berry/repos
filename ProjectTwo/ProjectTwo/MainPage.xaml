@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProjectTwo.MainPage"
+             BackgroundColor="#E5DBFF">
+    <Grid>
+        <ScrollView >
+            <VerticalStackLayout
+                Spacing="10"
+                Padding="10,0"
+                VerticalOptions="Center">
+                <Image
+                    Source="logo_symbol.png"
+                    SemanticProperties.Description="Quantum Capital main logo"
+                    HeightRequest="400"
+                    HorizontalOptions="Start" />
+                <Image 
+                    Source="qc_logo_resize.png"
+                    SemanticProperties.Description="Quantum Capital name logo"
+                    HeightRequest="100"
+                    HorizontalOptions="Start" />
+                <Label
+                    Text="Hello, quantum financial world!"
+                    TextColor="#13294B"
+                    SemanticProperties.HeadingLevel="Level1"
+                    FontSize="32"
+                    HorizontalOptions="Start" />
+            </VerticalStackLayout>      
+        </ScrollView>
+        
+        <VerticalStackLayout
+            HorizontalOptions="Center"
+            VerticalOptions="Center">
+            <Label
+                Text="Welcome to .NET Multi-platform App UI"
+                TextColor="#13294B"
+                SemanticProperties.HeadingLevel="Level2"
+                SemanticProperties.Description="Welcome to dot net Multi platform App U I"
+                FontSize="18"
+                HorizontalOptions="Center" />
+            <Button
+                x:Name="AboutPageBtn"
+                Text="About"
+                TextColor="#13294B"
+                Clicked="AboutPageBtn_Clicked" 
+                Padding="10"/>
+            <Button
+                x:Name="ContactPageBtn"
+                Text="Contact"
+                TextColor="#13294B"
+                Clicked="ContactPageBtn_Clicked" 
+                Padding="10"/>
+            <Button 
+                x:Name="DashboardPageBtn"
+                Text="Dashboard"
+                TextColor="#13294B"
+                Clicked="DashboardPageBtn_Clicked" 
+                Padding="10"/>
+            <Button
+                x:Name="AccountsPageBtn"
+                Text="Accounts"
+                TextColor="#13294B"
+                Clicked="AccountsPageBtn_Clicked" 
+                Padding="10"/>
+            <Button 
+                x:Name="SettingsPageBtn"
+                Text="Settings"
+                TextColor="#13294B"
+                Clicked="SettingsPageBtn_Clicked" 
+                Padding="10"/>
+        </VerticalStackLayout>
+    </Grid>
+</ContentPage>

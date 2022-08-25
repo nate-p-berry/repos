@@ -46,13 +46,44 @@
                 Clicked="OnCounterClicked"
                 HorizontalOptions="Center" 
                 Padding="10" />
-
+                <Button
+                x:Name="AboutPageBtn"
+                Text="Go to About Page"
+                    TextColor="#13294B"
+                SemanticProperties.Hint="Redirects to the about page of the app."
+                Clicked="OnAboutPageRedirectClicked"
+                HorizontalOptions="Center" 
+                Padding="10"/>
+                <Button
+                x:Name="AccountsPageBtn"
+                Text="Go to the Accounts Page"
+                    TextColor="#13294B"
+                SemanticProperties.Hint="Redirects to the accounts page of the app."
+                Clicked="OnAccountsPageRedirectClicked"
+                HorizontalOptions="Center" 
+                Padding="10"/>
+                <Button
+                x:Name="DashboardPageBtn"
+                Text="Go to the Dashboard Page"
+                    TextColor="#13294B"
+                SemanticProperties.Hint="Redirects to the dashboard page of the app."
+                Clicked="OnDashboardPageRedirectClicked"
+                HorizontalOptions="Center" 
+                Padding="10"/>
                 <Button
                 x:Name="NewsPageBtn"
                 Text="Go to News Page"
                     TextColor="#13294B"
                 SemanticProperties.Hint="Redirects to the news page of the app."
                 Clicked="OnNewsPageRedirectClicked"
+                HorizontalOptions="Center" 
+                Padding="10"/>
+                <Button
+                x:Name="SettingsPageBtn"
+                Text="Go to the Settings Page"
+                    TextColor="#13294B"
+                SemanticProperties.Hint="Redirects to the settings page of the app."
+                Clicked="OnSettingsPageRedirectClicked"
                 HorizontalOptions="Center" 
                 Padding="10"/>
             </HorizontalStackLayout>
