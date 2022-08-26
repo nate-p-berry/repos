@@ -51,6 +51,7 @@
 	<ItemGroup>
 	  <None Remove="Resources\Images\logo_name.svg" />
 	  <None Remove="Resources\Images\logo_symbol.svg" />
+	  <None Remove="Resources\Images\qcfinal.svg" />
 	  <None Remove="Resources\Images\qc_logo_resize.svg" />
 	</ItemGroup>
 

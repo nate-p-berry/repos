@@ -973,6 +973,21 @@
     <AppxPackagedFile Include="C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo_symbol.scale-400.png">
       <PackagePath>logo_symbol.scale-400.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\qcfinal.scale-100.png">
+      <PackagePath>qcfinal.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\qcfinal.scale-125.png">
+      <PackagePath>qcfinal.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\qcfinal.scale-150.png">
+      <PackagePath>qcfinal.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\qcfinal.scale-200.png">
+      <PackagePath>qcfinal.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\qcfinal.scale-400.png">
+      <PackagePath>qcfinal.scale-400.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\qc_logo_resize.scale-100.png">
       <PackagePath>qc_logo_resize.scale-100.png</PackagePath>
     </AppxPackagedFile>
@@ -987,6 +1002,21 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\qc_logo_resize.scale-400.png">
       <PackagePath>qc_logo_resize.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\qc_to_crop.scale-100.png">
+      <PackagePath>qc_to_crop.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\qc_to_crop.scale-125.png">
+      <PackagePath>qc_to_crop.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\qc_to_crop.scale-150.png">
+      <PackagePath>qc_to_crop.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\qc_to_crop.scale-200.png">
+      <PackagePath>qc_to_crop.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\qc_to_crop.scale-400.png">
+      <PackagePath>qc_to_crop.scale-400.png</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

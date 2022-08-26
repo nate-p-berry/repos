@@ -22,7 +22,7 @@
                 SemanticProperties.Description="Quantum Capital main logo"
                 HeightRequest="550" />
             <Image 
-                Source="qc_logo_resize.png"
+                Source="qcfinal.png"
                 SemanticProperties.Description="Quantum Capital name logo"
                 HeightRequest="150" />
         </VerticalStackLayout>
