@@ -267,3 +267,8 @@ C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\bin\Debug\net6.0-maccatalyst\m
 C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\obj\Debug\net6.0-maccatalyst\maccatalyst-x64\resizetizer\r\qc_to_crop.png
 C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\obj\Debug\net6.0-maccatalyst\maccatalyst-x64\resizetizer\r\qc_to_crop@2x.png
 C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\obj\Debug\net6.0-maccatalyst\maccatalyst-x64\resizetizer\r\qc_to_crop@3x.png
+C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\obj\Debug\net6.0-maccatalyst\maccatalyst-x64\resizetizer\r\qcfinal.png
+C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\obj\Debug\net6.0-maccatalyst\maccatalyst-x64\resizetizer\r\qcfinal@2x.png
+C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\obj\Debug\net6.0-maccatalyst\maccatalyst-x64\resizetizer\r\qcfinal@3x.png
+C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\bin\Debug\net6.0-maccatalyst\maccatalyst-x64\NewsAPI.dll
+C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\bin\Debug\net6.0-maccatalyst\maccatalyst-x64\Newtonsoft.Json.dll

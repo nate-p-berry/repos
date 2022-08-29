@@ -1025,3 +1025,10 @@ C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\obj\Debug\net6.0-android\resiz
 C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\obj\Debug\net6.0-android\resizetizer\r\drawable-xhdpi\qc_to_crop.png
 C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\obj\Debug\net6.0-android\resizetizer\r\drawable-xxhdpi\qc_to_crop.png
 C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\obj\Debug\net6.0-android\resizetizer\r\drawable-xxxhdpi\qc_to_crop.png
+C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\obj\Debug\net6.0-android\resizetizer\r\drawable-hdpi\qcfinal.png
+C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\obj\Debug\net6.0-android\resizetizer\r\drawable-mdpi\qcfinal.png
+C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\obj\Debug\net6.0-android\resizetizer\r\drawable-xhdpi\qcfinal.png
+C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\obj\Debug\net6.0-android\resizetizer\r\drawable-xxhdpi\qcfinal.png
+C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\obj\Debug\net6.0-android\resizetizer\r\drawable-xxxhdpi\qcfinal.png
+C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\obj\Debug\net6.0-android\android\assets\NewsAPI.dll
+C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\obj\Debug\net6.0-android\android\assets\Newtonsoft.Json.dll

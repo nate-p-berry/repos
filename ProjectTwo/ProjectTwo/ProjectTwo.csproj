@@ -56,8 +56,11 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <Folder Include="Models\" />
 	  <Folder Include="ViewModels\" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <PackageReference Include="NewsAPI" Version="0.6.0" />
 	</ItemGroup>
 
 	<ItemGroup>
