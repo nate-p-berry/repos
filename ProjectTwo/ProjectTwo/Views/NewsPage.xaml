@@ -2,10 +2,9 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="ProjectTwo.Views.NewsPage"
-             Title="News"
-             x:DataType="ContentView">
+             Title="News">
     <Grid>
-        <VerticalStackLayout>
+        <!--<VerticalStackLayout>
             <Label 
             Text="Total results found: "
             VerticalOptions="Center" 
@@ -16,12 +15,17 @@
             HorizontalOptions="Center"
             FontAutoScalingEnabled="True"
             FlowDirection="LeftToRight" />
-        </VerticalStackLayout>
-        <ListView ItemsSource="{Binding }" />
-        <!--<VerticalStackLayout>
-            <ImageButton Source="{Binding Path=NewsPage.}"/>
-            <Label Text="{Binding Source=articleTitle}"/>
-            <Label Text="{Binding Source=articleDescription}"/>
         </VerticalStackLayout>-->
+        <ListView Margin="10">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <VerticalStackLayout>
+                        <Image Source="{Binding UrlToImage}" VerticalOptions="Fill" HorizontalOptions="Fill" />
+                        <Label Text="{Binding Title}" FontAttributes="Bold" FontSize="Header" />
+                        <Label Text="{Binding Description}" FontAttributes="Italic" FontSize="Body" />
+                    </VerticalStackLayout>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
     </Grid>
 </ContentPage>

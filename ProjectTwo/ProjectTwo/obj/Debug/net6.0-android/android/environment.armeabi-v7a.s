@@ -3629,7 +3629,7 @@ application_config:
 
 	.type	.L.autostr.8, %object
 .L.autostr.8:
-	.asciz	"34abd7d5-258f-45c4-a9c8-2d7fd84236a3"
+	.asciz	"cad1da9d-669a-4669-87f7-5eb0985b7bcd"
 	.size	.L.autostr.8, 37
 
 	.type	.L.autostr.9, %object
