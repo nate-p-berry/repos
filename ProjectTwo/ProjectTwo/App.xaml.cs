@@ -1,4 +1,5 @@
-﻿namespace ProjectTwo;
+﻿using BusinessObjects;
+namespace ProjectTwo;
 
 public partial class App : Application
 {
@@ -7,5 +8,7 @@ public partial class App : Application
 		InitializeComponent();
 
 		MainPage = new AppShell();
+
+		Investor projectUser = new();
 	}
 }

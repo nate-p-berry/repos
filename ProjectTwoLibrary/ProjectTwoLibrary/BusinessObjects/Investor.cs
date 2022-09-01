@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ProjectTwoLibrary.BusinessObjects
+namespace BusinessObjects
 {
     public class Investor
     {

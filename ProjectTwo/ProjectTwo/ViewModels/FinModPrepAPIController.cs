@@ -9,7 +9,6 @@ using System.Web.Http;
 using System.Net.Http;
 using ProjectTwoLibrary;
 using BusinessObjects;
-using ProjectTwoLibrary.BusinessObjects;
 
 namespace ProjectTwo.ViewModels
 {

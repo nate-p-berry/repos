@@ -18,6 +18,10 @@
 	</PropertyGroup>
 
 	<ItemGroup>
+	  <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+	</ItemGroup>
+
+	<ItemGroup>
 	  <Compile Update="CardView\CardViewControl.xaml.cs">
 	    <DependentUpon>CardViewControl.xaml</DependentUpon>
 	  </Compile>
@@ -27,6 +31,12 @@
 	  <MauiXaml Update="CardView\CardViewControl.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
+	</ItemGroup>
+
+	<ItemGroup Condition="'$(TargetFramework)' == 'net6.0-android'">
+	  <PackageReference Include="Xamarin.AndroidX.Lifecycle.Common">
+	    <Version>2.5.1</Version>
+	  </PackageReference>
 	</ItemGroup>
 
 </Project>

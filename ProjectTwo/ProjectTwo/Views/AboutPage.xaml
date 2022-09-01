@@ -5,39 +5,56 @@
              Title="About us and the company we keep"
              BackgroundColor="GhostWhite">
     <FlexLayout
-        Direction="Row">
-        <!--AlignContent="Stretch"
-        AlignItems="Center"
-        Wrap="Wrap">-->
+        Direction="Row"
+        Padding="30"
+        >
         <VerticalStackLayout
             BackgroundColor="CornflowerBlue" 
-            FlexLayout.Order="0" >
-            <Label 
+            FlexLayout.Order="0" 
+            Padding="15">
+            <Image 
+                Source="logo_symbol.png"
+                HeightRequest="175"
+                HorizontalOptions="Center"
+                VerticalOptions="Center"
+                />
+            <Image
+                Source="qcfinal.png"
+                HeightRequest="50"
+                HorizontalOptions="Center"
+                VerticalOptions="Center"
+                />
+            <Label
                 Text="Welcome to the About page!"
                 TextColor="#13294B"
                 FontAttributes="Bold"
                 VerticalOptions="Center" 
-                HorizontalOptions="Center" />
+                HorizontalOptions="Center" 
+                />
         </VerticalStackLayout>
         <VerticalStackLayout
             BackgroundColor="Azure" 
-            FlexLayout.Order="1">
+            FlexLayout.Order="1"
+            Padding="15">
             <Label 
                 Text="This page primarily reveals information about our comapny and process."
                 TextColor="#13294B"
                 FontAttributes="Bold"
-            VerticalOptions="Center" 
-            HorizontalOptions="Center" />
+                VerticalOptions="Center" 
+                HorizontalOptions="Center" 
+                />
         </VerticalStackLayout>
         <VerticalStackLayout
             BackgroundColor="IndianRed" 
-            FlexLayout.Order="2">
+            FlexLayout.Order="2"
+            Padding="15">
             <Label 
                 Text="It's still a bit of a work in progress, so give me time to put it together, please. Thanks for being interested!"
                 TextColor="#13294B"
                 FontAttributes="Bold"
-            VerticalOptions="Center" 
-            HorizontalOptions="Center" />
+                VerticalOptions="Center" 
+                HorizontalOptions="Center" 
+                />
         </VerticalStackLayout>
     </FlexLayout>
 </ContentPage>
