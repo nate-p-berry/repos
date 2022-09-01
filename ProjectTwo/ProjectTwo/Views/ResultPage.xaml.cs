@@ -6,4 +6,10 @@ public partial class ResultPage : ContentPage
 	{
 		InitializeComponent();
 	}
+	private async void NewValuationBtn_Clicked(object sender, EventArgs e)
+	{
+		Routing.RegisterRoute("ValuationPage", typeof(ValuationPage));
+		await Navigation.PopAsync();
+		SemanticScreenReader.Announce(NewValuationBtn.Text);
+	}
 }

@@ -8,6 +8,7 @@ namespace ProjectTwoLibrary.Calculators
 {
     internal class ValuationCalculators
     {
+        // TODO: Need to input calculation logic for DCF, comps, and factor investing here
         public static double CalculateNetPresentValue(double cashFlow, double discountRate, int numberOfPeriods)
         {
             double netPresentValue = 0;

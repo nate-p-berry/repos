@@ -36,7 +36,7 @@
                 <Label
                     Text="What company would you like to value?"
                     TextColor="#13294B"
-                    FontSize="Title"
+                    FontSize="Large"
                     FontAttributes="Bold"
                     HorizontalTextAlignment="Center"
                     VerticalTextAlignment="Center"

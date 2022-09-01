@@ -2,11 +2,106 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="ProjectTwo.Views.ResultPage"
-             Title="ResultPage">
-    <VerticalStackLayout>
-        <Label 
-            Text="Welcome to .NET MAUI!"
-            VerticalOptions="Center" 
-            HorizontalOptions="Center" />
-    </VerticalStackLayout>
+             BackgroundColor="GhostWhite"
+             Title="Results"
+             >
+    <ScrollView FlowDirection="LeftToRight"
+                MinimumHeightRequest="1000"
+                HorizontalOptions="Center"
+                Padding="30">
+        <FlexLayout Direction="Row"
+                Wrap="Wrap"
+                Padding="30"
+                AlignContent="SpaceEvenly"
+                JustifyContent="SpaceAround"
+                Position="Relative">
+            <Grid BackgroundColor="#E5DBFF"
+                  FlexLayout.Order="0" 
+                  VerticalOptions="Center"
+                  HorizontalOptions="End" 
+                  ColumnSpacing="10"
+                  RowSpacing="10"
+                  Padding="15">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="75" />
+                    <RowDefinition Height="50" />
+                    <RowDefinition Height="100" />
+                    <RowDefinition Height="200" />
+                    <RowDefinition Height="75" />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="auto" />
+                    <ColumnDefinition Width="auto" />
+                    <ColumnDefinition Width="auto" />
+                </Grid.ColumnDefinitions>
+                <Label
+                    Text="Great! We assess their value to be:"
+                    TextColor="#13294B"
+                    FontSize="Large"
+                    FontAttributes="Bold"
+                    HorizontalTextAlignment="Center"
+                    VerticalTextAlignment="Center"
+                    Grid.Row="0"
+                    Grid.ColumnSpan="3"
+                    />
+                <Label
+                    Text="(Based on user input and forecasts)"
+                    TextColor="#13294B"
+                    FontSize="Medium"
+                    HorizontalTextAlignment="Center"
+                    VerticalTextAlignment="Center"
+                    Grid.Row="1"
+                    Grid.ColumnSpan="3"
+                    />
+                <Entry 
+                    MaxLength="6" 
+                    Text="{Binding}"
+                    TextColor="SlateGray"
+                    FontSize="Large"
+                    FontAttributes="Bold"
+                    HorizontalTextAlignment="Center"
+                    BackgroundColor="GhostWhite"
+                    HeightRequest="90"
+                    WidthRequest="750"
+                    Grid.Row="2"
+                    Grid.ColumnSpan="3"
+                    />
+                <Label 
+                    x:Name="OutputLbl"
+                    Text="{Binding}"
+                    TextColor="#13294B"
+                    FontAttributes="Bold"
+                    FontSize="Subtitle"
+                    BackgroundColor="GhostWhite"
+                    Grid.Row="3"
+                    Grid.ColumnSpan="3"
+                    />
+                <Button 
+                    x:Name="NewValuationBtn"
+                    Text="Run another valuation."
+                    TextColor="#13294B"
+                    FontSize="Subtitle"
+                    FontAttributes="Bold"
+                    Clicked="NewValuationBtn_Clicked"
+                    Grid.Row="4"
+                    Grid.ColumnSpan="3"
+                    Padding="5"
+                    />
+            </Grid>
+            <VerticalStackLayout
+            VerticalOptions="Center"
+            FlexLayout.Order="1"
+            FlexLayout.Grow="2"
+            FlexLayout.Shrink="0.1">
+                <Image
+                Source="logo_symbol.png"
+                SemanticProperties.Description="Quantum Capital main logo"
+                HeightRequest="350" />
+                <Image 
+                Source="qcfinal.png"
+                SemanticProperties.Description="Quantum Capital name logo"
+                HeightRequest="100" />
+            </VerticalStackLayout>
+        </FlexLayout>
+    </ScrollView>
 </ContentPage>

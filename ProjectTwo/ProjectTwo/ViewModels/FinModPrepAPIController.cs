@@ -14,7 +14,7 @@ using ProjectTwoLibrary.BusinessObjects;
 namespace ProjectTwo.ViewModels
 {
     [ApiController] 
-    internal class FinModPrepAPIController : ControllerBase
+    internal class FinModPrepAPIController : ApiController
     {
         public static HttpClient fmpClient = new() { Timeout = TimeSpan.FromSeconds(45) };
         
