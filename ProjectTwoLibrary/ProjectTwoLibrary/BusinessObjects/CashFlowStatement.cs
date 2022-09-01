@@ -1,12 +1,14 @@
-﻿using System;
+﻿using ProjectTwoLibrary.BusinessObjects;
+using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace BusinessObjects
 {
-    internal class CashFlowStatement
+    public class CashFlowStatement : FinancialStatement
     {
         #region Fields
         private decimal? _netIncome;
@@ -42,6 +44,7 @@ namespace BusinessObjects
         #endregion
 
         #region Constructor
+        public CashFlowStatement() { }
         public CashFlowStatement(decimal? netIncome,
                                     decimal? depreciationAndAmortization,
                                     decimal? deferredIncomeTax,
@@ -140,7 +143,46 @@ namespace BusinessObjects
         #endregion
 
         #region Methods
-
+        public override CashFlowStatement EmptyStatement()
+        {
+            CashFlowStatement emptyStatement = new(/*
+                NetIncome = 0,
+                DepreciationAndAmortization = 0,
+                DeferredIncomeTax = 0,
+                StockBasedCompensation = 0,
+                ChangeInWorkingCapital = 0,
+                AccountsReceivable = 0,
+                Inventory = 0,
+                AccountsPayable = 0,
+                OtherWorkingCapital = 0,
+                OtherNonCashItems = 0,
+                NetCashFromOperations = 0, 
+                InvestmentsInPropertyPlantAndEquipment = 0,
+                AcquisitionsNet = 0, 
+                PurchasesOfInvestments = 0,
+                SalesMaturitiesOfInvestments = 0,
+                OtherInvestingActivities = 0,
+                NetCashFromInvestments = 0,
+                DebtRepayment = 0,
+                CommonStockIssued = 0,
+                CommonStockRepurchased = 0,
+                DividendsPaid = 0,
+                OtherFinancingActivities = 0,
+                NetCashFromFinancing = 0,
+                EffectOfForExOnCash = 0,
+                NetChangeInCash = 0,
+                CashBeginning = 0,
+                CashEnding = 0,
+                OperatingCashFlow = 0,
+                CapitalExpenditure = 0,
+                FreeCashFlow = 0 */);
+            foreach(PropertyInfo propertyInfo in typeof(CashFlowStatement).GetProperties())
+            {
+                propertyInfo.SetValue(this, 0);
+            }
+            return emptyStatement;
+        }
         #endregion
+        
     }
 }

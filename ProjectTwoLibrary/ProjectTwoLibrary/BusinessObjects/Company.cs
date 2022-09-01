@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BusinessObjects
 {
-    internal abstract class Company
+    public abstract class Company
     {
         private string _name;
         private BalanceSheet _balanceSheet;
@@ -22,5 +22,7 @@ namespace BusinessObjects
         internal BalanceSheet BalanceSheet { get => _balanceSheet; set => _balanceSheet = value; }
         internal IncomeStatement IncomeStatement { get => _incomeStatement; set => _incomeStatement = value; }
         internal CashFlowStatement CashFlowStatement { get => _cashFlowStatement; set => _cashFlowStatement = value; }
+
+        
     }
 }

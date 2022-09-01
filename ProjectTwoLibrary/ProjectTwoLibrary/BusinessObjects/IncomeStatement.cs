@@ -1,6 +1,8 @@
-﻿using System;
+﻿using ProjectTwoLibrary.BusinessObjects;
+using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -9,7 +11,7 @@ namespace BusinessObjects
     // In retrospect, I could and maybe should try to tie these together with the other classes such that -for example- the revenue of one statement
     // can't be different from the same data in another and vice versa. Feels like that could be needlessly complex though and I intend to just use similar
     // database references/sources to set the values.
-    internal class IncomeStatement
+    public class IncomeStatement : FinancialStatement
     {
         #region Fields
         private decimal? _revenue;
@@ -42,6 +44,7 @@ namespace BusinessObjects
         #endregion
 
         #region Constructor
+        public IncomeStatement() { }
         public IncomeStatement(decimal? revenue,
                                   decimal? costOfRevenue,
                                   decimal? grossProfit,
@@ -131,7 +134,15 @@ namespace BusinessObjects
         #endregion
 
         #region Methods
-
+        public override IncomeStatement EmptyStatement()
+        {
+            IncomeStatement emptyIncomeStatement = new();
+            foreach(PropertyInfo propertyInfo in typeof(IncomeStatement).GetProperties())
+            {
+                propertyInfo.SetValue(this, 0);
+            }
+            return emptyIncomeStatement;
+        }
         #endregion
     }
 }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BusinessObjects
 {
-    internal partial class PrivateCompany : Company
+    public partial class PrivateCompany : Company
     {
 
     }

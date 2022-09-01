@@ -1,12 +1,14 @@
-﻿using System;
+﻿using ProjectTwoLibrary.BusinessObjects;
+using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace BusinessObjects
 {
-    internal class BalanceSheet
+    public class BalanceSheet: FinancialStatement
     {
         #region Fields
         private decimal? _cashAndCashEquivalents;
@@ -52,6 +54,7 @@ namespace BusinessObjects
         #endregion
 
         #region Constructors
+        public BalanceSheet() { }
         public BalanceSheet(decimal? cashAndCashEquivalents,
                                decimal? shortTermInvestments,
                                decimal? cashAndShortTermInvestments,
@@ -178,9 +181,17 @@ namespace BusinessObjects
         public decimal? TotalDebt { get => _totalDebt; set => _totalDebt = value; }
         public decimal? NetDebt { get => _netDebt; set => _netDebt = value; }
         #endregion
-        
-        #region Methods
 
+        #region Methods
+        public override BalanceSheet EmptyStatement()
+        {
+            BalanceSheet emptyBalanceSheet = new();
+            foreach(PropertyInfo propertyInfo in emptyBalanceSheet.GetType().GetProperties())
+            {
+                propertyInfo.SetValue(this, 0);
+            }
+            return emptyBalanceSheet;
+        }
         #endregion
     }
 }

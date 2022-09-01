@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BusinessObjects
 {
-    internal class PublicCompany : Company
+    public class PublicCompany : Company
     {
         private DateTime _date;
         private string _symbol;
@@ -39,5 +39,7 @@ namespace BusinessObjects
         public decimal? CalendarYear { get => _calendarYear; set => _calendarYear = value; }
         public string? Period { get => _period; set => _period = value; }
         public decimal? SharePrice { get => _sharePrice; set => _sharePrice = value; }
+
+        
     }
 }

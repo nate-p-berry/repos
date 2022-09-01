@@ -1205,6 +1205,250 @@ app_system_properties:
 .L.env.buf.291:
 	.zero	70
 	.size	.L.env.buf.291, 70
+	.type	.L.env.buf.292, @object
+.L.env.buf.292:
+	.zero	70
+	.size	.L.env.buf.292, 70
+	.type	.L.env.buf.293, @object
+.L.env.buf.293:
+	.zero	70
+	.size	.L.env.buf.293, 70
+	.type	.L.env.buf.294, @object
+.L.env.buf.294:
+	.zero	70
+	.size	.L.env.buf.294, 70
+	.type	.L.env.buf.295, @object
+.L.env.buf.295:
+	.zero	70
+	.size	.L.env.buf.295, 70
+	.type	.L.env.buf.296, @object
+.L.env.buf.296:
+	.zero	70
+	.size	.L.env.buf.296, 70
+	.type	.L.env.buf.297, @object
+.L.env.buf.297:
+	.zero	70
+	.size	.L.env.buf.297, 70
+	.type	.L.env.buf.298, @object
+.L.env.buf.298:
+	.zero	70
+	.size	.L.env.buf.298, 70
+	.type	.L.env.buf.299, @object
+.L.env.buf.299:
+	.zero	70
+	.size	.L.env.buf.299, 70
+	.type	.L.env.buf.300, @object
+.L.env.buf.300:
+	.zero	70
+	.size	.L.env.buf.300, 70
+	.type	.L.env.buf.301, @object
+.L.env.buf.301:
+	.zero	70
+	.size	.L.env.buf.301, 70
+	.type	.L.env.buf.302, @object
+.L.env.buf.302:
+	.zero	70
+	.size	.L.env.buf.302, 70
+	.type	.L.env.buf.303, @object
+.L.env.buf.303:
+	.zero	70
+	.size	.L.env.buf.303, 70
+	.type	.L.env.buf.304, @object
+.L.env.buf.304:
+	.zero	70
+	.size	.L.env.buf.304, 70
+	.type	.L.env.buf.305, @object
+.L.env.buf.305:
+	.zero	70
+	.size	.L.env.buf.305, 70
+	.type	.L.env.buf.306, @object
+.L.env.buf.306:
+	.zero	70
+	.size	.L.env.buf.306, 70
+	.type	.L.env.buf.307, @object
+.L.env.buf.307:
+	.zero	70
+	.size	.L.env.buf.307, 70
+	.type	.L.env.buf.308, @object
+.L.env.buf.308:
+	.zero	70
+	.size	.L.env.buf.308, 70
+	.type	.L.env.buf.309, @object
+.L.env.buf.309:
+	.zero	70
+	.size	.L.env.buf.309, 70
+	.type	.L.env.buf.310, @object
+.L.env.buf.310:
+	.zero	70
+	.size	.L.env.buf.310, 70
+	.type	.L.env.buf.311, @object
+.L.env.buf.311:
+	.zero	70
+	.size	.L.env.buf.311, 70
+	.type	.L.env.buf.312, @object
+.L.env.buf.312:
+	.zero	70
+	.size	.L.env.buf.312, 70
+	.type	.L.env.buf.313, @object
+.L.env.buf.313:
+	.zero	70
+	.size	.L.env.buf.313, 70
+	.type	.L.env.buf.314, @object
+.L.env.buf.314:
+	.zero	70
+	.size	.L.env.buf.314, 70
+	.type	.L.env.buf.315, @object
+.L.env.buf.315:
+	.zero	70
+	.size	.L.env.buf.315, 70
+	.type	.L.env.buf.316, @object
+.L.env.buf.316:
+	.zero	70
+	.size	.L.env.buf.316, 70
+	.type	.L.env.buf.317, @object
+.L.env.buf.317:
+	.zero	70
+	.size	.L.env.buf.317, 70
+	.type	.L.env.buf.318, @object
+.L.env.buf.318:
+	.zero	70
+	.size	.L.env.buf.318, 70
+	.type	.L.env.buf.319, @object
+.L.env.buf.319:
+	.zero	70
+	.size	.L.env.buf.319, 70
+	.type	.L.env.buf.320, @object
+.L.env.buf.320:
+	.zero	70
+	.size	.L.env.buf.320, 70
+	.type	.L.env.buf.321, @object
+.L.env.buf.321:
+	.zero	70
+	.size	.L.env.buf.321, 70
+	.type	.L.env.buf.322, @object
+.L.env.buf.322:
+	.zero	70
+	.size	.L.env.buf.322, 70
+	.type	.L.env.buf.323, @object
+.L.env.buf.323:
+	.zero	70
+	.size	.L.env.buf.323, 70
+	.type	.L.env.buf.324, @object
+.L.env.buf.324:
+	.zero	70
+	.size	.L.env.buf.324, 70
+	.type	.L.env.buf.325, @object
+.L.env.buf.325:
+	.zero	70
+	.size	.L.env.buf.325, 70
+	.type	.L.env.buf.326, @object
+.L.env.buf.326:
+	.zero	70
+	.size	.L.env.buf.326, 70
+	.type	.L.env.buf.327, @object
+.L.env.buf.327:
+	.zero	70
+	.size	.L.env.buf.327, 70
+	.type	.L.env.buf.328, @object
+.L.env.buf.328:
+	.zero	70
+	.size	.L.env.buf.328, 70
+	.type	.L.env.buf.329, @object
+.L.env.buf.329:
+	.zero	70
+	.size	.L.env.buf.329, 70
+	.type	.L.env.buf.330, @object
+.L.env.buf.330:
+	.zero	70
+	.size	.L.env.buf.330, 70
+	.type	.L.env.buf.331, @object
+.L.env.buf.331:
+	.zero	70
+	.size	.L.env.buf.331, 70
+	.type	.L.env.buf.332, @object
+.L.env.buf.332:
+	.zero	70
+	.size	.L.env.buf.332, 70
+	.type	.L.env.buf.333, @object
+.L.env.buf.333:
+	.zero	70
+	.size	.L.env.buf.333, 70
+	.type	.L.env.buf.334, @object
+.L.env.buf.334:
+	.zero	70
+	.size	.L.env.buf.334, 70
+	.type	.L.env.buf.335, @object
+.L.env.buf.335:
+	.zero	70
+	.size	.L.env.buf.335, 70
+	.type	.L.env.buf.336, @object
+.L.env.buf.336:
+	.zero	70
+	.size	.L.env.buf.336, 70
+	.type	.L.env.buf.337, @object
+.L.env.buf.337:
+	.zero	70
+	.size	.L.env.buf.337, 70
+	.type	.L.env.buf.338, @object
+.L.env.buf.338:
+	.zero	70
+	.size	.L.env.buf.338, 70
+	.type	.L.env.buf.339, @object
+.L.env.buf.339:
+	.zero	70
+	.size	.L.env.buf.339, 70
+	.type	.L.env.buf.340, @object
+.L.env.buf.340:
+	.zero	70
+	.size	.L.env.buf.340, 70
+	.type	.L.env.buf.341, @object
+.L.env.buf.341:
+	.zero	70
+	.size	.L.env.buf.341, 70
+	.type	.L.env.buf.342, @object
+.L.env.buf.342:
+	.zero	70
+	.size	.L.env.buf.342, 70
+	.type	.L.env.buf.343, @object
+.L.env.buf.343:
+	.zero	70
+	.size	.L.env.buf.343, 70
+	.type	.L.env.buf.344, @object
+.L.env.buf.344:
+	.zero	70
+	.size	.L.env.buf.344, 70
+	.type	.L.env.buf.345, @object
+.L.env.buf.345:
+	.zero	70
+	.size	.L.env.buf.345, 70
+	.type	.L.env.buf.346, @object
+.L.env.buf.346:
+	.zero	70
+	.size	.L.env.buf.346, 70
+	.type	.L.env.buf.347, @object
+.L.env.buf.347:
+	.zero	70
+	.size	.L.env.buf.347, 70
+	.type	.L.env.buf.348, @object
+.L.env.buf.348:
+	.zero	70
+	.size	.L.env.buf.348, 70
+	.type	.L.env.buf.349, @object
+.L.env.buf.349:
+	.zero	70
+	.size	.L.env.buf.349, 70
+	.type	.L.env.buf.350, @object
+.L.env.buf.350:
+	.zero	70
+	.size	.L.env.buf.350, 70
+	.type	.L.env.buf.351, @object
+.L.env.buf.351:
+	.zero	70
+	.size	.L.env.buf.351, 70
+	.type	.L.env.buf.352, @object
+.L.env.buf.352:
+	.zero	70
+	.size	.L.env.buf.352, 70
 	// Bundled assemblies data
 
 	.type	bundled_assemblies, @object
@@ -3841,7 +4085,556 @@ bundled_assemblies:
 	.zero	4
 	.xword	.L.env.buf.291	// name
 
-	.size	bundled_assemblies, 11680
+	.word	0xffffffff	// apk_fd
+	.word	0x0	// data_offset
+	.word	0x0	// data_size
+	.zero	4
+	.xword	0x0	// data
+	.word	0x0	// name_length
+	.zero	4
+	.xword	.L.env.buf.292	// name
+
+	.word	0xffffffff	// apk_fd
+	.word	0x0	// data_offset
+	.word	0x0	// data_size
+	.zero	4
+	.xword	0x0	// data
+	.word	0x0	// name_length
+	.zero	4
+	.xword	.L.env.buf.293	// name
+
+	.word	0xffffffff	// apk_fd
+	.word	0x0	// data_offset
+	.word	0x0	// data_size
+	.zero	4
+	.xword	0x0	// data
+	.word	0x0	// name_length
+	.zero	4
+	.xword	.L.env.buf.294	// name
+
+	.word	0xffffffff	// apk_fd
+	.word	0x0	// data_offset
+	.word	0x0	// data_size
+	.zero	4
+	.xword	0x0	// data
+	.word	0x0	// name_length
+	.zero	4
+	.xword	.L.env.buf.295	// name
+
+	.word	0xffffffff	// apk_fd
+	.word	0x0	// data_offset
+	.word	0x0	// data_size
+	.zero	4
+	.xword	0x0	// data
+	.word	0x0	// name_length
+	.zero	4
+	.xword	.L.env.buf.296	// name
+
+	.word	0xffffffff	// apk_fd
+	.word	0x0	// data_offset
+	.word	0x0	// data_size
+	.zero	4
+	.xword	0x0	// data
+	.word	0x0	// name_length
+	.zero	4
+	.xword	.L.env.buf.297	// name
+
+	.word	0xffffffff	// apk_fd
+	.word	0x0	// data_offset
+	.word	0x0	// data_size
+	.zero	4
+	.xword	0x0	// data
+	.word	0x0	// name_length
+	.zero	4
+	.xword	.L.env.buf.298	// name
+
+	.word	0xffffffff	// apk_fd
+	.word	0x0	// data_offset
+	.word	0x0	// data_size
+	.zero	4
+	.xword	0x0	// data
+	.word	0x0	// name_length
+	.zero	4
+	.xword	.L.env.buf.299	// name
+
+	.word	0xffffffff	// apk_fd
+	.word	0x0	// data_offset
+	.word	0x0	// data_size
+	.zero	4
+	.xword	0x0	// data
+	.word	0x0	// name_length
+	.zero	4
+	.xword	.L.env.buf.300	// name
+
+	.word	0xffffffff	// apk_fd
+	.word	0x0	// data_offset
+	.word	0x0	// data_size
+	.zero	4
+	.xword	0x0	// data
+	.word	0x0	// name_length
+	.zero	4
+	.xword	.L.env.buf.301	// name
+
+	.word	0xffffffff	// apk_fd
+	.word	0x0	// data_offset
+	.word	0x0	// data_size
+	.zero	4
+	.xword	0x0	// data
+	.word	0x0	// name_length
+	.zero	4
+	.xword	.L.env.buf.302	// name
+
+	.word	0xffffffff	// apk_fd
+	.word	0x0	// data_offset
+	.word	0x0	// data_size
+	.zero	4
+	.xword	0x0	// data
+	.word	0x0	// name_length
+	.zero	4
+	.xword	.L.env.buf.303	// name
+
+	.word	0xffffffff	// apk_fd
+	.word	0x0	// data_offset
+	.word	0x0	// data_size
+	.zero	4
+	.xword	0x0	// data
+	.word	0x0	// name_length
+	.zero	4
+	.xword	.L.env.buf.304	// name
+
+	.word	0xffffffff	// apk_fd
+	.word	0x0	// data_offset
+	.word	0x0	// data_size
+	.zero	4
+	.xword	0x0	// data
+	.word	0x0	// name_length
+	.zero	4
+	.xword	.L.env.buf.305	// name
+
+	.word	0xffffffff	// apk_fd
+	.word	0x0	// data_offset
+	.word	0x0	// data_size
+	.zero	4
+	.xword	0x0	// data
+	.word	0x0	// name_length
+	.zero	4
+	.xword	.L.env.buf.306	// name
+
+	.word	0xffffffff	// apk_fd
+	.word	0x0	// data_offset
+	.word	0x0	// data_size
+	.zero	4
+	.xword	0x0	// data
+	.word	0x0	// name_length
+	.zero	4
+	.xword	.L.env.buf.307	// name
+
+	.word	0xffffffff	// apk_fd
+	.word	0x0	// data_offset
+	.word	0x0	// data_size
+	.zero	4
+	.xword	0x0	// data
+	.word	0x0	// name_length
+	.zero	4
+	.xword	.L.env.buf.308	// name
+
+	.word	0xffffffff	// apk_fd
+	.word	0x0	// data_offset
+	.word	0x0	// data_size
+	.zero	4
+	.xword	0x0	// data
+	.word	0x0	// name_length
+	.zero	4
+	.xword	.L.env.buf.309	// name
+
+	.word	0xffffffff	// apk_fd
+	.word	0x0	// data_offset
+	.word	0x0	// data_size
+	.zero	4
+	.xword	0x0	// data
+	.word	0x0	// name_length
+	.zero	4
+	.xword	.L.env.buf.310	// name
+
+	.word	0xffffffff	// apk_fd
+	.word	0x0	// data_offset
+	.word	0x0	// data_size
+	.zero	4
+	.xword	0x0	// data
+	.word	0x0	// name_length
+	.zero	4
+	.xword	.L.env.buf.311	// name
+
+	.word	0xffffffff	// apk_fd
+	.word	0x0	// data_offset
+	.word	0x0	// data_size
+	.zero	4
+	.xword	0x0	// data
+	.word	0x0	// name_length
+	.zero	4
+	.xword	.L.env.buf.312	// name
+
+	.word	0xffffffff	// apk_fd
+	.word	0x0	// data_offset
+	.word	0x0	// data_size
+	.zero	4
+	.xword	0x0	// data
+	.word	0x0	// name_length
+	.zero	4
+	.xword	.L.env.buf.313	// name
+
+	.word	0xffffffff	// apk_fd
+	.word	0x0	// data_offset
+	.word	0x0	// data_size
+	.zero	4
+	.xword	0x0	// data
+	.word	0x0	// name_length
+	.zero	4
+	.xword	.L.env.buf.314	// name
+
+	.word	0xffffffff	// apk_fd
+	.word	0x0	// data_offset
+	.word	0x0	// data_size
+	.zero	4
+	.xword	0x0	// data
+	.word	0x0	// name_length
+	.zero	4
+	.xword	.L.env.buf.315	// name
+
+	.word	0xffffffff	// apk_fd
+	.word	0x0	// data_offset
+	.word	0x0	// data_size
+	.zero	4
+	.xword	0x0	// data
+	.word	0x0	// name_length
+	.zero	4
+	.xword	.L.env.buf.316	// name
+
+	.word	0xffffffff	// apk_fd
+	.word	0x0	// data_offset
+	.word	0x0	// data_size
+	.zero	4
+	.xword	0x0	// data
+	.word	0x0	// name_length
+	.zero	4
+	.xword	.L.env.buf.317	// name
+
+	.word	0xffffffff	// apk_fd
+	.word	0x0	// data_offset
+	.word	0x0	// data_size
+	.zero	4
+	.xword	0x0	// data
+	.word	0x0	// name_length
+	.zero	4
+	.xword	.L.env.buf.318	// name
+
+	.word	0xffffffff	// apk_fd
+	.word	0x0	// data_offset
+	.word	0x0	// data_size
+	.zero	4
+	.xword	0x0	// data
+	.word	0x0	// name_length
+	.zero	4
+	.xword	.L.env.buf.319	// name
+
+	.word	0xffffffff	// apk_fd
+	.word	0x0	// data_offset
+	.word	0x0	// data_size
+	.zero	4
+	.xword	0x0	// data
+	.word	0x0	// name_length
+	.zero	4
+	.xword	.L.env.buf.320	// name
+
+	.word	0xffffffff	// apk_fd
+	.word	0x0	// data_offset
+	.word	0x0	// data_size
+	.zero	4
+	.xword	0x0	// data
+	.word	0x0	// name_length
+	.zero	4
+	.xword	.L.env.buf.321	// name
+
+	.word	0xffffffff	// apk_fd
+	.word	0x0	// data_offset
+	.word	0x0	// data_size
+	.zero	4
+	.xword	0x0	// data
+	.word	0x0	// name_length
+	.zero	4
+	.xword	.L.env.buf.322	// name
+
+	.word	0xffffffff	// apk_fd
+	.word	0x0	// data_offset
+	.word	0x0	// data_size
+	.zero	4
+	.xword	0x0	// data
+	.word	0x0	// name_length
+	.zero	4
+	.xword	.L.env.buf.323	// name
+
+	.word	0xffffffff	// apk_fd
+	.word	0x0	// data_offset
+	.word	0x0	// data_size
+	.zero	4
+	.xword	0x0	// data
+	.word	0x0	// name_length
+	.zero	4
+	.xword	.L.env.buf.324	// name
+
+	.word	0xffffffff	// apk_fd
+	.word	0x0	// data_offset
+	.word	0x0	// data_size
+	.zero	4
+	.xword	0x0	// data
+	.word	0x0	// name_length
+	.zero	4
+	.xword	.L.env.buf.325	// name
+
+	.word	0xffffffff	// apk_fd
+	.word	0x0	// data_offset
+	.word	0x0	// data_size
+	.zero	4
+	.xword	0x0	// data
+	.word	0x0	// name_length
+	.zero	4
+	.xword	.L.env.buf.326	// name
+
+	.word	0xffffffff	// apk_fd
+	.word	0x0	// data_offset
+	.word	0x0	// data_size
+	.zero	4
+	.xword	0x0	// data
+	.word	0x0	// name_length
+	.zero	4
+	.xword	.L.env.buf.327	// name
+
+	.word	0xffffffff	// apk_fd
+	.word	0x0	// data_offset
+	.word	0x0	// data_size
+	.zero	4
+	.xword	0x0	// data
+	.word	0x0	// name_length
+	.zero	4
+	.xword	.L.env.buf.328	// name
+
+	.word	0xffffffff	// apk_fd
+	.word	0x0	// data_offset
+	.word	0x0	// data_size
+	.zero	4
+	.xword	0x0	// data
+	.word	0x0	// name_length
+	.zero	4
+	.xword	.L.env.buf.329	// name
+
+	.word	0xffffffff	// apk_fd
+	.word	0x0	// data_offset
+	.word	0x0	// data_size
+	.zero	4
+	.xword	0x0	// data
+	.word	0x0	// name_length
+	.zero	4
+	.xword	.L.env.buf.330	// name
+
+	.word	0xffffffff	// apk_fd
+	.word	0x0	// data_offset
+	.word	0x0	// data_size
+	.zero	4
+	.xword	0x0	// data
+	.word	0x0	// name_length
+	.zero	4
+	.xword	.L.env.buf.331	// name
+
+	.word	0xffffffff	// apk_fd
+	.word	0x0	// data_offset
+	.word	0x0	// data_size
+	.zero	4
+	.xword	0x0	// data
+	.word	0x0	// name_length
+	.zero	4
+	.xword	.L.env.buf.332	// name
+
+	.word	0xffffffff	// apk_fd
+	.word	0x0	// data_offset
+	.word	0x0	// data_size
+	.zero	4
+	.xword	0x0	// data
+	.word	0x0	// name_length
+	.zero	4
+	.xword	.L.env.buf.333	// name
+
+	.word	0xffffffff	// apk_fd
+	.word	0x0	// data_offset
+	.word	0x0	// data_size
+	.zero	4
+	.xword	0x0	// data
+	.word	0x0	// name_length
+	.zero	4
+	.xword	.L.env.buf.334	// name
+
+	.word	0xffffffff	// apk_fd
+	.word	0x0	// data_offset
+	.word	0x0	// data_size
+	.zero	4
+	.xword	0x0	// data
+	.word	0x0	// name_length
+	.zero	4
+	.xword	.L.env.buf.335	// name
+
+	.word	0xffffffff	// apk_fd
+	.word	0x0	// data_offset
+	.word	0x0	// data_size
+	.zero	4
+	.xword	0x0	// data
+	.word	0x0	// name_length
+	.zero	4
+	.xword	.L.env.buf.336	// name
+
+	.word	0xffffffff	// apk_fd
+	.word	0x0	// data_offset
+	.word	0x0	// data_size
+	.zero	4
+	.xword	0x0	// data
+	.word	0x0	// name_length
+	.zero	4
+	.xword	.L.env.buf.337	// name
+
+	.word	0xffffffff	// apk_fd
+	.word	0x0	// data_offset
+	.word	0x0	// data_size
+	.zero	4
+	.xword	0x0	// data
+	.word	0x0	// name_length
+	.zero	4
+	.xword	.L.env.buf.338	// name
+
+	.word	0xffffffff	// apk_fd
+	.word	0x0	// data_offset
+	.word	0x0	// data_size
+	.zero	4
+	.xword	0x0	// data
+	.word	0x0	// name_length
+	.zero	4
+	.xword	.L.env.buf.339	// name
+
+	.word	0xffffffff	// apk_fd
+	.word	0x0	// data_offset
+	.word	0x0	// data_size
+	.zero	4
+	.xword	0x0	// data
+	.word	0x0	// name_length
+	.zero	4
+	.xword	.L.env.buf.340	// name
+
+	.word	0xffffffff	// apk_fd
+	.word	0x0	// data_offset
+	.word	0x0	// data_size
+	.zero	4
+	.xword	0x0	// data
+	.word	0x0	// name_length
+	.zero	4
+	.xword	.L.env.buf.341	// name
+
+	.word	0xffffffff	// apk_fd
+	.word	0x0	// data_offset
+	.word	0x0	// data_size
+	.zero	4
+	.xword	0x0	// data
+	.word	0x0	// name_length
+	.zero	4
+	.xword	.L.env.buf.342	// name
+
+	.word	0xffffffff	// apk_fd
+	.word	0x0	// data_offset
+	.word	0x0	// data_size
+	.zero	4
+	.xword	0x0	// data
+	.word	0x0	// name_length
+	.zero	4
+	.xword	.L.env.buf.343	// name
+
+	.word	0xffffffff	// apk_fd
+	.word	0x0	// data_offset
+	.word	0x0	// data_size
+	.zero	4
+	.xword	0x0	// data
+	.word	0x0	// name_length
+	.zero	4
+	.xword	.L.env.buf.344	// name
+
+	.word	0xffffffff	// apk_fd
+	.word	0x0	// data_offset
+	.word	0x0	// data_size
+	.zero	4
+	.xword	0x0	// data
+	.word	0x0	// name_length
+	.zero	4
+	.xword	.L.env.buf.345	// name
+
+	.word	0xffffffff	// apk_fd
+	.word	0x0	// data_offset
+	.word	0x0	// data_size
+	.zero	4
+	.xword	0x0	// data
+	.word	0x0	// name_length
+	.zero	4
+	.xword	.L.env.buf.346	// name
+
+	.word	0xffffffff	// apk_fd
+	.word	0x0	// data_offset
+	.word	0x0	// data_size
+	.zero	4
+	.xword	0x0	// data
+	.word	0x0	// name_length
+	.zero	4
+	.xword	.L.env.buf.347	// name
+
+	.word	0xffffffff	// apk_fd
+	.word	0x0	// data_offset
+	.word	0x0	// data_size
+	.zero	4
+	.xword	0x0	// data
+	.word	0x0	// name_length
+	.zero	4
+	.xword	.L.env.buf.348	// name
+
+	.word	0xffffffff	// apk_fd
+	.word	0x0	// data_offset
+	.word	0x0	// data_size
+	.zero	4
+	.xword	0x0	// data
+	.word	0x0	// name_length
+	.zero	4
+	.xword	.L.env.buf.349	// name
+
+	.word	0xffffffff	// apk_fd
+	.word	0x0	// data_offset
+	.word	0x0	// data_size
+	.zero	4
+	.xword	0x0	// data
+	.word	0x0	// name_length
+	.zero	4
+	.xword	.L.env.buf.350	// name
+
+	.word	0xffffffff	// apk_fd
+	.word	0x0	// data_offset
+	.word	0x0	// data_size
+	.zero	4
+	.xword	0x0	// data
+	.word	0x0	// name_length
+	.zero	4
+	.xword	.L.env.buf.351	// name
+
+	.word	0xffffffff	// apk_fd
+	.word	0x0	// data_offset
+	.word	0x0	// data_size
+	.zero	4
+	.xword	0x0	// data
+	.word	0x0	// name_length
+	.zero	4
+	.xword	.L.env.buf.352	// name
+
+	.size	bundled_assemblies, 14120
 	// Assembly store individual assembly data
 	.type	assembly_store_bundled_assemblies, @object
 	.global	assembly_store_bundled_assemblies
@@ -4077,7 +4870,7 @@ application_config:
 	.word	0x3	// package_naming_policy
 	.word	0xc	// environment_variable_count
 	.word	0x0	// system_property_count
-	.word	0x124	// number_of_assemblies_in_apk
+	.word	0x161	// number_of_assemblies_in_apk
 	.word	0x46	// bundled_assembly_name_width
 	.word	0x2	// number_of_assembly_store_files
 	.word	0x20	// number_of_dso_cache_entries
@@ -4130,7 +4923,7 @@ application_config:
 
 	.type	.L.autostr.8, @object
 .L.autostr.8:
-	.asciz	"cad1da9d-669a-4669-87f7-5eb0985b7bcd"
+	.asciz	"fbf627b1-7812-4875-a5ba-d55b958af7fb"
 	.size	.L.autostr.8, 37
 
 	.type	.L.autostr.9, @object
