@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProjectTwo.Views.ValuationPage"
+             BackgroundColor="GhostWhite"
+             Title="Valuations"
+             >
+    <ScrollView FlowDirection="LeftToRight"
+                MinimumHeightRequest="1000"
+                HorizontalOptions="Center"
+                Padding="30">
+        <FlexLayout Direction="Row"
+                Wrap="Wrap"
+                Padding="30"
+                AlignContent="SpaceEvenly"
+                JustifyContent="SpaceAround"
+                Position="Relative">
+            <Grid BackgroundColor="#E5DBFF"
+                  FlexLayout.Order="0" 
+                  VerticalOptions="Center"
+                  HorizontalOptions="End" 
+                  ColumnSpacing="10"
+                  RowSpacing="10"
+                  Padding="15">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="75" />
+                    <RowDefinition Height="50" />
+                    <RowDefinition Height="100" />
+                    <RowDefinition Height="200" />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="auto" />
+                    <ColumnDefinition Width="auto" />
+                    <ColumnDefinition Width="auto" />
+                </Grid.ColumnDefinitions>
+                <Label
+                    Text="What company would you like to value?"
+                    TextColor="#13294B"
+                    FontSize="Title"
+                    FontAttributes="Bold"
+                    HorizontalTextAlignment="Center"
+                    VerticalTextAlignment="Center"
+                    Grid.Row="0"
+                    Grid.ColumnSpan="3"
+                    />
+                <Label
+                    Text="(Only public firms for now, please)"
+                    TextColor="#13294B"
+                    FontSize="Medium"
+                    HorizontalTextAlignment="Center"
+                    VerticalTextAlignment="Center"
+                    Grid.Row="1"
+                    Grid.ColumnSpan="3"
+                    />
+                <Entry 
+                    Focused="Entry_Focused"
+                    MaxLength="6" 
+                    Text="TICKER"
+                    TextColor="SlateGray"
+                    FontSize="Large"
+                    FontAttributes="Bold"
+                    HorizontalTextAlignment="Center"
+                    BackgroundColor="GhostWhite"
+                    HeightRequest="90"
+                    WidthRequest="750"
+                    Grid.Row="2"
+                    Grid.ColumnSpan="3"
+                    />
+                <Button 
+                    x:Name="DiscountedCashFlowValueBtn"
+                    Text="Discounted Cash Flow"
+                    TextColor="#13294B"
+                    FontSize="Subtitle"
+                    FontAttributes="Bold"
+                    Clicked="DiscountedCashFlowBtn_Clicked"
+                    HeightRequest="190"
+                    WidthRequest="290"
+                    Grid.Row="3"
+                    Grid.Column="0"
+                    />
+                <Button 
+                    x:Name="ComparableValueBtn"
+                    Text="Comparables"
+                    TextColor="#13294B"
+                    FontSize="Subtitle"
+                    FontAttributes="Bold"
+                    Clicked="ComparableValueBtn_Clicked"
+                    HeightRequest="190"
+                    WidthRequest="290"
+                    Grid.Row="3"
+                    Grid.Column="1"
+                    />
+                <Button 
+                    x:Name="FactorValueBtn"
+                    Text="Factor Model"
+                    TextColor="#13294B"
+                    FontSize="Subtitle"
+                    FontAttributes="Bold"
+                    Clicked="FactorValueBtn_Clicked"
+                    HeightRequest="190"
+                    WidthRequest="290"
+                    Grid.Row="3"
+                    Grid.Column="2"
+                    />
+            </Grid>
+            <VerticalStackLayout
+            VerticalOptions="Center"
+            FlexLayout.Order="1"
+            FlexLayout.Grow="2"
+            FlexLayout.Shrink="0.1">
+                <Image
+                Source="logo_symbol.png"
+                SemanticProperties.Description="Quantum Capital main logo"
+                HeightRequest="350" />
+                <Image 
+                Source="qcfinal.png"
+                SemanticProperties.Description="Quantum Capital name logo"
+                HeightRequest="100" />
+            </VerticalStackLayout>
+        </FlexLayout>
+    </ScrollView>
+</ContentPage>

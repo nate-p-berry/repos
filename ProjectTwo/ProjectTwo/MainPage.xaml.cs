@@ -15,12 +15,12 @@ public partial class MainPage : ContentPage
 		await Navigation.PushAsync(new AboutPage());
 		SemanticScreenReader.Announce(AboutPageBtn.Text);
 	}
-	private async void ContactPageBtn_Clicked(object sender, EventArgs e)
+/*	private async void ContactPageBtn_Clicked(object sender, EventArgs e)
 	{
 		Routing.RegisterRoute("ContactPage", typeof(ContactPage));
 		await Navigation.PushAsync(new ContactPage());
 		SemanticScreenReader.Announce(ContactPageBtn.Text);
-	}
+	}*/
 	private async void DashboardPageBtn_Clicked(object sender, EventArgs e)
 	{
 		Routing.RegisterRoute("DashboardPage", typeof(DashboardPage));
@@ -39,7 +39,12 @@ public partial class MainPage : ContentPage
 		await Navigation.PushAsync(new SettingsPage());
 		SemanticScreenReader.Announce(SettingsPageBtn.Text);
 	}
-
+	private async void ValuationPageBtn_Clicked(object sender, EventArgs e)
+	{
+		Routing.RegisterRoute("Valuation Page", typeof (ValuationPage));
+		await Navigation.PushAsync(new ValuationPage());
+		SemanticScreenReader.Announce(ValuationPageBtn.Text);
+	}
 	private async void NewsPageBtn_Clicked(object sender, EventArgs e)
 	{
 		Routing.RegisterRoute("News", typeof(NewsPage));

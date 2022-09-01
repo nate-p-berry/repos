@@ -6,7 +6,8 @@
              Title="The future of investing"
              >
     <ScrollView FlowDirection="LeftToRight"
-                MinimumHeightRequest="1000">
+                MinimumHeightRequest="1000"
+                HorizontalOptions="Center">
     <FlexLayout Direction="Row"
                 Wrap="Wrap"
                 Padding="30"
@@ -32,7 +33,8 @@
             VerticalOptions="Center"
             FlexLayout.Order="1"
             FlexLayout.Grow="2"
-            FlexLayout.Shrink="0.1">
+            FlexLayout.Shrink="0.1"
+            Padding="30">
             <Label
                 Text="Hello, quantum financial world!"
                 FontAutoScalingEnabled="True"
@@ -51,20 +53,26 @@
                 HorizontalTextAlignment="Center" 
                 VerticalTextAlignment="Center" />
             <Grid 
-                BackgroundColor="#E5DBFF" >
+                BackgroundColor="#E5DBFF" 
+                HorizontalOptions="CenterAndExpand" 
+                ColumnSpacing="10"
+                RowSpacing="10"
+                Padding="15"
+                >
             <Grid.RowDefinitions>
-                <RowDefinition Height="200" />
-                <RowDefinition Height="200" />
+                <RowDefinition Height="auto" />
+                <RowDefinition Height="auto" />
             </Grid.RowDefinitions>
             <Grid.ColumnDefinitions>
-                <ColumnDefinition Width="200" />
-                <ColumnDefinition Width="200" />
-                <ColumnDefinition Width="200" />
+                <ColumnDefinition Width="auto" />
+                <ColumnDefinition Width="auto" />
+                <ColumnDefinition Width="auto" />
             </Grid.ColumnDefinitions>
             <Button
                 x:Name="AboutPageBtn"
                 Text="About"
                 TextColor="#13294B"
+                FontSize="Subtitle"
                 FontAttributes="Bold"
                 Grid.Row="0"
                 Grid.Column="0"
@@ -75,6 +83,7 @@
                 x:Name="NewsPageBtn"
                 Text="News"
                 TextColor="#13294B"
+                FontSize="Subtitle"
                 FontAttributes="Bold"
                 Grid.Row="0"
                 Grid.Column="1"
@@ -85,6 +94,7 @@
                 x:Name="DashboardPageBtn"
                 Text="Dashboard"
                 TextColor="#13294B"
+                FontSize="Subtitle"
                 FontAttributes="Bold"
                 Grid.Row="0"
                 Grid.Column="2"
@@ -95,6 +105,7 @@
                 x:Name="AccountsPageBtn"
                 Text="Accounts"
                 TextColor="#13294B"
+                FontSize="Subtitle"
                 FontAttributes="Bold"
                 Grid.Row="1"
                 Grid.Column="0"
@@ -105,22 +116,35 @@
                 x:Name="SettingsPageBtn"
                 Text="Settings"
                 TextColor="#13294B"
+                FontSize="Subtitle"
                 FontAttributes="Bold"
                 Grid.Row="1"
                 Grid.Column="1"
                 Clicked="SettingsPageBtn_Clicked" 
                 HeightRequest="190"
                 WidthRequest="190" />
-            <Button
+            <Button 
+                x:Name="ValuationPageBtn"
+                Text="Valuations"
+                TextColor="#13294B"
+                FontSize="Subtitle"
+                FontAttributes="Bold"
+                Grid.Row="1"
+                Grid.Column="2"
+                Clicked="ValuationPageBtn_Clicked"
+                HeightRequest="190"
+                WidthRequest="190" />
+                    <!--<Button
                 x:Name="ContactPageBtn"
                 Text="Contact"
                 TextColor="#13294B"
+                FontSize="Subtitle"
                 FontAttributes="Bold"
                 Grid.Row="1"
                 Grid.Column="2"
                 Clicked="ContactPageBtn_Clicked" 
                 HeightRequest="190"
-                WidthRequest="190" />
+                WidthRequest="190" />-->
             </Grid>
         </VerticalStackLayout>
     </FlexLayout>

@@ -69,8 +69,20 @@ build_metadata.AdditionalFiles.ManifestResourceName = ProjectTwo.Views.NewsPage.
 build_metadata.AdditionalFiles.TargetPath = Views\NewsPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Views\NewsPage.xaml
 
+[C:/Users/berry/source/repos/ProjectTwo/ProjectTwo/Views/ResultPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProjectTwo.Views.ResultPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ResultPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ResultPage.xaml
+
 [C:/Users/berry/source/repos/ProjectTwo/ProjectTwo/Views/SettingsPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ProjectTwo.Views.SettingsPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Views\SettingsPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Views\SettingsPage.xaml
+
+[C:/Users/berry/source/repos/ProjectTwo/ProjectTwo/Views/ValuationPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProjectTwo.Views.ValuationPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ValuationPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ValuationPage.xaml

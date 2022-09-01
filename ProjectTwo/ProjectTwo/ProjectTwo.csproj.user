@@ -24,7 +24,13 @@
     <MauiXaml Update="Views\NewsPage.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
+    <MauiXaml Update="Views\ResultPage.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
     <MauiXaml Update="Views\SettingsPage.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
+    <MauiXaml Update="Views\ValuationPage.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
   </ItemGroup>
