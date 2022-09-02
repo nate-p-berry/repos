@@ -1,4 +1,6 @@
-﻿using Microsoft.Maui.LifecycleEvents;
+﻿using BusinessObjects;
+using Microsoft.Maui.LifecycleEvents;
+using ProjectTwo.Models;
 
 #if WINDOWS
 using Microsoft.UI;
@@ -20,6 +22,14 @@ public static class MauiProgram
 				fonts.AddFont("OpenSans-Regular.ttf", "OpenSansRegular");
 				fonts.AddFont("OpenSans-Semibold.ttf", "OpenSansSemibold");
 			});
+
+        SessionState sessionState = new();
+        Investor user = new()
+        {
+            CategoryPreference = "business",
+            CountryPreference = "us"
+        };
+
 #if WINDOWS
         builder.ConfigureLifecycleEvents(events =>
         {

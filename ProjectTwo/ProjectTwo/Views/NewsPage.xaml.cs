@@ -20,12 +20,16 @@ public partial class NewsPage : ContentPage
 	{
         InitializeComponent();
         OnNavigatedTo();
-        
     }
 
     private static async void OnNavigatedTo()
     {
-        await NewsAPIController.GetNewsResponseAsync(SessionState.currentUser);
+        Investor user = new()
+        {
+            CategoryPreference = "business",
+            CountryPreference = "us"
+        };
+        await NewsAPIController.GetNewsResponseAsync(user);
     }
 
     private async void NavigationBtn_Clicked(object sender, EventArgs e)

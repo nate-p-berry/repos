@@ -1,4 +1,6 @@
 ﻿using BusinessObjects;
+using ProjectTwo.Models;
+
 namespace ProjectTwo;
 
 public partial class App : Application
@@ -8,7 +10,5 @@ public partial class App : Application
 		InitializeComponent();
 
 		MainPage = new AppShell();
-
-		Investor projectUser = new();
 	}
 }
