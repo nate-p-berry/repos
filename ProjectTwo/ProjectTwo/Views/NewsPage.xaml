@@ -3,29 +3,11 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="ProjectTwo.Views.NewsPage"
              Title="News">
-    <Grid>
-        <!--<VerticalStackLayout>
-            <Label 
-            Text="Total results found: "
-            VerticalOptions="Center" 
-            HorizontalOptions="Center" FontAutoScalingEnabled="True" FlowDirection="LeftToRight" />
-            <Label 
-            Text="{Binding Source=NewsPage.resultCount}"
-            VerticalOptions="Center"
-            HorizontalOptions="Center"
-            FontAutoScalingEnabled="True"
-            FlowDirection="LeftToRight" />
-        </VerticalStackLayout>-->
-        <ListView Margin="10">
-            <ListView.ItemTemplate>
-                <DataTemplate>
-                    <VerticalStackLayout>
-                        <Image Source="{Binding UrlToImage}" VerticalOptions="Fill" HorizontalOptions="Fill" />
-                        <Label Text="{Binding Title}" FontAttributes="Bold" FontSize="Header" />
-                        <Label Text="{Binding Description}" FontAttributes="Italic" FontSize="Body" />
-                    </VerticalStackLayout>
-                </DataTemplate>
-            </ListView.ItemTemplate>
-        </ListView>
-    </Grid>
+    <FlexLayout Margin="20" BackgroundColor="#E5DBFF" HorizontalOptions="CenterAndExpand" VerticalOptions="StartAndExpand" >
+        <VerticalStackLayout Margin="10" Padding="10">
+            <Image VerticalOptions="Fill" HorizontalOptions="Fill" />
+            <Label Text="Well this is NOT working" FontAttributes="Bold" FontSize="Header" />
+            <Label Text="But at least it's doing better lol." FontAttributes="Italic" FontSize="Body" />
+        </VerticalStackLayout>
+    </FlexLayout>
 </ContentPage>

@@ -8,11 +8,13 @@ using Microsoft.UI.Windowing;
 using Windows.Graphics;
 #endif
 
+[assembly: XamlCompilation(XamlCompilationOptions.Compile)]
+
 namespace ProjectTwo;
 
 public static class MauiProgram
 {
-	public static MauiApp CreateMauiApp()
+    public static MauiApp CreateMauiApp()
 	{
 		var builder = MauiApp.CreateBuilder();
 		builder

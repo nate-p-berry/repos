@@ -9,9 +9,9 @@ namespace ProjectTwoLibrary.NewsObjects
 {
     internal class ArticleEnumerator : IEnumerator
     {
-        public Article[] _articles;
+        public NewsResponse.Article[] _articles;
         int position = -1;
-        public ArticleEnumerator(Article[] list)
+        public ArticleEnumerator(NewsResponse.Article[] list)
         {
             _articles = list;
         }
@@ -35,7 +35,7 @@ namespace ProjectTwoLibrary.NewsObjects
             }
         }
 
-        public Article Current
+        public NewsResponse.Article Current
         {
             get
             {

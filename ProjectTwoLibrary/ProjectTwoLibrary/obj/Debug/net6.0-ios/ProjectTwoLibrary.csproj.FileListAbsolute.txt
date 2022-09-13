@@ -18,3 +18,5 @@ C:\Users\berry\source\repos\ProjectTwoLibrary\ProjectTwoLibrary\obj\Debug\net6.0
 C:\Users\berry\source\repos\ProjectTwoLibrary\ProjectTwoLibrary\obj\Debug\net6.0-ios\ProjectTwoLibrary.pdb
 C:\Users\berry\source\repos\ProjectTwoLibrary\ProjectTwoLibrary\obj\Debug\net6.0-ios\ref\ProjectTwoLibrary.dll
 C:\Users\berry\source\repos\ProjectTwoLibrary\ProjectTwoLibrary\obj\Debug\net6.0-ios\XamlC.stamp
+C:\Users\berry\source\repos\ProjectTwoLibrary\ProjectTwoLibrary\bin\Debug\net6.0-ios\NewsAPI.dll
+C:\Users\berry\source\repos\ProjectTwoLibrary\ProjectTwoLibrary\obj\Debug\net6.0-ios\ProjectTwoLibrary.csproj.CopyComplete

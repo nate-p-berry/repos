@@ -252,7 +252,6 @@ C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\bin\Debug\net6.0-windows10.0.1
 C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\hostfxr.dll
 C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\hostpolicy.dll
 C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\mscordaccore.dll
-C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\mscordaccore_amd64_amd64_6.0.822.36306.dll
 C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\mscordbi.dll
 C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\mscorrc.dll
 C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\msquic.dll
@@ -360,11 +359,6 @@ C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\obj\Debug\net6.0-windows10.0.1
 C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
 C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\ProjectTwoLibrary.dll
 C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\ProjectTwoLibrary.pdb
-C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\qc_to_crop.scale-100.png
-C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\qc_to_crop.scale-125.png
-C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\qc_to_crop.scale-150.png
-C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\qc_to_crop.scale-200.png
-C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\qc_to_crop.scale-400.png
 C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\qcfinal.scale-100.png
 C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\qcfinal.scale-125.png
 C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\qcfinal.scale-150.png
@@ -434,3 +428,4 @@ C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\bin\Debug\net6.0-windows10.0.1
 C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Xml.dll
 C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Permissions.dll
 C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\clrcompression.dll
+C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\mscordaccore_amd64_amd64_6.0.922.41905.dll

@@ -12,6 +12,7 @@
           "Microsoft.Maui.Extensions": "6.0.486",
           "Microsoft.Windows.SDK.BuildTools": "10.0.22000.194",
           "Newtonsoft.Json": "13.0.1",
+          "NewsAPI": "1.0.0.0",
           "runtimepack.Microsoft.Windows.SDK.NET.Ref": "10.0.19041.26"
         },
         "runtime": {
@@ -266,7 +267,15 @@
           "System.Runtime.CompilerServices.Unsafe": "6.0.0"
         }
       },
-      "System.Runtime.CompilerServices.Unsafe/6.0.0": {}
+      "System.Runtime.CompilerServices.Unsafe/6.0.0": {},
+      "NewsAPI/1.0.0.0": {
+        "runtime": {
+          "NewsAPI.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
     }
   },
   "libraries": {
@@ -405,6 +414,11 @@
       "sha512": "sha512-/iUeP3tq1S0XdNNoMz5C9twLSrM/TH+qElHkXWaPvuNOt+99G75NrV0OS2EqHx5wMN7popYjpc8oTjC1y16DLg==",
       "path": "system.runtime.compilerservices.unsafe/6.0.0",
       "hashPath": "system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+    },
+    "NewsAPI/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

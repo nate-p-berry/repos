@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "yuCk7DkJ6OzWq6ChgDztAn6xwNwxhV1cXe5XhWuKBXiTTpj4BLrWx5AvvcgHz7h01PCEWykYhh4kw3p1ub3Mpw==",
+  "dgSpecHash": "0yK0nxaajdLbhXoZgYXvUGCFAmJRisawiSxVmR4rWp5g83G7TIAJHFWYNHr/kJwd+zMl6u3JNQQiCX8qO17J9A==",
   "success": true,
   "projectFilePath": "C:\\Users\\berry\\source\\repos\\ProjectTwo\\ProjectTwo\\ProjectTwo.csproj",
   "expectedPackageFiles": [
@@ -302,13 +302,10 @@
     "C:\\Users\\berry\\.nuget\\packages\\xamarin.kotlin.stdlib.jdk8\\1.6.20.1\\xamarin.kotlin.stdlib.jdk8.1.6.20.1.nupkg.sha512",
     "C:\\Users\\berry\\.nuget\\packages\\xamarin.kotlinx.coroutines.android\\1.6.0.1\\xamarin.kotlinx.coroutines.android.1.6.0.1.nupkg.sha512",
     "C:\\Users\\berry\\.nuget\\packages\\xamarin.kotlinx.coroutines.core.jvm\\1.6.0.1\\xamarin.kotlinx.coroutines.core.jvm.1.6.0.1.nupkg.sha512",
-    "C:\\Users\\berry\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\6.0.8\\microsoft.netcore.app.host.linux-x64.6.0.8.nupkg.sha512",
-    "C:\\Users\\berry\\.nuget\\packages\\microsoft.netcore.app.host.linux-arm64\\6.0.8\\microsoft.netcore.app.host.linux-arm64.6.0.8.nupkg.sha512",
-    "C:\\Users\\berry\\.nuget\\packages\\microsoft.netcore.app.host.linux-arm\\6.0.8\\microsoft.netcore.app.host.linux-arm.6.0.8.nupkg.sha512",
-    "C:\\Users\\berry\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.8\\microsoft.netcore.app.runtime.win-x64.6.0.8.nupkg.sha512",
-    "C:\\Users\\berry\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.8\\microsoft.aspnetcore.app.runtime.win-x64.6.0.8.nupkg.sha512",
-    "C:\\Users\\berry\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.8\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.8.nupkg.sha512",
-    "C:\\Users\\berry\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.26\\microsoft.windows.sdk.net.ref.10.0.19041.26.nupkg.sha512"
+    "C:\\Users\\berry\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.9\\microsoft.netcore.app.runtime.win-x64.6.0.9.nupkg.sha512",
+    "C:\\Users\\berry\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.9\\microsoft.aspnetcore.app.runtime.win-x64.6.0.9.nupkg.sha512",
+    "C:\\Users\\berry\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.9\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.9.nupkg.sha512",
+    "C:\\Users\\berry\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.27\\microsoft.windows.sdk.net.ref.10.0.19041.27.nupkg.sha512"
   ],
   "logs": [
     {

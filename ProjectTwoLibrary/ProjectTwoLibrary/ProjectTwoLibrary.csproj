@@ -22,6 +22,12 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <Reference Include="NewsAPI">
+	    <HintPath>..\..\ProjectTwo\ProjectTwo\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\NewsAPI.dll</HintPath>
+	  </Reference>
+	</ItemGroup>
+
+	<ItemGroup>
 	  <Compile Update="CardView\CardViewControl.xaml.cs">
 	    <DependentUpon>CardViewControl.xaml</DependentUpon>
 	  </Compile>

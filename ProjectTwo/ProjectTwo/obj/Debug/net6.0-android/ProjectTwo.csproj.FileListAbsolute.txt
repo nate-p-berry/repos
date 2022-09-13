@@ -1020,11 +1020,6 @@ C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\obj\Debug\net6.0-android\andro
 C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\obj\Debug\net6.0-android\app_shared_libraries\armeabi-v7a\libxamarin-app.so
 C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\obj\Debug\net6.0-android\app_shared_libraries\arm64-v8a\libxamarin-app.so
 C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\obj\Debug\net6.0-android\app_shared_libraries\x86\libxamarin-app.so
-C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\obj\Debug\net6.0-android\resizetizer\r\drawable-hdpi\qc_to_crop.png
-C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\obj\Debug\net6.0-android\resizetizer\r\drawable-mdpi\qc_to_crop.png
-C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\obj\Debug\net6.0-android\resizetizer\r\drawable-xhdpi\qc_to_crop.png
-C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\obj\Debug\net6.0-android\resizetizer\r\drawable-xxhdpi\qc_to_crop.png
-C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\obj\Debug\net6.0-android\resizetizer\r\drawable-xxxhdpi\qc_to_crop.png
 C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\obj\Debug\net6.0-android\resizetizer\r\drawable-hdpi\qcfinal.png
 C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\obj\Debug\net6.0-android\resizetizer\r\drawable-mdpi\qcfinal.png
 C:\Users\berry\source\repos\ProjectTwo\ProjectTwo\obj\Debug\net6.0-android\resizetizer\r\drawable-xhdpi\qcfinal.png

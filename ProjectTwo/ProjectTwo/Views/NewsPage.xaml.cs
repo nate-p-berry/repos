@@ -18,18 +18,19 @@ public partial class NewsPage : ContentPage
 {
 	public NewsPage()
 	{
-        InitializeComponent();
-        OnNavigatedTo();
-    }
-
-    private static async void OnNavigatedTo()
-    {
-        Investor user = new()
+        
+        try
         {
-            CategoryPreference = "business",
-            CountryPreference = "us"
-        };
-        await NewsAPIController.GetNewsResponseAsync(user);
+            NewsViewModel.Connect();
+        }
+        catch (Exception)
+        {
+            throw;
+        }
+        finally
+        {
+            InitializeComponent();
+        }
     }
 
     private async void NavigationBtn_Clicked(object sender, EventArgs e)

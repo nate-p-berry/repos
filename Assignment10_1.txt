@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8"/>
+        <title>Assignment10-1 Self Description HTML File</title>
+    </head>
+    <body>
+        <header>
+            <div>
+                <h1>This is my About Me page</h1>
+                <h3>This is a self description that I hope works.</h3>
+                <h6><em>(You know, without any CSS, I'm definitely getting OG HamsterDance meets MySpace vibes)</em></h6>
+            </div>
+        </header>
+        <section>
+            <div class="red">
+                <h2>Educational Background</h2>
+                <ol>
+                    <li><strong>University of Saint Andrews</strong> - <em>Study Aborad Programme</em> - 2010</li>
+                    <li><strong>Baylor University</strong> - <em>Bachelor of Arts in Politics, Philisophy, and Economics</em> - 2013</li>
+                    <li><strong>University of North Carolina</strong> - <em>Master of Business Administration</em> - 2022</li>
+                    <li><strong>Microsoft Software and Systems Academy</strong> - <em>Software Engineering Bootcamp</em> - 2022</li>
+                </ol>
+            </div>
+            <div class="blue">
+                <h2 class="blue">Work Experiences</h2>
+                <ul>
+                    <li><a href="https://www.todaysmilitary.com/careers-benefits/careers/intelligence-officers" alt="Position Description">Intelligence Program Manager</a></li>
+                    <li><a href="https://www.todaysmilitary.com/careers-benefits/careers/infantry-officers" alt="Position Description">Operations Manager</a></li>
+                    <li><a href="https://www.todaysmilitary.com/careers-benefits/careers/infantry-officers" alt="Position Description">Junior Operations Manager</a></li>
+                </ul>
+            </div>
+        </section>
+        <section>
+            <div>
+                <h2>Professional Aspirations</h2>
+                <ul>
+                    <ul>
+                        <li><strong>Growth Mindset</strong></li>
+                        <li><img src="growthMindset.png" alt="Growth is a way of life!" height="200" /></li>
+                        <li>Maintain a growth mindset throughout my career</li>
+                        <li>Continually strive to learn and challenge myself with new positions</li>
+                    </ul>
+                    <div><p></p></div>
+                    <ul>
+                        <li><strong>Management Material</strong></li>
+                        <li><img src="ipoGraphic.jpg" alt="IPO a company!" height="200" /></li>
+                        <li>Challenge myself to take on higher levels of leadership and compete to win</li>
+                        <li>Eventually need to sign on with or start my own venture backed tech firm and run it to IPO</li>
+                    </ul>
+                    <div><p></p></div>
+                    <ul>
+                        <li><strong>Quantum Future</strong></li>
+                        <li><img src="quantumGraphic.png" alt="Quantum powered capitalism!" height="200" /></li>
+                        <li>Gain and maintain domain expertise in quantum powered service provision for enterprise tech</li>
+                        <li>The only way to avoid FOMO is to be the one people are jealous of, which means I need to prepare now</li>
+                    </ul>
+                </ul>
+            </div>
+            <div>
+                <h2>Hobbies and Miscellaneous</h2>
+                <p></p>
+                <p></p>
+                <p></p>
+            </div>
+        </section>
+    </body>
+</html>

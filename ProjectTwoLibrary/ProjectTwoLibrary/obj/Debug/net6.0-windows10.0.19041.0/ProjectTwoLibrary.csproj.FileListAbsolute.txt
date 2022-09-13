@@ -11,3 +11,5 @@ C:\Users\berry\source\repos\ProjectTwoLibrary\ProjectTwoLibrary\obj\Debug\net6.0
 C:\Users\berry\source\repos\ProjectTwoLibrary\ProjectTwoLibrary\obj\Debug\net6.0-windows10.0.19041.0\ProjectTwoLibrary.pdb
 C:\Users\berry\source\repos\ProjectTwoLibrary\ProjectTwoLibrary\obj\Debug\net6.0-windows10.0.19041.0\ref\ProjectTwoLibrary.dll
 C:\Users\berry\source\repos\ProjectTwoLibrary\ProjectTwoLibrary\obj\Debug\net6.0-windows10.0.19041.0\XamlC.stamp
+C:\Users\berry\source\repos\ProjectTwoLibrary\ProjectTwoLibrary\bin\Debug\net6.0-windows10.0.19041.0\NewsAPI.dll
+C:\Users\berry\source\repos\ProjectTwoLibrary\ProjectTwoLibrary\obj\Debug\net6.0-windows10.0.19041.0\ProjectTwoLibrary.csproj.CopyComplete
