@@ -1,13 +1,41 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:ProjectTwo.ViewModels"
              x:Class="ProjectTwo.Views.NewsPage"
-             Title="News">
-    <FlexLayout Margin="20" BackgroundColor="#E5DBFF" HorizontalOptions="CenterAndExpand" VerticalOptions="StartAndExpand" >
-        <VerticalStackLayout Margin="10" Padding="10">
-            <Image VerticalOptions="Fill" HorizontalOptions="Fill" />
-            <Label Text="Well this is NOT working" FontAttributes="Bold" FontSize="Header" />
-            <Label Text="But at least it's doing better lol." FontAttributes="Italic" FontSize="Body" />
-        </VerticalStackLayout>
-    </FlexLayout>
+             Title="News" 
+             BackgroundColor="GhostWhite">
+    <ContentPage.BindingContext>
+        <local:NewsViewModel />
+    </ContentPage.BindingContext>
+    <CollectionView 
+        ItemsSource="{Binding News}" 
+        HorizontalOptions="CenterAndExpand" 
+        VerticalOptions="StartAndExpand" 
+        FlexLayout.AlignSelf="Auto" >
+        <!-- The line below this causes the program to crash lol -->
+        <!-- <BindableLayout.ItemsSource="{Binding News}"> -->
+        <CollectionView.ItemTemplate >
+            <DataTemplate>
+                <Grid Padding="5" BackgroundColor="Aqua">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto" />
+                        <ColumnDefinition Width="Auto" />
+                        <ColumnDefinition Width="Auto" />
+                        <ColumnDefinition Width="Auto" />
+                    </Grid.ColumnDefinitions>
+                    <Label Text="{Binding Title}" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="4" FontSize="Large" FontAttributes="Bold" />
+                    <Label Text="{Binding Description}" Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="4" FontSize="Medium" />
+                    <Label Text="{Binding PublishedAt}" Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="4" FontSize="Small" />
+                    <Label Text="{Binding Author}" Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="4" FontSize="Small" />
+                </Grid>
+            </DataTemplate>
+        </CollectionView.ItemTemplate>
+    </CollectionView>
 </ContentPage>
