@@ -7,13 +7,14 @@ using BusinessObjects;
 
 namespace ProjectTwo.Models
 {
-    public class SessionState
+    public struct SessionState
     {
-        public static Investor currentUser;
-        public static decimal DiscountRate = (decimal)currentUser.DiscountRateExpectation;
-        public static decimal GrowthRate = (decimal)currentUser.GrowthRateExpectation;
-        public static decimal WeightDCF = (decimal)currentUser.WeightDiscountedCashFlow;
-        public static decimal WeightComps = (decimal)currentUser.WeightComparable;
-        public static decimal WeightFactors = (decimal)currentUser.WeightFactorModel;
+        internal static Investor currentUser;
+        // TODO: Add more session state here, DiscountRate below keeps throwing an error when I try to use it
+        internal static decimal DiscountRate = (decimal)currentUser.DiscountRateExpectation;
+        internal static decimal GrowthRate = (decimal)currentUser.GrowthRateExpectation;
+        internal static decimal WeightDCF = (decimal)currentUser.WeightDiscountedCashFlow;
+        internal static decimal WeightComps = (decimal)currentUser.WeightComparable;
+        internal static decimal WeightFactors = (decimal)currentUser.WeightFactorModel;
     }
 }

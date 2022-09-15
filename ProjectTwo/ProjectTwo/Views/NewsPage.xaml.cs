@@ -29,6 +29,13 @@ public partial class NewsPage : ContentPage
                 ItemsSource = News,
                 BindingContext = News
             };
+            foreach (var article in News)
+            {
+                Image image = new() { Source = article.UrlToImage };
+                Label labelTitle = new() { Text = article.Title };
+                Label labelAuthor = new() { Text = article.Author };
+                Label labelDescription = new() { Text = article.Description };
+            }
         }
         catch (Exception)
         {

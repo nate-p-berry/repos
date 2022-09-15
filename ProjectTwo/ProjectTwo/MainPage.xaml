@@ -77,8 +77,9 @@
                 Grid.Row="0"
                 Grid.Column="0"
                 Clicked="AboutPageBtn_Clicked" 
-                HeightRequest="190"
-                WidthRequest="190" />
+                HorizontalOptions="CenterAndExpand"
+                VerticalOptions="CenterAndExpand"
+                />
             <Button
                 x:Name="NewsPageBtn"
                 Text="News"

@@ -17,6 +17,7 @@
             <DataTemplate>
                 <FlexLayout Padding="5" BackgroundColor="Aqua" >
                     <VerticalStackLayout>
+                        <!--BindingContext="{x:Reference Name=}">-->
                         <Image Source="{Binding }" />
                         <Label Text="{Binding Title}" FontSize="Large" FontAttributes="Bold"  />
                         <Label Text="{Binding Author}" FontSize="Small" />

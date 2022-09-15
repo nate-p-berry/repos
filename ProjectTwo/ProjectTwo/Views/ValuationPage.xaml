@@ -54,11 +54,13 @@
                     />
                 <Entry 
                     Focused="Entry_Focused"
-                    MaxLength="6" 
-                    Text="TICKER"
-                    TextColor="SlateGray"
+                    MaxLength="10" 
+                    Placeholder="(Ticker)"
+                    PlaceholderColor="SlateGray"
+                    TextColor="#13294B"
                     FontSize="Large"
                     FontAttributes="Bold"
+                    VerticalTextAlignment="Center"
                     HorizontalTextAlignment="Center"
                     BackgroundColor="GhostWhite"
                     HeightRequest="90"
