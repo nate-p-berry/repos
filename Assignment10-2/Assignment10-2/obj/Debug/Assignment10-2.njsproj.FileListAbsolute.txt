@@ -1,0 +1,3 @@
+C:\Users\berry\source\repos\Assignment10-2\Assignment10-2\obj\Debug\Assignment10-2.njsproj.AssemblyReference.cache
+C:\Users\berry\source\repos\Assignment10-2\Assignment10-2\obj\Debug\Assignment10-2.njsproj.CoreCompileInputs.cache
+C:\Users\berry\source\repos\Assignment10-2\Assignment10-2\bin\Microsoft.NodejsTools.WebRole.dll
