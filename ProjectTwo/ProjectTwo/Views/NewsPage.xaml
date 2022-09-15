@@ -8,33 +8,21 @@
     <ContentPage.BindingContext>
         <local:NewsViewModel />
     </ContentPage.BindingContext>
-    <CollectionView 
-        ItemsSource="{Binding News}" 
-        HorizontalOptions="CenterAndExpand" 
+    <CollectionView >
+    <!--HorizontalOptions="CenterAndExpand" 
         VerticalOptions="StartAndExpand" 
-        FlexLayout.AlignSelf="Auto" >
-        <!-- The line below this causes the program to crash lol -->
-        <!-- <BindableLayout.ItemsSource="{Binding News}"> -->
+        FlexLayout.AlignSelf="Auto" 
+        BindableLayout.ItemsSource="{Binding News}">-->
         <CollectionView.ItemTemplate >
             <DataTemplate>
-                <Grid Padding="5" BackgroundColor="Aqua">
-                    <Grid.RowDefinitions>
-                        <RowDefinition Height="Auto" />
-                        <RowDefinition Height="Auto" />
-                        <RowDefinition Height="Auto" />
-                        <RowDefinition Height="Auto" />
-                    </Grid.RowDefinitions>
-                    <Grid.ColumnDefinitions>
-                        <ColumnDefinition Width="Auto" />
-                        <ColumnDefinition Width="Auto" />
-                        <ColumnDefinition Width="Auto" />
-                        <ColumnDefinition Width="Auto" />
-                    </Grid.ColumnDefinitions>
-                    <Label Text="{Binding Title}" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="4" FontSize="Large" FontAttributes="Bold" />
-                    <Label Text="{Binding Description}" Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="4" FontSize="Medium" />
-                    <Label Text="{Binding PublishedAt}" Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="4" FontSize="Small" />
-                    <Label Text="{Binding Author}" Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="4" FontSize="Small" />
-                </Grid>
+                <FlexLayout Padding="5" BackgroundColor="Aqua" >
+                    <VerticalStackLayout>
+                        <Image Source="{Binding }" />
+                        <Label Text="{Binding Title}" FontSize="Large" FontAttributes="Bold"  />
+                        <Label Text="{Binding Author}" FontSize="Small" />
+                        <Label Text="{Binding Description}" FontSize="Medium" />
+                    </VerticalStackLayout>
+                </FlexLayout>
             </DataTemplate>
         </CollectionView.ItemTemplate>
     </CollectionView>

@@ -14,28 +14,22 @@ using NewsAPI;
 
 namespace ProjectTwo.ViewModels
 {
-    [ApiController]
     public class NewsViewModel
     {
-        public class NewsItem
-        {
-            public string Title { get; set; }
-            public string Description { get; set; }
-            public string Url { get; set; }
-            public string UrlToImage { get; set; }
-            public DateTime? PublishedAt { get; set; }
-        }
-        public List<NewsItem> News { get; set; } = new();
+        public static List<Article> News { get; set; } = new();
         
-        public static void Connect()
+        public static async void Connect()
         {
             NewsApiClient newsApiClient = new("4bf9199ed15941a8bc22e802f98b73bc");
-            TopHeadlinesRequest topHeadlinesRequest = new() { Category = Categories.Business, Country = Countries.US, Language = Languages.EN };
-            Task<ArticlesResult> result = newsApiClient.GetTopHeadlinesAsync(topHeadlinesRequest);
-            //ArticlesResult articles = result.Result;
-            
+            var topHeadlinesRequest = new TopHeadlinesRequest
+            {
+                Category = Categories.Business,
+                Country = Countries.US,
+                Language = Languages.EN,
+                PageSize = 100
+            };
+            var result = newsApiClient.GetTopHeadlinesAsync(topHeadlinesRequest);
+            News = (await result).Articles.ToList();
         }
     }
-
-
 }

@@ -13,21 +13,21 @@
           "Microsoft.Windows.SDK.BuildTools": "10.0.22000.194",
           "Newtonsoft.Json": "13.0.1",
           "NewsAPI": "1.0.0.0",
-          "runtimepack.Microsoft.Windows.SDK.NET.Ref": "10.0.19041.26"
+          "runtimepack.Microsoft.Windows.SDK.NET.Ref": "10.0.19041.27"
         },
         "runtime": {
           "ProjectTwoLibrary.dll": {}
         }
       },
-      "runtimepack.Microsoft.Windows.SDK.NET.Ref/10.0.19041.26": {
+      "runtimepack.Microsoft.Windows.SDK.NET.Ref/10.0.19041.27": {
         "runtime": {
           "Microsoft.Windows.SDK.NET.dll": {
             "assemblyVersion": "10.0.19041.24",
-            "fileVersion": "10.0.19041.26"
+            "fileVersion": "10.0.19041.27"
           },
           "WinRT.Runtime.dll": {
-            "assemblyVersion": "1.6.0.0",
-            "fileVersion": "1.6.4.39141"
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.39961"
           }
         }
       },
@@ -284,7 +284,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "runtimepack.Microsoft.Windows.SDK.NET.Ref/10.0.19041.26": {
+    "runtimepack.Microsoft.Windows.SDK.NET.Ref/10.0.19041.27": {
       "type": "runtimepack",
       "serviceable": false,
       "sha512": ""

@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ProjectTwoLibrary.NewsObjects
+/*namespace ProjectTwoLibrary.NewsObjects
 {
     internal class ArticleEnumerator : IEnumerator
     {
@@ -50,4 +50,4 @@ namespace ProjectTwoLibrary.NewsObjects
             }
         }
     }
-}
+}*/

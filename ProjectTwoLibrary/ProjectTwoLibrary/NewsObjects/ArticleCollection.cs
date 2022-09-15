@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using NewsAPI;
 
-namespace ProjectTwoLibrary.NewsObjects
+/*namespace ProjectTwoLibrary.NewsObjects
 {
     public class ArticleCollection : IEnumerable
     {
@@ -31,3 +31,4 @@ namespace ProjectTwoLibrary.NewsObjects
 
     }
 }
+*/
