@@ -58,83 +58,97 @@
                 ColumnSpacing="10"
                 RowSpacing="10"
                 Padding="15"
+                HeightRequest="400"
+                WidthRequest="600"
+                FlowDirection="MatchParent"
                 >
             <Grid.RowDefinitions>
-                <RowDefinition Height="auto" />
-                <RowDefinition Height="auto" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
             </Grid.RowDefinitions>
             <Grid.ColumnDefinitions>
-                <ColumnDefinition Width="auto" />
-                <ColumnDefinition Width="auto" />
-                <ColumnDefinition Width="auto" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
             </Grid.ColumnDefinitions>
             <Button
                 x:Name="AboutPageBtn"
                 Text="About"
                 TextColor="#13294B"
+                BackgroundColor="White"
                 FontSize="Subtitle"
                 FontAttributes="Bold"
                 Grid.Row="0"
                 Grid.Column="0"
                 Clicked="AboutPageBtn_Clicked" 
-                HorizontalOptions="CenterAndExpand"
-                VerticalOptions="CenterAndExpand"
+                HorizontalOptions="Fill"
+                VerticalOptions="Fill"
                 />
             <Button
                 x:Name="NewsPageBtn"
                 Text="News"
                 TextColor="#13294B"
+                BackgroundColor="White"
                 FontSize="Subtitle"
                 FontAttributes="Bold"
                 Grid.Row="0"
                 Grid.Column="1"
                 Clicked="NewsPageBtn_Clicked"
-                HeightRequest="190"
-                WidthRequest="190" />
+                HorizontalOptions="Fill"
+                VerticalOptions="Fill"
+                />
             <Button 
                 x:Name="DashboardPageBtn"
                 Text="Dashboard"
                 TextColor="#13294B"
+                BackgroundColor="White"
                 FontSize="Subtitle"
                 FontAttributes="Bold"
                 Grid.Row="0"
                 Grid.Column="2"
                 Clicked="DashboardPageBtn_Clicked" 
-                HeightRequest="190"
-                WidthRequest="190" />
+                HorizontalOptions="Fill"
+                VerticalOptions="Fill"
+                />
             <Button
                 x:Name="AccountsPageBtn"
                 Text="Accounts"
                 TextColor="#13294B"
+                BackgroundColor="White"
                 FontSize="Subtitle"
                 FontAttributes="Bold"
                 Grid.Row="1"
                 Grid.Column="0"
                 Clicked="AccountsPageBtn_Clicked" 
-                HeightRequest="190"
-                WidthRequest="190" />
+                HorizontalOptions="Fill"
+                VerticalOptions="Fill"
+                />
             <Button 
                 x:Name="SettingsPageBtn"
                 Text="Settings"
                 TextColor="#13294B"
+                BackgroundColor="White"
                 FontSize="Subtitle"
                 FontAttributes="Bold"
                 Grid.Row="1"
                 Grid.Column="1"
                 Clicked="SettingsPageBtn_Clicked" 
-                HeightRequest="190"
-                WidthRequest="190" />
+                HorizontalOptions="Fill"
+                VerticalOptions="Fill"
+                />
             <Button 
                 x:Name="ValuationPageBtn"
                 Text="Valuations"
                 TextColor="#13294B"
+                BackgroundColor="White"
                 FontSize="Subtitle"
                 FontAttributes="Bold"
                 Grid.Row="1"
                 Grid.Column="2"
                 Clicked="ValuationPageBtn_Clicked"
-                HeightRequest="190"
-                WidthRequest="190" />
+                HorizontalOptions="Fill"
+                VerticalOptions="Fill"
+                />
                     <!--<Button
                 x:Name="ContactPageBtn"
                 Text="Contact"

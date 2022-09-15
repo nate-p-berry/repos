@@ -9,108 +9,227 @@
                 HorizontalOptions="Center"
                 Padding="30">
         <FlexLayout Direction="Row"
-                Wrap="Wrap"
-                Padding="30"
-                AlignContent="SpaceEvenly"
-                JustifyContent="SpaceAround"
-                Position="Relative">
-            <Grid BackgroundColor="#E5DBFF"
+            Wrap="Wrap"
+            Padding="30"
+            AlignContent="SpaceEvenly"
+            JustifyContent="SpaceAround"
+            Position="Relative"
+            >
+            <VerticalStackLayout BackgroundColor="#E5DBFF"
                   FlexLayout.Order="0" 
                   VerticalOptions="Center"
                   HorizontalOptions="End" 
-                  ColumnSpacing="10"
-                  RowSpacing="10"
-                  Padding="15">
-                <Grid.RowDefinitions>
-                    <RowDefinition Height="75" />
-                    <RowDefinition Height="50" />
-                    <RowDefinition Height="200" />
-                </Grid.RowDefinitions>
-                <Grid.ColumnDefinitions>
-                    <ColumnDefinition Width="auto" />
-                    <ColumnDefinition Width="auto" />
-                </Grid.ColumnDefinitions>
+                  Padding="15" >
                 <Label
                     Text="What are your core valuation assumptions?"
                     TextColor="#13294B"
                     FontSize="Large"
                     FontAttributes="Bold"
                     HorizontalTextAlignment="Center"
-                    VerticalTextAlignment="Center"
-                    Grid.Row="0"
-                    Grid.ColumnSpan="2"
-                    />
-                <Label
-                        Text="(Broad market assumptions only for now)"
-                        TextColor="#13294B"
-                        FontSize="Medium"
-                        HorizontalTextAlignment="Center"
-                        VerticalTextAlignment="Center"
-                        Grid.Row="1"
-                        Grid.ColumnSpan="2">
+                    VerticalTextAlignment="Center"> 
                 </Label>
-                <VerticalStackLayout Grid.Row="2"
-                                     Grid.Column="0">
+                <Label
+                    Text="(Broad market assumptions only for now)"
+                    TextColor="#13294B"
+                    FontSize="Medium"
+                    HorizontalTextAlignment="Center"
+                    VerticalTextAlignment="Start" >
+                </Label>
+                <HorizontalStackLayout HorizontalOptions="CenterAndExpand" VerticalOptions="FillAndExpand" Padding="10" >
+                    <VerticalStackLayout HorizontalOptions="FillAndExpand" >
+                        <Label
+                            Text="Growth Rate"
+                            TextColor="#13294B"
+                            FontSize="Medium"
+                            HorizontalTextAlignment="Center"
+                            VerticalTextAlignment="Center" 
+                            BackgroundColor="Gainsboro"
+                            Padding="10"
+                            WidthRequest="400"
+                            >
+                        </Label>
+                        <Entry BackgroundColor="GhostWhite"
+                               HeightRequest="125"
+                               HorizontalTextAlignment="Center"
+                               VerticalTextAlignment="Start"
+                               FontSize="Small" 
+                               x:Name="GrowthRateEntry"
+                               AutomationId="GrowthRate" 
+                               ClassId="GrowthRate" 
+                               IsPassword="False" 
+                               class="GrowthRate">
+                            <Entry.Placeholder>
+                                <OnPlatform x:TypeArguments="x:String" Default="Enter growth rate here" > 
+                                    <On Platform="Android" Value="Enter growth rate here" />
+                                    <On Platform="iOS" Value="Enter growth rate here" />
+                                </OnPlatform>
+                            </Entry.Placeholder>
+                        </Entry>
+                    </VerticalStackLayout>
+                    <VerticalStackLayout >
+                        <Label
+                            Text="Discount Rate"
+                            TextColor="#13294B"
+                            FontSize="Medium"
+                            HorizontalTextAlignment="Center"
+                            VerticalTextAlignment="Center" 
+                            BackgroundColor="Gainsboro"
+                            Padding="10"
+                            WidthRequest="400"
+                            >
+                        </Label>
+                        <Entry BackgroundColor="GhostWhite"
+                               HeightRequest="125"
+                                   HorizontalTextAlignment="Center"
+                               VerticalTextAlignment="Start"
+                               FontSize="Small" 
+                               AutomationId="DiscountRate" 
+                               ClassId="DiscountRate" 
+                               IsPassword="False" 
+                               class="DiscountRate">
+                            <Entry.Placeholder >
+                                <OnPlatform x:TypeArguments="x:String" Default="Enter discount rate here" >
+                                    <On Platform="Android" Value="Enter discount rate here" />
+                                    <On Platform="iOS" Value="Enter discount rate here" />
+                                </OnPlatform>
+                            </Entry.Placeholder>
+                        </Entry>
+                    </VerticalStackLayout>
+                </HorizontalStackLayout>
+
+                <HorizontalStackLayout HorizontalOptions="CenterAndExpand" VerticalOptions="FillAndExpand" Padding="10" >
+                    <VerticalStackLayout >
+                        <Label
+                            Text="Intrinsic Value Weight"
+                            TextColor="#13294B"
+                            FontSize="Medium"
+                            HorizontalTextAlignment="Center"
+                            VerticalTextAlignment="Center" 
+                            BackgroundColor="Gainsboro"
+                            Padding="10"
+                            >
+                        </Label>
+                        <Entry BackgroundColor="GhostWhite"
+                               HorizontalTextAlignment="Center"
+                               VerticalTextAlignment="Start"
+                               FontSize="Small"
+                               HeightRequest="125"
+                               AutomationId="GeographyPreference"
+                               ClassId="GeographyPreference"
+                               IsPassword="False"
+                               class="GeographyPreference"
+                               >
+                            <Entry.Placeholder>
+                                <OnPlatform x:TypeArguments="x:String" Default="Enter preference here" >
+                                    <On Platform="Android" Value="Enter preference here" />
+                                    <On Platform="iOS" Value="Enter preference here" />
+                                </OnPlatform>
+                            </Entry.Placeholder>
+                        </Entry>
+                    </VerticalStackLayout>
+                    <VerticalStackLayout HorizontalOptions="FillAndExpand" >
+                        <Label
+                            Text="Comparable Value Weight"
+                            TextColor="#13294B"
+                            FontSize="Medium"
+                            HorizontalTextAlignment="Center"
+                            VerticalTextAlignment="Center" 
+                            BackgroundColor="Gainsboro"
+                            HorizontalOptions="FillAndExpand"
+                            Padding="10"
+                            >
+                        </Label>
+                        <Entry BackgroundColor="GhostWhite"
+                               HeightRequest="125"
+                               HorizontalTextAlignment="Center"
+                               VerticalTextAlignment="Start"
+                               FontSize="Small">
+                            <Entry.Placeholder>
+                                <OnPlatform x:TypeArguments="x:String" Default="Enter weight here" >
+                                    <On Platform="Android" Value="Enter weight here" />
+                                    <On Platform="iOS" Value="Enter weight here" />
+                                </OnPlatform>
+                            </Entry.Placeholder>
+                        </Entry>
+                    </VerticalStackLayout>
+                    <VerticalStackLayout HorizontalOptions="FillAndExpand">
+                        <Label
+                            Text="Multiple Value Weight"
+                            TextColor="#13294B"
+                            FontSize="Medium"
+                            HorizontalTextAlignment="Center"
+                            VerticalTextAlignment="Center" 
+                            BackgroundColor="Gainsboro"
+                            HorizontalOptions="FillAndExpand"
+                            Padding="10"
+                            >
+                        </Label>
+                        <Entry BackgroundColor="GhostWhite"
+                            HeightRequest="125"
+                            HorizontalTextAlignment="Center"
+                            VerticalTextAlignment="Start"
+                            FontSize="Small">
+                            <Entry.Placeholder>
+                                <OnPlatform x:TypeArguments="x:String" Default="Enter weight here" >
+                                    <On Platform="Android" Value="Enter weight here" />
+                                    <On Platform="iOS" Value="Enter weight here" />
+                                </OnPlatform>
+                            </Entry.Placeholder>
+                        </Entry>
+                    </VerticalStackLayout>
+                </HorizontalStackLayout>
+                <VerticalStackLayout Margin="10">
                     <Label
-                        Text="Growth Rate"
+                        Text="Geography Preference"
                         TextColor="#13294B"
                         FontSize="Medium"
                         HorizontalTextAlignment="Center"
                         VerticalTextAlignment="Center" 
-                        BackgroundColor="Gainsboro"
-                        HeightRequest="75" >
+                        BackgroundColor="Gainsboro" 
+                        Padding="10"
+                        >
                     </Label>
                     <Entry BackgroundColor="GhostWhite"
-                           HeightRequest="125"
-                           HorizontalTextAlignment="Center"
-                           VerticalTextAlignment="Start"
-                           FontSize="Small" >
-                        <Entry.Placeholder>
-                            <OnPlatform x:TypeArguments="x:String" Default="Enter growth rate here" > 
-                                <On Platform="Android" Value="Enter growth rate here" />
-                                <On Platform="iOS" Value="Enter growth rate here" />
-                            </OnPlatform>
-                        </Entry.Placeholder>
-                    </Entry>
-                </VerticalStackLayout>
-                <VerticalStackLayout Grid.Row="2"
-                                     Grid.Column="1">
-                    <Label
-                        Text="Discount Rate"
-                        TextColor="#13294B"
-                        FontSize="Medium"
                         HorizontalTextAlignment="Center"
-                        VerticalTextAlignment="Center" 
-                        BackgroundColor="Gainsboro"
-                        HeightRequest="75">
-                    </Label>
-                    <Entry BackgroundColor="GhostWhite"
-                           HeightRequest="125"
-                           HorizontalTextAlignment="Center"
-                           VerticalTextAlignment="Start"
-                           FontSize="Small">
+                        VerticalTextAlignment="Start"
+                        FontSize="Small"
+                        HeightRequest="125"
+                        AutomationId="GeographyPreference"
+                        ClassId="GeographyPreference"
+                        IsPassword="False"
+                        class="GeographyPreference"
+                        >
                         <Entry.Placeholder>
-                            <OnPlatform x:TypeArguments="x:String" Default="Enter discount rate here" >
-                                <On Platform="Android" Value="Enter discount rate here" />
-                                <On Platform="iOS" Value="Enter discount rate here" />
+                            <OnPlatform x:TypeArguments="x:String" Default="Enter preference here" >
+                                <On Platform="Android" Value="Enter preference here" />
+                                <On Platform="iOS" Value="Enter preference here" />
                             </OnPlatform>
                         </Entry.Placeholder>
                     </Entry>
                 </VerticalStackLayout>
-            </Grid>
+                <Button 
+                    Text="Submit"
+                    FontSize="Header"
+                    Margin="10"
+                    Clicked="SubmitButton_Clicked"
+                    >
+                </Button>
+            </VerticalStackLayout>
             <VerticalStackLayout
-            VerticalOptions="Center"
-            FlexLayout.Order="1"
-            FlexLayout.Grow="2"
-            FlexLayout.Shrink="0.1">
+                VerticalOptions="Center"
+                FlexLayout.Order="1"
+                FlexLayout.Grow="2"
+                FlexLayout.Shrink="0.1">
                 <Image
-                Source="logo_symbol.png"
-                SemanticProperties.Description="Quantum Capital main logo"
-                HeightRequest="350" />
+                    Source="logo_symbol.png"
+                    SemanticProperties.Description="Quantum Capital main logo"
+                    HeightRequest="350" />
                 <Image 
-                Source="qcfinal.png"
-                SemanticProperties.Description="Quantum Capital name logo"
-                HeightRequest="100" />
+                    Source="qcfinal.png"
+                    SemanticProperties.Description="Quantum Capital name logo"
+                    HeightRequest="100" />
+                <Label x:Name="ResultLabel"
+                       Text="{Binding CategoryPreference}"></Label>
             </VerticalStackLayout>
         </FlexLayout>
     </ScrollView>
