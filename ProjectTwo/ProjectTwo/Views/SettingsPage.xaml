@@ -50,15 +50,14 @@
                             >
                         </Label>
                         <Entry BackgroundColor="GhostWhite"
-                            HeightRequest="125"
-                            HorizontalTextAlignment="Center"
-                            VerticalTextAlignment="Start"
-                            FontSize="Small" 
-                            x:Name="GrowthRateEntry"
-                            AutomationId="GrowthRateEntry" 
-                            ClassId="GrowthRateEntry" 
-                            IsPassword="False" 
-                            class="GrowthRateEntry"
+                               HeightRequest="125"
+                               HorizontalTextAlignment="Center"
+                               VerticalTextAlignment="Start"
+                               FontSize="Small" 
+                               x:Name="GrowthRateEntry"
+                               IsPassword="False" 
+                               Keyboard="Numeric"
+                               Completed="OnGrowthRateEntryTextCompleted"
                             >
                             <Entry.Placeholder>
                                 <OnPlatform x:TypeArguments="x:String" Default="Enter growth rate here" > 
@@ -81,15 +80,17 @@
                             >
                         </Label>
                         <Entry BackgroundColor="GhostWhite"
-                            HeightRequest="125"
-                            HorizontalTextAlignment="Center"
-                            VerticalTextAlignment="Start"
-                            FontSize="Small" 
-                            AutomationId="DiscountRateEntry" 
-                            ClassId="DiscountRateEntry" 
-                            IsPassword="False" 
-                            class="DiscountRateEntry"
-                            x:Name="DiscountRateEntry"
+                               HeightRequest="125"
+                               HorizontalTextAlignment="Center"
+                               VerticalTextAlignment="Start"
+                               FontSize="Small" 
+                               AutomationId="DiscountRateEntry" 
+                               ClassId="DiscountRateEntry" 
+                               IsPassword="False" 
+                               class="DiscountRateEntry"
+                               x:Name="DiscountRateEntry"
+                               Keyboard="Numeric"
+                               Completed="OnDiscountRateEntryTextCompleted"
                             >
                             <Entry.Placeholder >
                                 <OnPlatform x:TypeArguments="x:String" Default="Enter discount rate here" >
@@ -119,10 +120,10 @@
                                FontSize="Small"
                                HeightRequest="125"
                                AutomationId="IntrinsicValueWeightEntry"
-                               ClassId="IntrinsicValueWeightEntry"
                                IsPassword="False"
-                               class="IntrinsicValueWeightEntry"
                                x:Name="IntrinsicValueWeightEntry"
+                               Keyboard="Numeric"
+                               Completed="OnIntrinsicValueWeightCompleted"
                                >
                             <Entry.Placeholder>
                                 <OnPlatform x:TypeArguments="x:String" Default="Enter weight here" >
@@ -145,15 +146,17 @@
                             >
                         </Label>
                         <Entry BackgroundColor="GhostWhite"
-                            HeightRequest="125"
-                            HorizontalTextAlignment="Center"
-                            VerticalTextAlignment="Start"
-                            FontSize="Small"
-                            x:Name="ComparableValueWeightEntry"
-                            AutomationId="ComparableValueWeightEntry"
-                            ClassId="ComparableValueWeightEntry"
-                            IsPassword="False"
-                            class="ComparableValueWeightEntry"
+                               HeightRequest="125"
+                               HorizontalTextAlignment="Center"
+                               VerticalTextAlignment="Start"
+                               FontSize="Small"
+                               x:Name="ComparableValueWeightEntry"
+                               AutomationId="ComparableValueWeightEntry"
+                               ClassId="ComparableValueWeightEntry"
+                               IsPassword="False"
+                               class="ComparableValueWeightEntry"
+                               Keyboard="Numeric"
+                               Completed="OnComparableValueWeightCompleted"
                             >
                             <Entry.Placeholder>
                                 <OnPlatform x:TypeArguments="x:String" Default="Enter weight here" >
@@ -165,7 +168,7 @@
                     </VerticalStackLayout>
                     <VerticalStackLayout HorizontalOptions="FillAndExpand">
                         <Label
-                            Text="Multiple Value Weight"
+                            Text="Factor Value Weight"
                             TextColor="#13294B"
                             FontSize="Medium"
                             HorizontalTextAlignment="Center"
@@ -176,15 +179,14 @@
                             >
                         </Label>
                         <Entry BackgroundColor="GhostWhite"
-                            HeightRequest="125"
-                            HorizontalTextAlignment="Center"
-                            VerticalTextAlignment="Start"
-                            FontSize="Small"
-                            AutomationId="MultipleValueWeightEntry"
-                            ClassId="MultipleValueWeightEntry"
-                            IsPassword="False"
-                            class="MultipleValueWeightEntry"
-                            x:Name="MultipleValueWeightEntry"
+                               HeightRequest="125"
+                               HorizontalTextAlignment="Center"
+                               VerticalTextAlignment="Start"
+                               FontSize="Small"
+                               IsPassword="False"
+                               x:Name="FactorValueWeightEntry"
+                               Keyboard="Numeric"
+                               Completed="OnFactorValueWeightCompleted"
                             >
                             <Entry.Placeholder>
                                 <OnPlatform x:TypeArguments="x:String" Default="Enter weight here" >
@@ -207,15 +209,17 @@
                         >
                     </Label>
                     <Entry BackgroundColor="GhostWhite"
-                        HorizontalTextAlignment="Center"
-                        VerticalTextAlignment="Start"
-                        FontSize="Small"
-                        HeightRequest="125"
-                        AutomationId="GeographyPreference"
-                        ClassId="GeographyPreference"
-                        IsPassword="False"
-                        class="GeographyPreference"
-                        x:Name="GeographyPreferenceEntry"
+                           HorizontalTextAlignment="Center"
+                           VerticalTextAlignment="Start"
+                           FontSize="Small"
+                           HeightRequest="125"
+                           AutomationId="GeographyPreference"
+                           ClassId="GeographyPreference"
+                           IsPassword="False"
+                           class="GeographyPreference"
+                           x:Name="GeographyPreferenceEntry"
+                           Completed="OnGeographyPreferenceCompleted"
+                           Keyboard="Numeric"
                         >
                         <Entry.Placeholder>
                             <OnPlatform x:TypeArguments="x:String" Default="Enter preference here" >

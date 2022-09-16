@@ -1,4 +1,5 @@
-﻿using ProjectTwo.Views;
+﻿using BusinessObjects;
+using ProjectTwo.Views;
 
 namespace ProjectTwo;
 
