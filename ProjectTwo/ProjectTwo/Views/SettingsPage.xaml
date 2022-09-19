@@ -58,6 +58,7 @@
                                IsPassword="False" 
                                Keyboard="Numeric"
                                Completed="OnGrowthRateEntryTextCompleted"
+                               TextColor="Black"
                             >
                             <Entry.Placeholder>
                                 <OnPlatform x:TypeArguments="x:String" Default="Enter growth rate here" > 
@@ -91,6 +92,7 @@
                                x:Name="DiscountRateEntry"
                                Keyboard="Numeric"
                                Completed="OnDiscountRateEntryTextCompleted"
+                               TextColor="Black"
                             >
                             <Entry.Placeholder >
                                 <OnPlatform x:TypeArguments="x:String" Default="Enter discount rate here" >
@@ -124,6 +126,7 @@
                                x:Name="IntrinsicValueWeightEntry"
                                Keyboard="Numeric"
                                Completed="OnIntrinsicValueWeightCompleted"
+                               TextColor="Black"
                                >
                             <Entry.Placeholder>
                                 <OnPlatform x:TypeArguments="x:String" Default="Enter weight here" >
@@ -157,6 +160,7 @@
                                class="ComparableValueWeightEntry"
                                Keyboard="Numeric"
                                Completed="OnComparableValueWeightCompleted"
+                               TextColor="Black"
                             >
                             <Entry.Placeholder>
                                 <OnPlatform x:TypeArguments="x:String" Default="Enter weight here" >
@@ -187,6 +191,7 @@
                                x:Name="FactorValueWeightEntry"
                                Keyboard="Numeric"
                                Completed="OnFactorValueWeightCompleted"
+                               TextColor="Black"
                             >
                             <Entry.Placeholder>
                                 <OnPlatform x:TypeArguments="x:String" Default="Enter weight here" >
@@ -220,6 +225,7 @@
                            x:Name="GeographyPreferenceEntry"
                            Completed="OnGeographyPreferenceCompleted"
                            Keyboard="Numeric"
+                           TextColor="Black"
                         >
                         <Entry.Placeholder>
                             <OnPlatform x:TypeArguments="x:String" Default="Enter preference here" >

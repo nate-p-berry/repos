@@ -17,16 +17,16 @@ public partial class SettingsPage : ContentPage
             WeightFactorModel = 0.334m
         };
 
-        currentUser.CategoryPreference = "business";
+/*        currentUser.CategoryPreference = "business";
         GrowthRateEntry.BindingContext = currentUser.GrowthRateExpectation;
         DiscountRateEntry.BindingContext = currentUser.DiscountRateExpectation;
         IntrinsicValueWeightEntry.BindingContext = currentUser.WeightDiscountedCashFlow;
         ComparableValueWeightEntry.BindingContext = currentUser.WeightComparable;
         FactorValueWeightEntry.BindingContext = currentUser.WeightFactorModel;
-        GeographyPreferenceEntry.BindingContext = currentUser.CountryPreference;
+        GeographyPreferenceEntry.BindingContext = currentUser.CountryPreference;*/
         InitializeComponent();
     }
-
+    
     private void SubmitButton_Clicked(object sender, EventArgs e)
 	{
         MessagingCenter.Send(this, $"Settings Saved!\n" +

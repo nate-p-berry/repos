@@ -6,8 +6,9 @@
              Title="The future of investing"
              >
     <ScrollView FlowDirection="LeftToRight"
-                MinimumHeightRequest="1000"
-                HorizontalOptions="Center">
+                HorizontalOptions="Center" >
+        <!--MinimumHeightRequest="1000"-->
+                
     <FlexLayout Direction="Row"
                 Wrap="Wrap"
                 Padding="30"
